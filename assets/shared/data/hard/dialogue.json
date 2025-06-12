@@ -1,0 +1,530 @@
+{
+	"dialogue": [
+		{
+			"sound": "lem",
+			"speed": 0.05,
+			"boximage": "lem",
+			"portrait": "lem",
+			"image": "cutscenes/sen/week30001",
+			"expression": "questioning",
+			"text": "Hey... Sen? Are you sure you know where we're going?",
+			"textColor": "7d2222"
+		},
+		{
+			"sound": "sen",
+			"speed": 0.05,
+			"boximage": "sen",
+			"portrait": "sen",
+			"image": "cutscenes/sen/week30001",
+			"expression": "happy",
+			"text": "Why of course! I mean we only passed that stoplight twice about 2 minutes ago, we must be close!",
+			"textColor": "C86762"
+		},
+		{
+			"sound": "lem",
+			"speed": 0.05,
+			"boximage": "lem",
+			"portrait": "lem",
+			"image": "cutscenes/sen/week30001",
+			"expression": "awkward",
+			"text": "...",
+			"textColor": "7d2222"
+		},
+		{
+			"sound": "lem",
+			"speed": 0.05,
+			"boximage": "lem",
+			"portrait": "lem",
+			"image": "cutscenes/sen/week30001",
+			"expression": "shrug",
+			"text": "Well, if you say so... But, it wouldn't hurt to-y'know- ask for some directions?",
+			"textColor": "7d2222"
+		},
+		{
+			"sound": "sen",
+			"speed": 0.05,
+			"boximage": "sen",
+			"portrait": "sen",
+			"image": "cutscenes/sen/week30001",
+			"expression": "wonder",
+			"text": "Hmm good point. I'm sure the residents are friendly enough to share a shorter route.",
+			"textColor": "C86762"
+		},
+		{
+			"sound": "sen",
+			"speed": 0.05,
+			"boximage": "sen",
+			"portrait": "sen",
+			"image": "cutscenes/sen/week30001",
+			"expression": "normal",
+			"text": "I'll go ask that man over there n see if he can help!",
+			"textColor": "C86762"
+		},
+		{
+			"sound": "sen",
+			"speed": 0.05,
+			"boximage": "sen",
+			"portrait": "sen",
+			"image": "cutscenes/sen/week30001",
+			"expression": "happy",
+			"text": "Ahem, pardon me good sir-",
+			"textColor": "C86762"
+		},
+		{
+			"sound": "clan",
+			"speed": 0.05,
+			"boximage": "clan",
+			"portrait": "clan",
+			"image": "cutscenes/sen/week30001",
+			"expression": "default",
+			"text": "Stuff it sparkle-top.",
+			"textColor": "4d3432"
+		},
+		{
+			"sound": "sen",
+			"speed": 0.05,
+			"boximage": "sen",
+			"portrait": "sen",
+			"image": "cutscenes/sen/week30001",
+			"expression": "concern",
+			"text": "Well that was rude...",
+			"textColor": "C86762"
+		},
+		{
+			"sound": "clan",
+			"speed": 0.05,
+			"boximage": "clan",
+			"portrait": "clan",
+			"image": "cutscenes/sen/week30001",
+			"expression": "default",
+			"text": "You obviously need to be informed on whose turf you're steppin' on.",
+			"textColor": "4d3432"
+		},
+		{
+			"sound": "sen",
+			"speed": 0.05,
+			"boximage": "sen",
+			"portrait": "sen",
+			"image": "cutscenes/sen/week30001",
+			"expression": "cat",
+			"text": "Aha ha... is that why those guys are here?",
+			"textColor": "C86762"
+		},
+		{
+			"sound": "lem",
+			"speed": 0.07,
+			"boximage": "lem",
+			"portrait": "lem",
+			"image": "cutscenes/sen/week30002",
+			"expression": "whisper",
+			"text": "Sen I don't think these residents are friendly",
+			"textColor": "7d2222"
+		},
+		{
+			"sound": "clan",
+			"speed": 0.05,
+			"boximage": "clan",
+			"portrait": "clan",
+			"image": "cutscenes/sen/week30003",
+			"expression": "shove",
+			"text": "Can it, freak.",
+			"textColor": "734B4B"
+		},
+		{
+			"sound": "sen",
+			"speed": 0.05,
+			"boximage": "sen",
+			"portrait": "sen",
+			"image": "cutscenes/sen/week30003",
+			"expression": "LMFAO",
+			"text": "FUCK OFF YOU FILTHY WORM.",
+			"textColor": "C86762"
+		},
+		{
+			"sound": "sen",
+			"speed": 0.05,
+			"boximage": "sen",
+			"portrait": "sen",
+			"image": "cutscenes/sen/week30003",
+			"expression": "pissed",
+			"text": "... Do whatever you want with me, but if you touch her again I swear I'll-",
+			"textColor": "C86762"
+		},
+		{
+			"speed": 0.05,
+			"boximage": "silhouette",
+			"portrait": "cap",
+			"image": "cutscenes/sen/week30003",
+			"expression": "default",
+			"text": "Still with that savior act after all these years huh?",
+			"textColor": "000000"
+		},
+		{
+			"sound": "sen",
+			"speed": 0.05,
+			"boximage": "sen",
+			"portrait": "sen",
+			"image": "cutscenes/sen/week30003",
+			"expression": "uhoh",
+			"text": "Huh-?",
+			"textColor": "C86762"
+		},
+		{
+			"sound": "sen",
+			"speed": 0.05,
+			"boximage": "sen",
+			"portrait": "sen",
+			"image": "cutscenes/sen/week30004",
+			"expression": "mad",
+			"text": "What vile scoundrel dares to-!?",
+			"textColor": "C86762"
+		},
+		{
+			"speed": 0.05,
+			"boximage": "silhouette",
+			"portrait": "cap",
+			"image": "cutscenes/sen/week30004",
+			"expression": "default",
+			"text": "Come on, you know that's not how 'gentlemen' talk to their old friends.",
+			"textColor": "000000"
+		},
+		{
+			"sound": "sen",
+			"speed": 0.05,
+			"boximage": "sen",
+			"portrait": "sen",
+			"image": "cutscenes/sen/week30004",
+			"expression": "pissed",
+			"text": "Old friend? What kind of mockery is thi-",
+			"textColor": "C86762"
+		},
+		{
+			"sound": "sen",
+			"speed": 0.09,
+			"boximage": "sen",
+			"portrait": "sen",
+			"image": "cutscenes/sen/week30004",
+			"expression": "disbelief",
+			"text": "s...",
+			"textColor": "C86762"
+		},
+		{
+			"sound": "cap",
+			"speed": 0.05,
+			"boximage": "cap",
+			"portrait": "cap",
+			"image": "cutscenes/sen/week30004",
+			"expression": "default",
+			"text": "Heh, can't even speak. That's the first.",
+			"textColor": "573937"
+		},
+		{
+			"sound": "sen",
+			"speed": 0.05,
+			"boximage": "sen",
+			"portrait": "sen",
+			"image": "cutscenes/sen/week30004",
+			"expression": "soft",
+			"text": "...",
+			"textColor": "C86762"
+		},
+		{
+			"sound": "sen",
+			"speed": 0.05,
+			"boximage": "sen",
+			"portrait": "sen",
+			"image": "cutscenes/sen/week30004",
+			"expression": "dismay",
+			"text": "John?",
+			"textColor": "C86762"
+		},
+		{
+			"sound": "cap",
+			"speed": 0.05,
+			"boximage": "cap",
+			"portrait": "cap",
+			"image": "cutscenes/sen/week30004",
+			"expression": "nuetral",
+			"text": "Can it. I don't remember telling you to speak.",
+			"textColor": "573937"
+		},
+		{
+			"sound": "cap",
+			"speed": 0.05,
+			"boximage": "cap",
+			"portrait": "cap",
+			"image": "cutscenes/sen/week30004",
+			"expression": "nuetral",
+			"text": "And low-ranks like you call me Captain, got that?",
+			"textColor": "573937"
+		},
+		{
+			"sound": "lem",
+			"speed": 0.05,
+			"boximage": "lem",
+			"portrait": "lem",
+			"image": "cutscenes/sen/week30004",
+			"expression": "questioning",
+			"text": "You know this guy, Senny?",
+			"textColor": "7d2222"
+		},
+		{
+			"sound": "sen",
+			"speed": 0.05,
+			"boximage": "sen",
+			"portrait": "sen",
+			"image": "cutscenes/sen/week30004",
+			"expression": "traumatized",
+			"text": "",
+			"textColor": "C86762"
+		},
+		{
+			"sound": "sen",
+			"speed": 0.05,
+			"boximage": "sen",
+			"portrait": "sen",
+			"image": "cutscenes/sen/week30004",
+			"expression": "dismay",
+			"text": "I thought you died.",
+			"textColor": "C86762"
+		},
+		{
+			"sound": "cap",
+			"speed": 0.05,
+			"boximage": "cap",
+			"portrait": "cap",
+			"image": "cutscenes/sen/week30004",
+			"expression": "confuse",
+			"text": "...Died?",
+			"textColor": "573937"
+		},
+		{
+			"sound": "cap",
+			"speed": 0.05,
+			"boximage": "cap",
+			"portrait": "cap",
+			"image": "cutscenes/sen/week30004",
+			"expression": "mad",
+			"text": "DIED?",
+			"textColor": "573937"
+		},
+		{
+			"sound": "cap",
+			"speed": 0.05,
+			"boximage": "cap",
+			"portrait": "cap",
+			"image": "cutscenes/sen/week30004",
+			"expression": "insane",
+			"text": "Ha! You really think I'm that weak, Princey? ",
+			"textColor": "573937"
+		},
+		{
+			"sound": "sen",
+			"speed": 0.05,
+			"boximage": "sen",
+			"portrait": "sen",
+			"image": "cutscenes/sen/week30004",
+			"expression": "offguard",
+			"text": "Wait no! I didn't mean it like that I- never said-",
+			"textColor": "C86762"
+		},
+		{
+			"sound": "cap",
+			"speed": 0.05,
+			"boximage": "cap",
+			"portrait": "cap",
+			"image": "cutscenes/sen/week30004",
+			"expression": "doubt",
+			"text": "Please.",
+			"textColor": "573937"
+		},
+		{
+			"sound": "cap",
+			"speed": 0.05,
+			"boximage": "cap",
+			"portrait": "cap",
+			"image": "cutscenes/sen/week30004",
+			"expression": "mad",
+			"text": "Come here and mock me? Well guess what?",
+			"textColor": "573937"
+		},
+		{
+			"sound": "cap",
+			"speed": 0.05,
+			"boximage": "cap",
+			"portrait": "cap",
+			"image": "cutscenes/sen/week30004",
+			"expression": "pissed",
+			"text": "you're in OUR territory now, got that?",
+			"textColor": "573937"
+		},
+		{
+			"sound": "cap",
+			"speed": 0.05,
+			"boximage": "cap",
+			"portrait": "cap",
+			"image": "cutscenes/sen/week30004",
+			"expression": "insane",
+			"text": "'N we all have a set of rules down here. Anyone who's dumb enough to break em'? Well...",
+			"textColor": "573937"
+		},
+		{
+			"sound": "cap",
+			"speed": 0.05,
+			"boximage": "cap",
+			"portrait": "cap",
+			"image": "cutscenes/sen/week30004",
+			"expression": "insane",
+			"text": "Remind me- What's the penalty for trespassing, again, men?",
+			"textColor": "573937"
+		},
+		{
+			"speed": 0.05,
+			"boximage": "clan",
+			"portrait": "clan",
+			"image": "cutscenes/sen/week30004",
+			"expression": "trio",
+			"text": "DEATH!",
+			"textColor": "734B4B"
+		},
+		{
+			"sound": "sen",
+			"speed": 0.05,
+			"boximage": "sen",
+			"portrait": "sen",
+			"image": "cutscenes/sen/week30004",
+			"expression": "shocked",
+			"text": "D-death!?",
+			"textColor": "C86762"
+		},
+		{
+			"sound": "lem",
+			"speed": 0.05,
+			"boximage": "lem",
+			"portrait": "lem",
+			"image": "cutscenes/sen/week30004",
+			"expression": "bruh",
+			"text": "That seems a bit overkill, doesn't it?",
+			"textColor": "7d2222"
+		},
+		{
+			"sound": "sen",
+			"speed": 0.05,
+			"boximage": "sen",
+			"portrait": "sen",
+			"image": "cutscenes/sen/week30004",
+			"expression": "soft",
+			"text": "Quite literally at that point, yes.",
+			"textColor": "C86762"
+		},
+		{
+			"sound": "cap",
+			"speed": 0.05,
+			"boximage": "cap",
+			"portrait": "cap",
+			"expression": "nuetral",
+			"text": "Ugh fine. Since you two are too damn stupid to know any better, I MIGHT let you off the hook.",
+			"textColor": "573937"
+		},
+		{
+			"sound": "cap",
+			"speed": 0.05,
+			"boximage": "cap",
+			"portrait": "cap",
+			"expression": "default",
+			"text": "That a mic in your pocket?",
+			"textColor": "573937"
+		},
+		{
+			"sound": "sen",
+			"speed": 0.05,
+			"boximage": "sen",
+			"portrait": "sen",
+			"expression": "happy",
+			"text": "Oh- yeah! Dunno how that got there hehe.",
+			"textColor": "C86762"
+		},
+		{
+			"sound": "cap",
+			"speed": 0.05,
+			"boximage": "cap",
+			"portrait": "cap",
+			"expression": "default",
+			"text": "Alright then! 'Months been dull so here's the deal. You two can go, no strings attached.",
+			"textColor": "573937"
+		},
+		{
+			"sound": "cap",
+			"speed": 0.05,
+			"boximage": "cap",
+			"portrait": "cap",
+			"expression": "default",
+			"text": "IF you're man enough to beat me in a rap battle.",
+			"textColor": "573937"
+		},
+		{
+			"sound": "sen",
+			"speed": 0.05,
+			"boximage": "sen",
+			"portrait": "sen",
+			"expression": "happy",
+			"text": "Oh? (we're doing this?)  Yeah alright- Of course- Sure- Let's do it! Lets-",
+			"textColor": "C86762"
+		},
+		{
+			"sound": "cap",
+			"speed": 0.05,
+			"boximage": "cap",
+			"portrait": "cap",
+			"expression": "doubt",
+			"text": "Yeah yeah, and just to make sure you don't try anything funny,",
+			"textColor": "573937"
+		},
+		{
+			"sound": "cap",
+			"speed": 0.05,
+			"boximage": "cap",
+			"portrait": "cap",
+			"expression": "insane",
+			"text": "I got a lil' something in my pants for ya-",
+			"textColor": "573937"
+		},
+		{
+			"sound": "sen",
+			"speed": 0.05,
+			"boximage": "sen",
+			"portrait": "sen",
+			"expression": "flustered",
+			"text": "WOAH WOAH WOAH WAIT WAIT WAI-",
+			"textColor": "C86762"
+		},
+		{
+			"sound": "cap",
+			"speed": 0.05,
+			"boximage": "cap",
+			"portrait": "cap",
+			"expression": "gun",
+			"text": "?",
+			"textColor": "573937"
+		},
+		{
+			"sound": "sen",
+			"speed": 0.05,
+			"boximage": "sen",
+			"portrait": "sen",
+			"expression": "hehe",
+			"text": "Oh- hahaha a gun... of course",
+			"textColor": "C86762"
+		},
+		{
+			"sound": "lem",
+			"speed": 0.05,
+			"boximage": "lem",
+			"portrait": "lem",
+			"expression": "questioning",
+			"text": "THAT'S STILL CONCERNING??????????",
+			"textColor": "7d2222"
+		}
+
+	]
+}

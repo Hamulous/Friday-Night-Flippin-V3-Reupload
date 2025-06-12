@@ -1,0 +1,232 @@
+{
+	"dialogue_pos": "right",
+	"position": [
+		-150,
+		150
+	],
+	"scale": 1.25,
+	"animations": [
+		{
+			"idle_offsets": [
+				0,
+				0
+			],
+			"anim": "awkward",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_name": "lemon awkward port ",
+			"loop_name": "lemon awkward port "
+		},
+		{
+			"idle_offsets": [
+				0,
+				0
+			],
+			"anim": "blushy",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_name": "lemon blushy port",
+			"loop_name": "lemon blushy port"
+		},
+		{
+			"idle_offsets": [
+				0,
+				0
+			],
+			"anim": "bruh",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_name": "lemon bruh port",
+			"loop_name": "lemon bruh port"
+		},
+		{
+			"idle_offsets": [
+				0,
+				0
+			],
+			"anim": "confident",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_name": "lemon confident port",
+			"loop_name": "lemon confident port"
+		},
+		{
+			"idle_offsets": [
+				0,
+				-50
+			],
+			"anim": "embarassed",
+			"loop_offsets": [
+				0,
+				-50
+			],
+			"idle_name": "lemon embarassed port",
+			"loop_name": "lemon embarassed port"
+		},
+		{
+			"idle_offsets": [
+				0,
+				0
+			],
+			"anim": "flustered",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_name": "lemon flustered port ",
+			"loop_name": "lemon flustered port "
+		},
+		{
+			"idle_offsets": [
+				0,
+				0
+			],
+			"anim": "happy",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_name": "lemon happy port ",
+			"loop_name": "lemon happy port "
+		},
+		{
+			"idle_offsets": [
+				-10,
+				-20
+			],
+			"anim": "loving",
+			"loop_offsets": [
+				-10,
+				-20
+			],
+			"idle_name": "lemon loving port",
+			"loop_name": "lemon loving port"
+		},
+		{
+			"idle_offsets": [
+				20,
+				0
+			],
+			"anim": "mad",
+			"loop_offsets": [
+				20,
+				0
+			],
+			"idle_name": "lemon mad port ",
+			"loop_name": "lemon mad port "
+		},
+		{
+			"idle_offsets": [
+				0,
+				0
+			],
+			"anim": "normal",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_name": "lemon normal port",
+			"loop_name": "lemon normal port"
+		},
+		{
+			"idle_offsets": [
+				0,
+				0
+			],
+			"anim": "pissed",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_name": "lemon pissed port",
+			"loop_name": "lemon pissed port"
+		},
+		{
+			"idle_offsets": [
+				0,
+				0
+			],
+			"anim": "questioning",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_name": "lemon questioning port",
+			"loop_name": "lemon questioning port"
+		},
+		{
+			"idle_offsets": [
+				0,
+				0
+			],
+			"anim": "regret",
+			"loop_offsets": [
+				0,
+				-1
+			],
+			"idle_name": "lemon regret port ",
+			"loop_name": "lemon regret port "
+		},
+		{
+			"idle_offsets": [
+				0,
+				0
+			],
+			"anim": "sad",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_name": "lemon sad port ",
+			"loop_name": "lemon sad port "
+		},
+		{
+			"idle_offsets": [
+				0,
+				0
+			],
+			"anim": "sass",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_name": "lemon sass port ",
+			"loop_name": "lemon sass port "
+		},
+		{
+			"idle_offsets": [
+				20,
+				-10
+			],
+			"anim": "shrug",
+			"loop_offsets": [
+				20,
+				-10
+			],
+			"idle_name": "lemon shrug port",
+			"loop_name": "lemon shrug port"
+		},
+		{
+			"idle_offsets": [
+				10,
+				-10
+			],
+			"anim": "star",
+			"loop_offsets": [
+				10,
+				-10
+			],
+			"idle_name": "lemon star port",
+			"loop_name": "lemon star port"
+		}
+	],
+	"image": "portraits/lem/ports"
+}

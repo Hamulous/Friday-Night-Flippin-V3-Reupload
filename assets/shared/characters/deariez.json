@@ -1,0 +1,151 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-117,
+				3
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "note sing left d"
+		},
+		{
+			"offsets": [
+				-126,
+				-23
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "deariez sing right d"
+		},
+		{
+			"offsets": [
+				-95,
+				-36
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "deariez DOWN note d"
+		},
+		{
+			"offsets": [
+				-81,
+				2
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "deariez UP NOTE d"
+		},
+		{
+			"offsets": [
+				-16,
+				-32
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT-alt",
+			"indices": [],
+			"name": "note sing left m"
+		},
+		{
+			"offsets": [
+				-126,
+				-22
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT-alt",
+			"indices": [],
+			"name": "deariez sing right m"
+		},
+		{
+			"offsets": [
+				-96,
+				-36
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN-alt",
+			"indices": [],
+			"name": "deariez DOWN note m"
+		},
+		{
+			"offsets": [
+				-91,
+				-10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP-alt",
+			"indices": [],
+			"name": "deariez UP NOTE m"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "danceLeft",
+			"fps": 24,
+			"name": "deariez dance idle",
+			"indices": [
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "danceRight",
+			"fps": 24,
+			"name": "deariez dance idle",
+			"indices": [
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15,
+				16
+			]
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/deariez_assets",
+	"position": [
+		-30,
+		310
+	],
+	"healthicon": "deariez",
+	"flip_x": false,
+	"healthbar_colors": [
+		205,
+		148,
+		248
+	],
+	"camera_position": [
+		50,
+		10
+	],
+	"sing_duration": 4,
+	"scale": 1.1
+}

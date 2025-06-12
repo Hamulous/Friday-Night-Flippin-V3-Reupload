@@ -1,0 +1,123 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Skid_Evil_Assets.png">
+	<!-- Created with Adobe Animate version 20.5.0.29329 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="fucking skid scythe swing0000" x="20" y="20" width="806" height="686" frameX="0" frameY="-137" frameWidth="1366" frameHeight="825"/>
+	<SubTexture name="fucking skid scythe swing0001" x="20" y="20" width="806" height="686" frameX="0" frameY="-137" frameWidth="1366" frameHeight="825"/>
+	<SubTexture name="fucking skid scythe swing0002" x="846" y="20" width="762" height="678" frameX="-135" frameY="-145" frameWidth="1366" frameHeight="825"/>
+	<SubTexture name="fucking skid scythe swing0003" x="1628" y="20" width="1138" height="750" frameX="-228" frameY="-73" frameWidth="1366" frameHeight="825"/>
+	<SubTexture name="fucking skid scythe swing0004" x="2786" y="20" width="639" height="772" frameX="-235" frameY="-53" frameWidth="1366" frameHeight="825"/>
+	<SubTexture name="fucking skid scythe swing0005" x="3445" y="20" width="596" height="770" frameX="-235" frameY="-55" frameWidth="1366" frameHeight="825"/>
+	<SubTexture name="fucking skid scythe swing0006" x="4061" y="20" width="606" height="825" frameX="-235" frameY="0" frameWidth="1366" frameHeight="825"/>
+	<SubTexture name="fucking skid scythe swing0007" x="4687" y="20" width="579" height="770" frameX="-235" frameY="-55" frameWidth="1366" frameHeight="825"/>
+	<SubTexture name="fucking skid scythe swing0008" x="5286" y="20" width="579" height="770" frameX="-235" frameY="-55" frameWidth="1366" frameHeight="825"/>
+	<SubTexture name="fucking skid scythe swing0009" x="5885" y="20" width="579" height="772" frameX="-235" frameY="-53" frameWidth="1366" frameHeight="825"/>
+	<SubTexture name="fucking skid scythe swing0010" x="6484" y="20" width="579" height="772" frameX="-235" frameY="-53" frameWidth="1366" frameHeight="825"/>
+	<SubTexture name="fucking skid scythe swing0011" x="7083" y="20" width="579" height="772" frameX="-235" frameY="-53" frameWidth="1366" frameHeight="825"/>
+	<SubTexture name="fucking skid scythe swing0012" x="20" y="865" width="579" height="772" frameX="-235" frameY="-53" frameWidth="1366" frameHeight="825"/>
+	<SubTexture name="fucking skid scythe swing0013" x="20" y="865" width="579" height="772" frameX="-235" frameY="-53" frameWidth="1366" frameHeight="825"/>
+	<SubTexture name="fucking skid scythe swing0014" x="619" y="865" width="579" height="772" frameX="-235" frameY="-53" frameWidth="1366" frameHeight="825"/>
+	<SubTexture name="fucking skid scythe swing0015" x="619" y="865" width="579" height="772" frameX="-235" frameY="-53" frameWidth="1366" frameHeight="825"/>
+	<SubTexture name="fucking skid scythe swing0016" x="1218" y="865" width="579" height="772" frameX="-235" frameY="-53" frameWidth="1366" frameHeight="825"/>
+	<SubTexture name="fucking skid scythe swing0017" x="1218" y="865" width="579" height="772" frameX="-235" frameY="-53" frameWidth="1366" frameHeight="825"/>
+	<SubTexture name="fucking skid scythe swing0018" x="1817" y="865" width="579" height="772" frameX="-235" frameY="-53" frameWidth="1366" frameHeight="825"/>
+	<SubTexture name="fucking skid scythe swing0019" x="1817" y="865" width="579" height="772" frameX="-235" frameY="-53" frameWidth="1366" frameHeight="825"/>
+	<SubTexture name="fucking skid scythe swing0020" x="2416" y="865" width="579" height="772" frameX="-235" frameY="-53" frameWidth="1366" frameHeight="825"/>
+	<SubTexture name="fucking skid scythe swing0021" x="2416" y="865" width="579" height="772" frameX="-235" frameY="-53" frameWidth="1366" frameHeight="825"/>
+	<SubTexture name="fucking skid scythe swing0022" x="3015" y="865" width="579" height="772" frameX="-235" frameY="-53" frameWidth="1366" frameHeight="825"/>
+	<SubTexture name="fucking skid scythe swing0023" x="3015" y="865" width="579" height="772" frameX="-235" frameY="-53" frameWidth="1366" frameHeight="825"/>
+	<SubTexture name="fucking skid scythe swing0024" x="3614" y="865" width="579" height="772" frameX="-235" frameY="-53" frameWidth="1366" frameHeight="825"/>
+	<SubTexture name="fucking skid scythe swing0025" x="3614" y="865" width="579" height="772" frameX="-235" frameY="-53" frameWidth="1366" frameHeight="825"/>
+	<SubTexture name="fucking skid scythe swing0026" x="4213" y="865" width="579" height="772" frameX="-235" frameY="-53" frameWidth="1366" frameHeight="825"/>
+	<SubTexture name="fucking skid scythe swing0027" x="4213" y="865" width="579" height="772" frameX="-235" frameY="-53" frameWidth="1366" frameHeight="825"/>
+	<SubTexture name="fucking skid scythe swing0028" x="4812" y="865" width="579" height="772" frameX="-235" frameY="-53" frameWidth="1366" frameHeight="825"/>
+	<SubTexture name="fucking skid scythe swing0029" x="4812" y="865" width="579" height="772" frameX="-235" frameY="-53" frameWidth="1366" frameHeight="825"/>
+	<SubTexture name="fucking skid scythe swing0030" x="5411" y="865" width="579" height="772" frameX="-235" frameY="-53" frameWidth="1366" frameHeight="825"/>
+	<SubTexture name="skid idle dance0000" x="6010" y="865" width="720" height="733" frameX="0" frameY="-27" frameWidth="720" frameHeight="760"/>
+	<SubTexture name="skid idle dance0001" x="6750" y="865" width="720" height="733" frameX="0" frameY="-27" frameWidth="720" frameHeight="760"/>
+	<SubTexture name="skid idle dance0002" x="20" y="1657" width="704" height="735" frameX="0" frameY="-25" frameWidth="720" frameHeight="760"/>
+	<SubTexture name="skid idle dance0003" x="744" y="1657" width="704" height="735" frameX="0" frameY="-25" frameWidth="720" frameHeight="760"/>
+	<SubTexture name="skid idle dance0004" x="1468" y="1657" width="703" height="742" frameX="0" frameY="-18" frameWidth="720" frameHeight="760"/>
+	<SubTexture name="skid idle dance0005" x="2191" y="1657" width="703" height="742" frameX="0" frameY="-18" frameWidth="720" frameHeight="760"/>
+	<SubTexture name="skid idle dance0006" x="2914" y="1657" width="703" height="760" frameX="0" frameY="0" frameWidth="720" frameHeight="760"/>
+	<SubTexture name="skid idle dance0007" x="3637" y="1657" width="703" height="760" frameX="0" frameY="0" frameWidth="720" frameHeight="760"/>
+	<SubTexture name="skid idle dance0008" x="4360" y="1657" width="703" height="729" frameX="0" frameY="-31" frameWidth="720" frameHeight="760"/>
+	<SubTexture name="skid idle dance0009" x="5083" y="1657" width="703" height="729" frameX="0" frameY="-31" frameWidth="720" frameHeight="760"/>
+	<SubTexture name="skid idle dance0010" x="5806" y="1657" width="703" height="741" frameX="0" frameY="-19" frameWidth="720" frameHeight="760"/>
+	<SubTexture name="skid idle dance0011" x="6529" y="1657" width="703" height="741" frameX="0" frameY="-19" frameWidth="720" frameHeight="760"/>
+	<SubTexture name="skid idle dance0012" x="7252" y="1657" width="703" height="731" frameX="0" frameY="-29" frameWidth="720" frameHeight="760"/>
+	<SubTexture name="skid idle dance0013" x="20" y="2437" width="703" height="731" frameX="0" frameY="-29" frameWidth="720" frameHeight="760"/>
+	<SubTexture name="skid idle dance0014" x="743" y="2437" width="703" height="734" frameX="0" frameY="-26" frameWidth="720" frameHeight="760"/>
+	<SubTexture name="skid sing down0000" x="1466" y="2437" width="663" height="496" frameX="-9" frameY="-20" frameWidth="684" frameHeight="516"/>
+	<SubTexture name="skid sing down0001" x="2149" y="2437" width="663" height="496" frameX="-9" frameY="-20" frameWidth="684" frameHeight="516"/>
+	<SubTexture name="skid sing down0002" x="2832" y="2437" width="678" height="486" frameX="-6" frameY="-16" frameWidth="684" frameHeight="516"/>
+	<SubTexture name="skid sing down0003" x="3530" y="2437" width="678" height="486" frameX="-6" frameY="-16" frameWidth="684" frameHeight="516"/>
+	<SubTexture name="skid sing down0004" x="4228" y="2437" width="676" height="483" frameX="-1" frameY="-19" frameWidth="684" frameHeight="516"/>
+	<SubTexture name="skid sing down0005" x="4924" y="2437" width="676" height="483" frameX="-1" frameY="-19" frameWidth="684" frameHeight="516"/>
+	<SubTexture name="skid sing down0006" x="5620" y="2437" width="676" height="484" frameX="-1" frameY="-18" frameWidth="684" frameHeight="516"/>
+	<SubTexture name="skid sing down0007" x="6316" y="2437" width="676" height="484" frameX="-1" frameY="-18" frameWidth="684" frameHeight="516"/>
+	<SubTexture name="skid sing down0008" x="7012" y="2437" width="676" height="483" frameX="-1" frameY="-19" frameWidth="684" frameHeight="516"/>
+	<SubTexture name="skid sing down0009" x="20" y="3191" width="676" height="483" frameX="-1" frameY="-19" frameWidth="684" frameHeight="516"/>
+	<SubTexture name="skid sing down0010" x="716" y="3191" width="676" height="502" frameX="-1" frameY="0" frameWidth="684" frameHeight="516"/>
+	<SubTexture name="skid sing down0011" x="1412" y="3191" width="676" height="502" frameX="-1" frameY="0" frameWidth="684" frameHeight="516"/>
+	<SubTexture name="skid sing down0012" x="2108" y="3191" width="676" height="477" frameX="-1" frameY="-25" frameWidth="684" frameHeight="516"/>
+	<SubTexture name="skid sing down0013" x="2804" y="3191" width="676" height="477" frameX="-1" frameY="-25" frameWidth="684" frameHeight="516"/>
+	<SubTexture name="skid sing down0014" x="3500" y="3191" width="676" height="493" frameX="-1" frameY="-9" frameWidth="684" frameHeight="516"/>
+	<SubTexture name="skid sing down0015" x="4196" y="3191" width="676" height="493" frameX="-1" frameY="-9" frameWidth="684" frameHeight="516"/>
+	<SubTexture name="skid sing down0016" x="4892" y="3191" width="677" height="481" frameX="0" frameY="-21" frameWidth="684" frameHeight="516"/>
+	<SubTexture name="skid sing down0017" x="5589" y="3191" width="677" height="481" frameX="0" frameY="-21" frameWidth="684" frameHeight="516"/>
+	<SubTexture name="skid sing left0000" x="6286" y="3191" width="698" height="637" frameX="-1" frameY="-31" frameWidth="700" frameHeight="683"/>
+	<SubTexture name="skid sing left0001" x="7004" y="3191" width="698" height="637" frameX="-1" frameY="-31" frameWidth="700" frameHeight="683"/>
+	<SubTexture name="skid sing left0002" x="20" y="3848" width="700" height="670" frameX="0" frameY="-13" frameWidth="700" frameHeight="683"/>
+	<SubTexture name="skid sing left0003" x="740" y="3848" width="700" height="670" frameX="0" frameY="-13" frameWidth="700" frameHeight="683"/>
+	<SubTexture name="skid sing left0004" x="1460" y="3848" width="699" height="650" frameX="-1" frameY="-18" frameWidth="700" frameHeight="683"/>
+	<SubTexture name="skid sing left0005" x="2179" y="3848" width="698" height="650" frameX="-2" frameY="-18" frameWidth="700" frameHeight="683"/>
+	<SubTexture name="skid sing left0006" x="2897" y="3848" width="698" height="651" frameX="-2" frameY="-17" frameWidth="700" frameHeight="683"/>
+	<SubTexture name="skid sing left0007" x="3615" y="3848" width="698" height="651" frameX="-2" frameY="-17" frameWidth="700" frameHeight="683"/>
+	<SubTexture name="skid sing left0008" x="4333" y="3848" width="698" height="650" frameX="-2" frameY="-18" frameWidth="700" frameHeight="683"/>
+	<SubTexture name="skid sing left0009" x="5051" y="3848" width="698" height="650" frameX="-2" frameY="-18" frameWidth="700" frameHeight="683"/>
+	<SubTexture name="skid sing left0010" x="5769" y="3848" width="698" height="668" frameX="-2" frameY="0" frameWidth="700" frameHeight="683"/>
+	<SubTexture name="skid sing left0011" x="6487" y="3848" width="698" height="668" frameX="-2" frameY="0" frameWidth="700" frameHeight="683"/>
+	<SubTexture name="skid sing left0012" x="7205" y="3848" width="698" height="644" frameX="-2" frameY="-24" frameWidth="700" frameHeight="683"/>
+	<SubTexture name="skid sing left0013" x="20" y="4538" width="698" height="644" frameX="-2" frameY="-24" frameWidth="700" frameHeight="683"/>
+	<SubTexture name="skid sing left0014" x="738" y="4538" width="698" height="660" frameX="-2" frameY="-8" frameWidth="700" frameHeight="683"/>
+	<SubTexture name="skid sing left0015" x="1456" y="4538" width="698" height="660" frameX="-2" frameY="-8" frameWidth="700" frameHeight="683"/>
+	<SubTexture name="skid sing left0016" x="2174" y="4538" width="698" height="647" frameX="-2" frameY="-21" frameWidth="700" frameHeight="683"/>
+	<SubTexture name="skid sing left0017" x="2892" y="4538" width="698" height="647" frameX="-2" frameY="-21" frameWidth="700" frameHeight="683"/>
+	<SubTexture name="skid sing right0000" x="3610" y="4538" width="892" height="681" frameX="-179" frameY="-221" frameWidth="1071" frameHeight="902"/>
+	<SubTexture name="skid sing right0001" x="4522" y="4538" width="892" height="681" frameX="-179" frameY="-221" frameWidth="1071" frameHeight="902"/>
+	<SubTexture name="skid sing right0002" x="5434" y="4538" width="866" height="629" frameX="-178" frameY="-273" frameWidth="1071" frameHeight="902"/>
+	<SubTexture name="skid sing right0003" x="6320" y="4538" width="866" height="629" frameX="-178" frameY="-273" frameWidth="1071" frameHeight="902"/>
+	<SubTexture name="skid sing right0004" x="7206" y="4538" width="902" height="628" frameX="-66" frameY="-274" frameWidth="1071" frameHeight="902"/>
+	<SubTexture name="skid sing right0005" x="20" y="5239" width="749" height="881" frameX="-9" frameY="-21" frameWidth="1071" frameHeight="902"/>
+	<SubTexture name="skid sing right0006" x="789" y="5239" width="758" height="902" frameX="0" frameY="0" frameWidth="1071" frameHeight="902"/>
+	<SubTexture name="skid sing right0007" x="1567" y="5239" width="753" height="850" frameX="-5" frameY="-52" frameWidth="1071" frameHeight="902"/>
+	<SubTexture name="skid sing right0008" x="2340" y="5239" width="747" height="883" frameX="-11" frameY="-19" frameWidth="1071" frameHeight="902"/>
+	<SubTexture name="skid sing right0009" x="3107" y="5239" width="749" height="881" frameX="-9" frameY="-21" frameWidth="1071" frameHeight="902"/>
+	<SubTexture name="skid sing right0010" x="3876" y="5239" width="758" height="902" frameX="0" frameY="0" frameWidth="1071" frameHeight="902"/>
+	<SubTexture name="skid sing right0011" x="4654" y="5239" width="753" height="850" frameX="-5" frameY="-52" frameWidth="1071" frameHeight="902"/>
+	<SubTexture name="skid sing right0012" x="5427" y="5239" width="747" height="883" frameX="-11" frameY="-19" frameWidth="1071" frameHeight="902"/>
+	<SubTexture name="skid sing right0013" x="6194" y="5239" width="749" height="881" frameX="-9" frameY="-21" frameWidth="1071" frameHeight="902"/>
+	<SubTexture name="skid sing right0014" x="6963" y="5239" width="758" height="902" frameX="0" frameY="0" frameWidth="1071" frameHeight="902"/>
+	<SubTexture name="skid sing right0015" x="20" y="6161" width="753" height="850" frameX="-5" frameY="-52" frameWidth="1071" frameHeight="902"/>
+	<SubTexture name="skid sing right0016" x="793" y="6161" width="753" height="868" frameX="-5" frameY="-34" frameWidth="1071" frameHeight="902"/>
+	<SubTexture name="skid sing right0017" x="1566" y="6161" width="755" height="867" frameX="-3" frameY="-35" frameWidth="1071" frameHeight="902"/>
+	<SubTexture name="skid sing up0000" x="2341" y="6161" width="857" height="734" frameX="0" frameY="-38" frameWidth="857" frameHeight="772"/>
+	<SubTexture name="skid sing up0001" x="2341" y="6161" width="857" height="734" frameX="0" frameY="-38" frameWidth="857" frameHeight="772"/>
+	<SubTexture name="skid sing up0002" x="3218" y="6161" width="831" height="739" frameX="0" frameY="-33" frameWidth="857" frameHeight="772"/>
+	<SubTexture name="skid sing up0003" x="3218" y="6161" width="831" height="739" frameX="0" frameY="-33" frameWidth="857" frameHeight="772"/>
+	<SubTexture name="skid sing up0004" x="4069" y="6161" width="828" height="752" frameX="0" frameY="-20" frameWidth="857" frameHeight="772"/>
+	<SubTexture name="skid sing up0005" x="4069" y="6161" width="828" height="752" frameX="0" frameY="-20" frameWidth="857" frameHeight="772"/>
+	<SubTexture name="skid sing up0006" x="4917" y="6161" width="828" height="750" frameX="0" frameY="-22" frameWidth="857" frameHeight="772"/>
+	<SubTexture name="skid sing up0007" x="4917" y="6161" width="828" height="750" frameX="0" frameY="-22" frameWidth="857" frameHeight="772"/>
+	<SubTexture name="skid sing up0008" x="5765" y="6161" width="828" height="733" frameX="0" frameY="-39" frameWidth="857" frameHeight="772"/>
+	<SubTexture name="skid sing up0009" x="6613" y="6161" width="828" height="733" frameX="0" frameY="-39" frameWidth="857" frameHeight="772"/>
+	<SubTexture name="skid sing up0010" x="20" y="7049" width="828" height="748" frameX="0" frameY="-24" frameWidth="857" frameHeight="772"/>
+	<SubTexture name="skid sing up0011" x="868" y="7049" width="828" height="748" frameX="0" frameY="-24" frameWidth="857" frameHeight="772"/>
+	<SubTexture name="skid sing up0012" x="1716" y="7049" width="828" height="763" frameX="0" frameY="-9" frameWidth="857" frameHeight="772"/>
+	<SubTexture name="skid sing up0013" x="2564" y="7049" width="828" height="763" frameX="0" frameY="-9" frameWidth="857" frameHeight="772"/>
+	<SubTexture name="skid sing up0014" x="3412" y="7049" width="828" height="772" frameX="0" frameY="0" frameWidth="857" frameHeight="772"/>
+	<SubTexture name="skid sing up0015" x="4260" y="7049" width="828" height="772" frameX="0" frameY="0" frameWidth="857" frameHeight="772"/>
+	<SubTexture name="skid sing up0016" x="5108" y="7049" width="829" height="750" frameX="0" frameY="-22" frameWidth="857" frameHeight="772"/>
+	<SubTexture name="skid sing up0017" x="5957" y="7049" width="829" height="750" frameX="0" frameY="-22" frameWidth="857" frameHeight="772"/>
+</TextureAtlas>

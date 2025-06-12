@@ -1,0 +1,157 @@
+{
+	"dialogue": [
+		{
+			"sound": "sen",
+			"speed": 0.05,
+			"boximage": "sen",
+			"portrait": "sen",
+			"expression": "happy",
+			"text": "Well! That was intense hehe.",
+			"textColor": "C86762"
+		},
+        {
+			"sound": "cap",
+			"speed": 0.05,
+			"boximage": "cap",
+			"portrait": "cap",
+			"expression": "doubt",
+			"text": "...",
+			"textColor": "573937"
+		},
+        {
+			"sound": "sen",
+			"speed": 0.05,
+			"boximage": "sen",
+			"portrait": "sen",
+			"expression": "happy",
+			"text": "Should we be moving onto the last?",
+			"textColor": "C86762"
+		},
+        {
+			"sound": "cap",
+			"speed": 0.05,
+			"boximage": "cap",
+			"portrait": "cap",
+			"expression": "nuetral",
+			"text": "I don't get it...",
+			"textColor": "573937"
+		},
+        {
+			"sound": "sen",
+			"speed": 0.05,
+			"boximage": "sen",
+			"portrait": "sen",
+			"expression": "questioning",
+			"text": "Hm?",
+			"textColor": "C86762"
+		},
+        {
+			"sound": "cap",
+			"speed": 0.05,
+			"boximage": "cap",
+			"portrait": "cap",
+			"expression": "confuse",
+			"text": "You've been so calm this entire time, doing this all with that smug ass grin. I thought you were just braindead.",
+			"textColor": "573937"
+		},
+        {
+			"sound": "cap",
+			"speed": 0.05,
+			"boximage": "cap",
+			"portrait": "cap",
+			"expression": "confuse",
+			"text": "It's almost like...",
+			"textColor": "573937"
+		},
+        {
+			"sound": "cap",
+			"speed": 0.05,
+			"boximage": "cap",
+			"portrait": "cap",
+			"expression": "pissed",
+			"text": "You're just mocking me, is that it?!",
+			"textColor": "573937"
+		},
+        {
+			"sound": "sen",
+			"speed": 0.05,
+			"boximage": "sen",
+			"portrait": "sen",
+			"expression": "shocked",
+			"text": "WHAT?",
+			"textColor": "C86762"
+		},
+        {
+			"sound": "cap",
+			"speed": 0.05,
+			"boximage": "cap",
+			"portrait": "cap",
+			"expression": "mad",
+			"text": "You're just mocking me, is that it?!",
+			"textColor": "573937"
+		},
+        {
+			"sound": "cap",
+			"speed": 0.05,
+			"boximage": "cap",
+			"portrait": "cap",
+			"expression": "mad",
+			"text": "The lives of you and that... THING are hanging from my mercy, ",
+			"textColor": "573937"
+		},
+        {
+			"sound": "cap",
+			"speed": 0.05,
+			"boximage": "cap",
+			"portrait": "cap",
+			"expression": "break",
+			"text": "and you're here treating it like some kinda fun game.",
+			"textColor": "573937"
+		},
+        {
+			"sound": "sen",
+			"speed": 0.05,
+			"boximage": "sen",
+			"portrait": "sen",
+			"expression": "soft",
+			"text": "Well... be that as it may, I just find it hard to believe that you'd-",
+			"textColor": "C86762"
+		},
+        {
+			"sound": "cap",
+			"speed": 0.05,
+			"boximage": "cap",
+			"portrait": "cap",
+			"expression": "pissed",
+			"text": "That I what? Would merc you here and now?",
+			"textColor": "573937"
+		},
+        {
+			"sound": "cap",
+			"speed": 0.05,
+			"boximage": "cap",
+			"portrait": "cap",
+			"expression": "insane",
+			"text": "Because, buddy, you'd be wrong. ",
+			"textColor": "573937"
+		},
+        {
+			"sound": "sen",
+			"speed": 0.05,
+			"boximage": "sen",
+			"portrait": "sen",
+			"expression": "soft",
+			"text": "... (his aims... off.)",
+			"textColor": "C86762"
+		},
+        {
+			"sound": "sen",
+			"speed": 0.05,
+			"boximage": "sen",
+			"portrait": "sen",
+			"expression": "droopy",
+			"text": "I didn't mean to offend you.",
+			"textColor": "C86762"
+		}
+	]
+}

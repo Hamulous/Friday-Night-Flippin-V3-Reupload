@@ -1,0 +1,29 @@
+{
+	"song": {
+		"speed": 2.3,
+		"stage": null,
+		"player1": "sen",
+		"player2": "pump",
+		"player3": null,
+		"events": [
+			[
+				31666.6666666667,
+				[
+					[
+						"Trigger bg lights",
+						"",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "lem",
+		"bpm": 180,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Pumpd-up(legacy)"
+	}
+}

@@ -1,0 +1,44 @@
+{
+	"storyName": "Tankman",
+	"hideFreeplay": false,
+	"weekBackground": "halloween",
+	"weekBefore": "week2",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"cap",
+		"sen",
+		""
+	],
+	"songs": [
+		[
+			"Hard",
+			"cap",
+			[
+				255,
+				100,
+				0
+			]
+		],
+		[
+			"Cocky",
+			"cap",
+			[
+				255,
+				100,
+				0
+			]
+		],
+		[
+			"Pressure",
+			"cap",
+			[
+				255,
+				100,
+				0
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Flippin3",
+	"charSelect": true
+}

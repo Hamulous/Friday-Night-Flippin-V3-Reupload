@@ -1,0 +1,196 @@
+{
+	"dialogue": [
+		{
+			"sound": "lem",
+			"speed": 0.05,
+			"boximage": "lem",
+			"portrait": "lem",
+			"image": "cutscenes/sen-alpha/week10001",
+			"expression": "happy",
+			"text": "Oh! You're actually pretty good at this!",
+			"textColor": "7d2222"
+		},
+		{
+			"sound": "alpha",
+			"speed": 0.05,
+			"boximage": "alpha",
+			"portrait": "alpha",
+			"expression": "yass",
+			"text": "I'm good at everything, my citrus confidante",
+			"textColor": "3b28a8"
+		},
+		{
+			"sound": "pump",
+			"speed": 0.05,
+			"boximage": "pump",
+			"portrait": "pump",
+			"image": "cutscenes/sen-alpha/week10002",
+			"expression": "normal",
+			"text": "Is someone there?",
+			"textColor": "592111"
+		},
+		{
+			"sound": "lem",
+			"speed": 0.05,
+			"boximage": "lem",
+			"portrait": "lem",
+			"expression": "regret",
+			"text": "Ah- shit-",
+			"textColor": "7d2222"
+		},
+		{
+			"sound": "alpha",
+			"speed": 0.05,
+			"boximage": "alpha",
+			"portrait": "alpha",
+			"expression": "guilt",
+			"text": "Who could that be?",
+			"textColor": "3b28a8"
+		},
+		{
+			"sound": "lem",
+			"speed": 0.05,
+			"boximage": "lem",
+			"portrait": "lem",
+			"expression": "regret",
+			"text": "I think that's my brother.",
+			"textColor": "7d2222"
+		},
+		{
+			"sound": "lem",
+			"speed": 0.05,
+			"boximage": "lem",
+			"portrait": "lem",
+			"expression": "shrug",
+			"text": "Uhh, just act casual- if he asks you anything, just... I dunno, say something stupid, ok?",
+			"textColor": "7d2222"
+		},
+		{
+			"sound": "alpha",
+			"speed": 0.05,
+			"boximage": "alpha",
+			"portrait": "alpha",
+			"expression": "baby",
+			"text": "You got it!",
+			"textColor": "3b28a8"
+		},
+		{
+			"sound": "pump",
+			"speed": 0.05,
+			"boximage": "pump",
+			"portrait": "pump",
+			"image": "cutscenes/sen-alpha/week10003",
+			"expression": "shocked",
+			"text": "Is someone there?",
+			"textColor": "592111"
+		},
+		{
+			"sound": "lem",
+			"speed": 0.05,
+			"boximage": "lem",
+			"portrait": "lem",
+			"expression": "normal",
+			"text": "Heyyy Pump...",
+			"textColor": "7d2222"
+		},
+		{
+			"sound": "pump",
+			"speed": 0.05,
+			"boximage": "pump",
+			"portrait": "pump",
+			"expression": "mad",
+			"text": " I've been lookin for ya everywhere!",
+			"textColor": "592111"
+		},
+		{
+			"sound": "pump",
+			"speed": 0.05,
+			"boximage": "pump",
+			"portrait": "pump",
+			"expression": "sigh",
+			"text": "I thought somethin happened to ya for a sec-",
+			"textColor": "592111"
+		},
+		{
+			"sound": "pump",
+			"speed": 0.05,
+			"boximage": "pump",
+			"portrait": "pump",
+			"expression": "normal",
+			"text": "... Who are you supposed to be?",
+			"textColor": "592111"
+		},
+		{
+			"sound": "alpha",
+			"speed": 0.05,
+			"boximage": "alpha",
+			"portrait": "alpha",
+			"expression": "baby",
+			"text": "Something stupid.",
+			"textColor": "3b28a8"
+		},
+		{
+			"sound": "pump",
+			"speed": 0.05,
+			"boximage": "pump",
+			"portrait": "pump",
+			"expression": "serious",
+			"text": "?",
+			"textColor": "592111"
+		},
+		{
+			"sound": "lem",
+			"speed": 0.05,
+			"boximage": "lem",
+			"portrait": "lem",
+			"expression": "regret",
+			"text": "AHAHA dont listen to him-",
+			"textColor": "7d2222"
+		},
+		{
+			"sound": "lem",
+			"speed": 0.05,
+			"boximage": "lem",
+			"portrait": "lem",
+			"expression": "shrug",
+			"text": "He just wandered here 'n wanted to sing that's all",
+			"textColor": "7d2222"
+		},
+		{
+			"sound": "pump",
+			"speed": 0.05,
+			"boximage": "pump",
+			"portrait": "pump",
+			"expression": "serious",
+			"text": " Sing?",
+			"textColor": "592111"
+		},
+		{
+			"sound": "alpha",
+			"speed": 0.05,
+			"boximage": "alpha",
+			"portrait": "alpha",
+			"expression": "default",
+			"text": "Care to join us?",
+			"textColor": "3b28a8"
+		},
+		{
+			"sound": "pump",
+			"speed": 0.05,
+			"boximage": "pump",
+			"portrait": "pump",
+			"expression": "nervous",
+			"text": "Well It does sound fun...",
+			"textColor": "592111"
+		},
+		{
+			"sound": "pump",
+			"speed": 0.05,
+			"boximage": "pump",
+			"portrait": "pump",
+			"expression": "content",
+			"text": "Alright... I'm a lil rusty so let's do somethin easy.",
+			"textColor": "592111"
+		}
+	]
+}

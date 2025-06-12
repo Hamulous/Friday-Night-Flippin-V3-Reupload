@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="menu_movies.png">
+	<!-- Created with Adobe Animate version 21.0.4.39603 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="movies basic0000" x="0" y="0" width="318" height="118"/>
+	<SubTexture name="movies basic0001" x="0" y="0" width="318" height="118"/>
+	<SubTexture name="movies basic0002" x="0" y="0" width="318" height="118"/>
+	<SubTexture name="movies basic0003" x="348" y="0" width="317" height="118" frameX="0" frameY="0" frameWidth="318" frameHeight="118"/>
+	<SubTexture name="movies basic0004" x="348" y="0" width="317" height="118" frameX="0" frameY="0" frameWidth="318" frameHeight="118"/>
+	<SubTexture name="movies basic0005" x="348" y="0" width="317" height="118" frameX="0" frameY="0" frameWidth="318" frameHeight="118"/>
+	<SubTexture name="movies basic0006" x="695" y="0" width="317" height="118" frameX="0" frameY="0" frameWidth="318" frameHeight="118"/>
+	<SubTexture name="movies basic0007" x="695" y="0" width="317" height="118" frameX="0" frameY="0" frameWidth="318" frameHeight="118"/>
+	<SubTexture name="movies basic0008" x="695" y="0" width="317" height="118" frameX="0" frameY="0" frameWidth="318" frameHeight="118"/>
+	<SubTexture name="movies white0000" x="0" y="148" width="360" height="140"/>
+	<SubTexture name="movies white0001" x="390" y="148" width="359" height="138" frameX="0" frameY="-1" frameWidth="360" frameHeight="140"/>
+	<SubTexture name="movies white0002" x="0" y="318" width="355" height="134" frameX="-2" frameY="-3" frameWidth="360" frameHeight="140"/>
+</TextureAtlas>

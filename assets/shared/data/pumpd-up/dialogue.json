@@ -1,0 +1,76 @@
+{
+	"dialogue": [
+		{
+			"sound": "pump",
+			"speed": 0.05,
+			"boximage": "pump",
+			"portrait": "pump",
+			"expression": "shocked",
+			"text": "aye... uh- where did all these people come from?",
+			"textColor": "592111"
+		},
+		{
+			"sound": "sen",
+			"speed": 0.05,
+			"boximage": "sen",
+			"portrait": "sen",
+			"expression": "shocked",
+			"text": "we...",
+			"textColor": "C86762"
+		},
+		{
+			"sound": "sen",
+			"speed": 0.05,
+			"boximage": "sen",
+			"portrait": "sen",
+			"expression": "shocked",
+			"text": "have an audience?",
+			"textColor": "C86762"
+		},
+		{
+			"sound": "pump",
+			"speed": 0.05,
+			"boximage": "pump",
+			"portrait": "pump",
+			"expression": "normal",
+			"text": "hm.",
+			"textColor": "592111"
+		},
+		{
+			"sound": "pump",
+			"speed": 0.05,
+			"boximage": "pump",
+			"portrait": "pump",
+			"expression": "normal",
+			"text": "I'd hate to disappoint all these people. so...",
+			"textColor": "592111"
+		},
+		{
+			"sound": "pump",
+			"speed": 0.05,
+			"boximage": "pump",
+			"portrait": "pump",
+			"expression": "happy",
+			"text": "how bout we put on a show, huh? Give it our all just for 'em.",
+			"textColor": "592111"
+		},
+		{
+			"sound": "pump",
+			"speed": 0.05,
+			"boximage": "pump",
+			"portrait": "pump",
+			"expression": "content",
+			"text": "What d'ya say?",
+			"textColor": "592111"
+		},
+		{
+			"sound": "sen",
+			"speed": 0.05,
+			"boximage": "sen",
+			"portrait": "sen",
+			"expression": "happy",
+			"text": "It'd be my pleasure.",
+			"textColor": "C86762"
+		}
+	]
+}

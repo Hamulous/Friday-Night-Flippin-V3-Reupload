@@ -1,0 +1,112 @@
+{
+	"dialogue": [
+        {
+			"sound": "alpha",
+			"speed": 0.05,
+			"boximage": "alpha",
+			"portrait": "alpha",
+			"expression": "hm",
+			"text": "Excuse me, This has been quite an enjoyable time but",
+			"textColor": "3b28a8"
+		},
+        {
+			"sound": "alpha",
+			"speed": 0.05,
+			"boximage": "alpha",
+			"portrait": "alpha",
+			"expression": "dizzy",
+			"text": " May we please slow this vehicle down?",
+			"textColor": "3b28a8"
+		},
+        {
+			"sound": "skid",
+			"speed": 0.05,
+			"boximage": "skid",
+			"portrait": "skid",
+			"expression": "default",
+			"text": "Sorry kid, I LIKE it fast",
+			"textColor": "1a414f"
+		},
+        {
+			"sound": "lem",
+			"speed": 0.05,
+			"boximage": "lem",
+			"portrait": "lem",
+			"expression": "mad",
+			"text": "Can you please just be more careful with him?",
+			"textColor": "7d2222"
+		},
+        {
+			"sound": "skid",
+			"speed": 0.05,
+			"boximage": "skid",
+			"portrait": "skid",
+			"expression": "shrug",
+			"text": "Oh relax, it's not like I'm gonna KILL em or anything.",
+			"textColor": "1a414f"
+		},
+        {
+			"sound": "skid",
+			"speed": 0.05,
+			"boximage": "skid",
+			"portrait": "skid",
+			"expression": "idea",
+			"text": "Unless he did something. Did he HURT ya? INSULT ya?",
+			"textColor": "1a414f"
+		},
+        {
+			"sound": "lem",
+			"speed": 0.05,
+			"boximage": "lem",
+			"portrait": "lem",
+			"expression": "happy",
+			"text": "Of course not! He's just an innocent, harmless human. He means well-",
+			"textColor": "7d2222"
+		},
+        {
+			"sound": "alpha",
+			"speed": 0.05,
+			"boximage": "alpha",
+			"portrait": "alpha",
+			"expression": "yass",
+			"text": "I called her a freak of nature two weeks ago!",
+			"textColor": "3b28a8"
+		},
+        {
+			"sound": "lem",
+			"speed": 0.05,
+			"boximage": "lem",
+			"portrait": "lem",
+			"expression": "awkward",
+			"text": "Why do I even bother anymore?",
+			"textColor": "7d2222"
+		},
+        {
+			"sound": "alpha",
+			"speed": 0.05,
+			"boximage": "alpha",
+			"portrait": "alpha",
+			"expression": "confuzzed",
+			"text": "What? A gentleman must always be honest.",
+			"textColor": "3b28a8"
+		},
+        {
+			"sound": "skid",
+			"speed": 0.05,
+			"boximage": "skid",
+			"portrait": "skid",
+			"expression": "uhoh",
+			"text": "Uhhhh-huhhhh...",
+			"textColor": "1a414f"
+		},
+        {
+			"sound": "skid",
+			"speed": 0.05,
+			"boximage": "skid",
+			"portrait": "skid",
+			"expression": "shrug",
+			"text": " Well good enough.",
+			"textColor": "1a414f"
+		}
+	]
+}

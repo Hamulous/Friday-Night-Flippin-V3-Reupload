@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="freeplay_icon_muffy.png">
+	<!-- Created with Adobe Animate version 23.0.2.103 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="muffy icon0000" x="20" y="20" width="109" height="132" frameX="-6" frameY="0" frameWidth="115" frameHeight="132"/>
+	<SubTexture name="muffy icon0001" x="20" y="20" width="109" height="132" frameX="-6" frameY="0" frameWidth="115" frameHeight="132"/>
+	<SubTexture name="muffy icon0002" x="20" y="20" width="109" height="132" frameX="-6" frameY="0" frameWidth="115" frameHeight="132"/>
+	<SubTexture name="muffy icon0003" x="20" y="20" width="109" height="132" frameX="-6" frameY="0" frameWidth="115" frameHeight="132"/>
+	<SubTexture name="muffy icon0004" x="149" y="20" width="109" height="127" frameX="0" frameY="-2" frameWidth="115" frameHeight="132"/>
+	<SubTexture name="muffy icon0005" x="149" y="20" width="109" height="127" frameX="0" frameY="-2" frameWidth="115" frameHeight="132"/>
+	<SubTexture name="muffy icon0006" x="149" y="20" width="109" height="127" frameX="0" frameY="-2" frameWidth="115" frameHeight="132"/>
+	<SubTexture name="muffy icon0007" x="149" y="20" width="109" height="127" frameX="0" frameY="-2" frameWidth="115" frameHeight="132"/>
+	<SubTexture name="muffy icon0008" x="278" y="20" width="106" height="132" frameX="-2" frameY="0" frameWidth="115" frameHeight="132"/>
+	<SubTexture name="muffy icon0009" x="278" y="20" width="106" height="132" frameX="-2" frameY="0" frameWidth="115" frameHeight="132"/>
+	<SubTexture name="muffy icon0010" x="278" y="20" width="106" height="132" frameX="-2" frameY="0" frameWidth="115" frameHeight="132"/>
+	<SubTexture name="muffy icon0011" x="278" y="20" width="106" height="132" frameX="-2" frameY="0" frameWidth="115" frameHeight="132"/>
+</TextureAtlas>

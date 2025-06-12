@@ -1,0 +1,49 @@
+{
+	"dialogue": [
+		{
+			"sound": "pump",
+			"speed": 0.05,
+			"boximage": "pump",
+			"portrait": "pump",
+			"expression": "happy",
+			"text": "Aye, that wasn't that bad.",
+			"textColor": "592111"
+		},
+		{
+			"sound": "alpha",
+			"speed": 0.05,
+			"boximage": "alpha",
+			"portrait": "alpha",
+			"expression": "default",
+			"text": "How about another song?",
+			"textColor": "3b28a8"
+		},
+		{
+			"sound": "pump",
+			"speed": 0.05,
+			"boximage": "pump",
+			"portrait": "pump",
+			"expression": "shrug",
+			"text": "I'm open for anything.",
+			"textColor": "592111"
+		},
+		{
+			"sound": "alpha",
+			"speed": 0.05,
+			"boximage": "alpha",
+			"portrait": "alpha",
+			"expression": "default",
+			"text": "Your call, gourd geezer!",
+			"textColor": "3b28a8"
+		},
+		{
+			"sound": "pump",
+			"speed": 0.05,
+			"boximage": "pump",
+			"portrait": "pump",
+			"expression": "normal",
+			"text": "It's Pump.",
+			"textColor": "592111"
+		}
+	]
+}

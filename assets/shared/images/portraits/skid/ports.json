@@ -1,0 +1,271 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		190,
+		30
+	],
+	"scale": 1.25,
+	"animations": [
+		{
+			"idle_offsets": [
+				-90,
+				0
+			],
+			"anim": "default",
+			"loop_offsets": [
+				-90,
+				0
+			],
+			"idle_name": "skid default port0",
+			"loop_name": "skid default port"
+		},
+		{
+			"loop_name": "skele default port",
+			"idle_offsets": [
+				-120,
+				-30
+			],
+			"idle_name": "skele default port0",
+			"anim": "skele default",
+			"loop_offsets": [
+				-120,
+				-30
+			]
+		},
+		{
+			"loop_name": "skele happy port",
+			"idle_offsets": [
+				-131,
+				20
+			],
+			"idle_name": "skele happy port0",
+			"anim": "skele happy",
+			"loop_offsets": [
+				-131,
+				20
+			]
+		},
+		{
+			"loop_name": "skele port confused",
+			"idle_offsets": [
+				-110,
+				20
+			],
+			"idle_name": "skele port confused0",
+			"anim": "skele confused",
+			"loop_offsets": [
+				-110,
+				20
+			]
+		},
+		{
+			"loop_name": "skid asshole port",
+			"idle_offsets": [
+				-40,
+				0
+			],
+			"idle_name": "skid asshole port0",
+			"anim": "asshole",
+			"loop_offsets": [
+				-40,
+				0
+			]
+		},
+		{
+			"loop_name": "skid chill port",
+			"idle_offsets": [
+				-88,
+				2
+			],
+			"idle_name": "skid chill port0",
+			"anim": "chill",
+			"loop_offsets": [
+				-88,
+				2
+			]
+		},
+		{
+			"loop_name": "skid confuse port",
+			"idle_offsets": [
+				-90,
+				-10
+			],
+			"idle_name": "skid confuse port0",
+			"anim": "confuse",
+			"loop_offsets": [
+				-90,
+				-10
+			]
+		},
+		{
+			"loop_name": "skid idea port",
+			"idle_offsets": [
+				-90,
+				0
+			],
+			"idle_name": "skid idea port0",
+			"anim": "idea",
+			"loop_offsets": [
+				-90,
+				0
+			]
+		},
+		{
+			"loop_name": "skid laugh pause port",
+			"idle_offsets": [
+				-30,
+				0
+			],
+			"idle_name": "skid laugh pause port0",
+			"anim": "laugh pause",
+			"loop_offsets": [
+				-30,
+				0
+			]
+		},
+		{
+			"loop_name": "skid laugh port",
+			"idle_offsets": [
+				-20,
+				-10
+			],
+			"idle_name": "skid laugh port0",
+			"anim": "laugh",
+			"loop_offsets": [
+				-20,
+				-10
+			]
+		},
+		{
+			"loop_name": "skid nudge port",
+			"idle_offsets": [
+				-110,
+				-10
+			],
+			"idle_name": "skid nudge port0",
+			"anim": "nudge",
+			"loop_offsets": [
+				-110,
+				-10
+			]
+		},
+		{
+			"loop_name": "skid proud port",
+			"idle_offsets": [
+				-70,
+				0
+			],
+			"idle_name": "skid proud port0",
+			"anim": "proud",
+			"loop_offsets": [
+				-70,
+				0
+			]
+		},
+		{
+			"loop_name": "skid shock port",
+			"idle_offsets": [
+				-50,
+				20
+			],
+			"idle_name": "skid shock port0",
+			"anim": "shock",
+			"loop_offsets": [
+				-50,
+				20
+			]
+		},
+		{
+			"loop_name": "skid shrug port",
+			"idle_offsets": [
+				-40,
+				0
+			],
+			"idle_name": "skid shrug port0",
+			"anim": "shrug",
+			"loop_offsets": [
+				-40,
+				0
+			]
+		},
+		{
+			"loop_name": "skid smile port",
+			"idle_offsets": [
+				-80,
+				-10
+			],
+			"idle_name": "skid smile port0",
+			"anim": "smile",
+			"loop_offsets": [
+				-80,
+				-10
+			]
+		},
+		{
+			"loop_name": "skid spooky port",
+			"idle_offsets": [
+				-100,
+				-20
+			],
+			"idle_name": "skid spooky port0",
+			"anim": "spooky",
+			"loop_offsets": [
+				-100,
+				-20
+			]
+		},
+		{
+			"loop_name": "skid stare port",
+			"idle_offsets": [
+				-94,
+				-2
+			],
+			"idle_name": "skid stare port0",
+			"anim": "stare",
+			"loop_offsets": [
+				-94,
+				-2
+			]
+		},
+		{
+			"loop_name": "skid think port",
+			"idle_offsets": [
+				-80,
+				0
+			],
+			"idle_name": "skid think port0",
+			"anim": "think",
+			"loop_offsets": [
+				-80,
+				0
+			]
+		},
+		{
+			"loop_name": "skid uhoh port0",
+			"idle_offsets": [
+				-90,
+				0
+			],
+			"idle_name": "skid uhoh port0",
+			"anim": "uhoh",
+			"loop_offsets": [
+				-90,
+				0
+			]
+		},
+		{
+			"loop_name": "skid warn port",
+			"idle_offsets": [
+				-90,
+				0
+			],
+			"idle_name": "skid warn port0",
+			"anim": "warn",
+			"loop_offsets": [
+				-90,
+				0
+			]
+		}
+	],
+	"image": "portraits/skid/ports"
+}

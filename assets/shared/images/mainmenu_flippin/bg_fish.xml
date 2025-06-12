@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bg_fish.png">
+	<!-- Created with Adobe Animate version 21.0.4.39603 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="fish bg0000" x="0" y="0" width="1280" height="720"/>
+	<SubTexture name="fish bg0001" x="0" y="0" width="1280" height="720"/>
+	<SubTexture name="fish bg0002" x="0" y="0" width="1280" height="720"/>
+	<SubTexture name="fish bg0003" x="0" y="0" width="1280" height="720"/>
+	<SubTexture name="fish bg0004" x="0" y="0" width="1280" height="720"/>
+	<SubTexture name="fish bg0005" x="0" y="0" width="1280" height="720"/>
+	<SubTexture name="fish bg0006" x="1310" y="0" width="1280" height="720"/>
+	<SubTexture name="fish bg0007" x="1310" y="0" width="1280" height="720"/>
+	<SubTexture name="fish bg0008" x="1310" y="0" width="1280" height="720"/>
+	<SubTexture name="fish bg0009" x="1310" y="0" width="1280" height="720"/>
+	<SubTexture name="fish bg0010" x="1310" y="0" width="1280" height="720"/>
+	<SubTexture name="fish bg0011" x="1310" y="0" width="1280" height="720"/>
+	<SubTexture name="fish bg0012" x="2620" y="0" width="1280" height="720"/>
+	<SubTexture name="fish bg0013" x="2620" y="0" width="1280" height="720"/>
+	<SubTexture name="fish bg0014" x="2620" y="0" width="1280" height="720"/>
+	<SubTexture name="fish bg0015" x="2620" y="0" width="1280" height="720"/>
+	<SubTexture name="fish bg0016" x="2620" y="0" width="1280" height="720"/>
+	<SubTexture name="fish bg0017" x="2620" y="0" width="1280" height="720"/>
+</TextureAtlas>

@@ -1,0 +1,49 @@
+{
+	"dialogue": [
+		{
+			"sound": "beta",
+			"speed": 0.05,
+			"boximage": "beta",
+			"portrait": "beta",
+			"expression": "fuck",
+			"text": "WHAT THE FUCK!!",
+			"textColor": "663c60"
+		},
+        {
+			"sound": "cap",
+			"speed": 0.05,
+			"boximage": "cap",
+			"portrait": "cap",
+			"expression": "nuetral",
+			"text": "Oh quit being such a pussy it was just a song ",
+			"textColor": "573937"
+		},
+        {
+			"sound": "beta",
+			"speed": 0.05,
+			"boximage": "beta",
+			"portrait": "beta",
+			"expression": "pissed",
+			"text": "JUST A SOH- YOU THREW SAND AT MY EYES ASSHOLE!!!",
+			"textColor": "663c60"
+		},
+        {
+			"sound": "cap",
+			"speed": 0.05,
+			"boximage": "cap",
+			"portrait": "cap",
+			"expression": "nuetral",
+			"text": "Jesus you're shitting yourself over small rocks.",
+			"textColor": "573937"
+		},
+        {
+			"sound": "cap",
+			"speed": 0.05,
+			"boximage": "cap",
+			"portrait": "cap",
+			"expression": "insane",
+			"text": "Why don't I give ya a REAL reason to cry?",
+			"textColor": "573937"
+		} 
+	]
+}

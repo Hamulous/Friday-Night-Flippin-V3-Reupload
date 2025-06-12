@@ -1,0 +1,132 @@
+{
+	"dialogue": [
+		{
+			"sound": "mearie",
+			"speed": 0.05,
+			"boximage": "mearie",
+			"portrait": "mearie",
+			"image": "cutscenes/sen-alpha/week20001",
+			"expression": "default",
+			"text": "Hey- are you up",
+			"textColor": "a3004c"
+		},
+		{
+			"sound": "dearie",
+			"speed": 0.05,
+			"boximage": "dearie",
+			"portrait": "dearie",
+			"expression": "tired",
+			"text": "Mmhn?",
+			"textColor": "451a63"
+		},
+		{
+			"sound": "mearie",
+			"speed": 0.05,
+			"boximage": "mearie",
+			"portrait": "mearie",
+			"expression": "mopey",
+			"text": "I'm bored...",
+			"textColor": "a3004c"
+		},
+		{
+			"sound": "dearie",
+			"speed": 0.05,
+			"boximage": "dearie",
+			"portrait": "dearie",
+			"expression": "tired",
+			"text": "Mear, it's 3 am.",
+			"textColor": "451a63"
+		},
+		{
+			"sound": "mearie",
+			"speed": 0.05,
+			"boximage": "mearie",
+			"portrait": "mearie",
+			"expression": "mopey",
+			"text": "So? Playing is better than sleeping!",
+			"textColor": "a3004c"
+		},
+		{
+			"sound": "mearie",
+			"speed": 0.05,
+			"boximage": "mearie",
+			"portrait": "mearie",
+			"expression": "default",
+			"text": "Back me up here guys!",
+			"textColor": "a3004c"
+		},
+		{
+			"sound": "dearie",
+			"speed": 0.05,
+			"boximage": "dearie",
+			"portrait": "dearie",
+			"expression": "tired",
+			"text": "guys?",
+			"textColor": "451a63"
+		},
+		{
+			"sound": "dearie",
+			"speed": 0.05,
+			"boximage": "dearie",
+			"portrait": "dearie",
+			"image": "cutscenes/sen-alpha/week20002",
+			"expression": "default",
+			"text": "WHAT THE-",
+			"textColor": "451a63"
+		},
+		{
+			"sound": "lem",
+			"speed": 0.05,
+			"boximage": "lem",
+			"portrait": "lem",
+			"expression": "normal",
+			"text": "this haunted house sucks.",
+			"textColor": "7d2222"
+		},
+		{
+			"sound": "dearie",
+			"speed": 0.05,
+			"boximage": "dearie",
+			"portrait": "dearie",
+			"expression": "default",
+			"text": "GET THE FUCK OUT MY HOUSE!!!",
+			"textColor": "451a63"
+		},
+		{
+			"sound": "alpha",
+			"speed": 0.05,
+			"boximage": "alpha",
+			"portrait": "alpha",
+			"expression": "yass",
+			"text": "Apologies, but we were promised entertainment ",
+			"textColor": "3b28a8"
+		},
+		{
+			"sound": "alpha",
+			"speed": 0.05,
+			"boximage": "alpha",
+			"portrait": "alpha",
+			"expression": "yass",
+			"text": "and we will not leave until we get such.",
+			"textColor": "3b28a8"
+		},
+		{
+			"sound": "dearie",
+			"speed": 0.05,
+			"boximage": "dearie",
+			"portrait": "dearie",
+			"expression": "malicous",
+			"text": "ohoho you lot want entertainment, huh? ",
+			"textColor": "451a63"
+		},
+		{
+			"sound": "dearie",
+			"speed": 0.05,
+			"boximage": "dearie",
+			"portrait": "dearie",
+			"expression": "malicous",
+			"text": "I'LL GIVE YA ENTERTAINMENT!",
+			"textColor": "451a63"
+		}
+	]
+}

@@ -1,0 +1,157 @@
+{
+	"dialogue": [
+		{
+			"sound": "sen",
+			"speed": 0.05,
+			"boximage": "sen",
+			"portrait": "sen",
+			"expression": "happy",
+			"text": "That actually wasn't so bad haha.",
+			"textColor": "C86762"
+		},
+        {
+			"sound": "skid",
+			"speed": 0.05,
+			"boximage": "skid",
+			"portrait": "skid",
+			"expression": "proud",
+			"text": "SEE! I'm CONSIDERATE!",
+			"textColor": "1a414f"
+		},
+        {
+			"sound": "skid",
+			"speed": 0.05,
+			"boximage": "skid",
+			"portrait": "skid",
+			"expression": "asshole",
+			"text": "I save the EASY stuff for the PUSSIES N leave the hard stuff for the REAL MEN!",
+			"textColor": "1a414f"
+		},
+        {
+			"sound": "sen",
+			"speed": 0.03,
+			"boximage": "sen",
+			"portrait": "sen",
+			"expression": "awshit",
+			"text": "What's that supposed to mean?",
+			"textColor": "C86762"
+		},
+        {
+			"sound": "lem",
+			"speed": 0.05,
+			"boximage": "lem",
+			"portrait": "lem",
+			"expression": "embarassed",
+			"text": "You should- probably have worded that better-",
+			"textColor": "7d2222"
+		},
+        {
+			"sound": "skid",
+			"speed": 0.05,
+			"boximage": "skid",
+			"portrait": "skid",
+			"expression": "proud",
+			"text": "Ion get it",
+			"textColor": "1a414f"
+		},
+        {
+			"sound": "sen",
+			"speed": 0.03,
+			"boximage": "sen",
+			"portrait": "sen",
+			"expression": "awshit",
+			"text": "God can you shut up?",
+			"textColor": "C86762"
+		},
+        {
+			"sound": "skid",
+			"speed": 0.05,
+			"boximage": "skid",
+			"portrait": "skid",
+			"expression": "uhoh",
+			"text": "",
+			"textColor": "1a414f"
+		},
+        {
+			"sound": "skid",
+			"speed": 0.05,
+			"boximage": "skid",
+			"portrait": "skid",
+			"expression": "uhoh",
+			"text": "What'd ya say?",
+			"textColor": "1a414f"
+		},
+        {
+			"sound": "sen",
+			"speed": 0.05,
+			"boximage": "sen",
+			"portrait": "sen",
+			"expression": "mad",
+			"text": "I said shut up!",
+			"textColor": "C86762"
+		},
+        {
+			"sound": "sen",
+			"speed": 0.05,
+			"boximage": "sen",
+			"portrait": "sen",
+			"expression": "pissed",
+			"text": "I'm so tired of being treated like some kinda pussy…",
+			"textColor": "C86762"
+		},
+        {
+			"sound": "sen",
+			"speed": 0.05,
+			"boximage": "sen",
+			"portrait": "sen",
+			"expression": "pissed",
+			"text": "So just shut the fuck up and give me your worst already.",
+			"textColor": "C86762"
+		},
+        {
+			"sound": "sen",
+			"speed": 0.05,
+			"boximage": "sen",
+			"portrait": "sen",
+			"expression": "evil",
+			"text": "Unless you're just scared I'll embarrass your insecure ass?",
+			"textColor": "C86762"
+		},
+        {
+			"sound": "skid",
+			"speed": 0.05,
+			"boximage": "skid",
+			"portrait": "skid",
+			"expression": "shock",
+			"text": "-",
+			"textColor": "1a414f"
+		},
+        {
+			"sound": "sen",
+			"speed": 0.05,
+			"boximage": "sen",
+			"portrait": "sen",
+			"expression": "mad",
+			"text": "I can take you on! Give me all you got!",
+			"textColor": "C86762"
+		},
+        {
+			"sound": "skid",
+			"speed": 0.05,
+			"boximage": "skid",
+			"portrait": "skid",
+			"expression": "stare",
+			"text": "",
+			"textColor": "1a414f"
+		},
+        {
+			"sound": "skid",
+			"speed": 0.05,
+			"boximage": "skid",
+			"portrait": "skid",
+			"expression": "warn",
+			"text": "Heh. Alright, your funeral.",
+			"textColor": "1a414f"
+		}
+	]
+}

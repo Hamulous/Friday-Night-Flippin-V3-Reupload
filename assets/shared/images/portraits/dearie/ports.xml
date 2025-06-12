@@ -1,0 +1,165 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="ports.png">
+	<!-- Created with Adobe Animate version 21.0.4.39603 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="dearie default port 0000" x="0" y="0" width="199" height="271" frameX="-3" frameY="0" frameWidth="225" frameHeight="271"/>
+	<SubTexture name="dearie default port 0001" x="0" y="0" width="199" height="271" frameX="-3" frameY="0" frameWidth="225" frameHeight="271"/>
+	<SubTexture name="dearie default port 0002" x="229" y="0" width="225" height="252" frameX="0" frameY="-19" frameWidth="225" frameHeight="271"/>
+	<SubTexture name="dearie default port 0003" x="229" y="0" width="225" height="252" frameX="0" frameY="-19" frameWidth="225" frameHeight="271"/>
+	<SubTexture name="dearie default port 0004" x="484" y="0" width="214" height="260" frameX="-4" frameY="-11" frameWidth="225" frameHeight="271"/>
+	<SubTexture name="dearie default port 0005" x="484" y="0" width="214" height="260" frameX="-4" frameY="-11" frameWidth="225" frameHeight="271"/>
+	<SubTexture name="dearie default port 0006" x="484" y="0" width="214" height="260" frameX="-4" frameY="-11" frameWidth="225" frameHeight="271"/>
+	<SubTexture name="dearie default port 0007" x="0" y="0" width="199" height="271" frameX="-3" frameY="0" frameWidth="225" frameHeight="271"/>
+	<SubTexture name="dearie default port 0008" x="0" y="0" width="199" height="271" frameX="-3" frameY="0" frameWidth="225" frameHeight="271"/>
+	<SubTexture name="dearie default port 0009" x="229" y="0" width="225" height="252" frameX="0" frameY="-19" frameWidth="225" frameHeight="271"/>
+	<SubTexture name="dearie default port 0010" x="229" y="0" width="225" height="252" frameX="0" frameY="-19" frameWidth="225" frameHeight="271"/>
+	<SubTexture name="dearie default port 0011" x="484" y="0" width="214" height="260" frameX="-4" frameY="-11" frameWidth="225" frameHeight="271"/>
+	<SubTexture name="dearie default port 0012" x="484" y="0" width="214" height="260" frameX="-4" frameY="-11" frameWidth="225" frameHeight="271"/>
+	<SubTexture name="dearie default port 0013" x="484" y="0" width="214" height="260" frameX="-4" frameY="-11" frameWidth="225" frameHeight="271"/>
+	<SubTexture name="dearie default port 0014" x="484" y="0" width="214" height="260" frameX="-4" frameY="-11" frameWidth="225" frameHeight="271"/>
+	<SubTexture name="dearie default port 0015" x="484" y="0" width="214" height="260" frameX="-4" frameY="-11" frameWidth="225" frameHeight="271"/>
+	<SubTexture name="dearie default port 0016" x="484" y="0" width="214" height="260" frameX="-4" frameY="-11" frameWidth="225" frameHeight="271"/>
+	<SubTexture name="dearie default port 0017" x="484" y="0" width="214" height="260" frameX="-4" frameY="-11" frameWidth="225" frameHeight="271"/>
+	<SubTexture name="dearie default port 0018" x="484" y="0" width="214" height="260" frameX="-4" frameY="-11" frameWidth="225" frameHeight="271"/>
+	<SubTexture name="dearie default port 0019" x="484" y="0" width="214" height="260" frameX="-4" frameY="-11" frameWidth="225" frameHeight="271"/>
+	<SubTexture name="dearie disgust port0000" x="728" y="0" width="217" height="256" frameX="0" frameY="-2" frameWidth="217" frameHeight="258"/>
+	<SubTexture name="dearie disgust port0001" x="728" y="0" width="217" height="256" frameX="0" frameY="-2" frameWidth="217" frameHeight="258"/>
+	<SubTexture name="dearie disgust port0002" x="975" y="0" width="214" height="258" frameX="0" frameY="0" frameWidth="217" frameHeight="258"/>
+	<SubTexture name="dearie disgust port0003" x="975" y="0" width="214" height="258" frameX="0" frameY="0" frameWidth="217" frameHeight="258"/>
+	<SubTexture name="dearie disgust port0004" x="975" y="0" width="214" height="258" frameX="0" frameY="0" frameWidth="217" frameHeight="258"/>
+	<SubTexture name="dearie disgust port0005" x="975" y="0" width="214" height="258" frameX="0" frameY="0" frameWidth="217" frameHeight="258"/>
+	<SubTexture name="dearie disgust port0006" x="975" y="0" width="214" height="258" frameX="0" frameY="0" frameWidth="217" frameHeight="258"/>
+	<SubTexture name="dearie disgust port0007" x="975" y="0" width="214" height="258" frameX="0" frameY="0" frameWidth="217" frameHeight="258"/>
+	<SubTexture name="dearie disgust port0008" x="975" y="0" width="214" height="258" frameX="0" frameY="0" frameWidth="217" frameHeight="258"/>
+	<SubTexture name="dearie disgust port0009" x="975" y="0" width="214" height="258" frameX="0" frameY="0" frameWidth="217" frameHeight="258"/>
+	<SubTexture name="dearie disgust port0010" x="975" y="0" width="214" height="258" frameX="0" frameY="0" frameWidth="217" frameHeight="258"/>
+	<SubTexture name="dearie disgust port0011" x="975" y="0" width="214" height="258" frameX="0" frameY="0" frameWidth="217" frameHeight="258"/>
+	<SubTexture name="dearie disgust port0012" x="975" y="0" width="214" height="258" frameX="0" frameY="0" frameWidth="217" frameHeight="258"/>
+	<SubTexture name="dearie disgust port0013" x="975" y="0" width="214" height="258" frameX="0" frameY="0" frameWidth="217" frameHeight="258"/>
+	<SubTexture name="dearie disgust port0014" x="975" y="0" width="214" height="258" frameX="0" frameY="0" frameWidth="217" frameHeight="258"/>
+	<SubTexture name="dearie disgust port0015" x="975" y="0" width="214" height="258" frameX="0" frameY="0" frameWidth="217" frameHeight="258"/>
+	<SubTexture name="dearie disgust port0016" x="975" y="0" width="214" height="258" frameX="0" frameY="0" frameWidth="217" frameHeight="258"/>
+	<SubTexture name="dearie disgust port0017" x="975" y="0" width="214" height="258" frameX="0" frameY="0" frameWidth="217" frameHeight="258"/>
+	<SubTexture name="dearie disgust port0018" x="975" y="0" width="214" height="258" frameX="0" frameY="0" frameWidth="217" frameHeight="258"/>
+	<SubTexture name="dearie disgust port0019" x="975" y="0" width="214" height="258" frameX="0" frameY="0" frameWidth="217" frameHeight="258"/>
+	<SubTexture name="dearie fear port0000" x="1219" y="0" width="232" height="267" frameX="-9" frameY="-3" frameWidth="243" frameHeight="270"/>
+	<SubTexture name="dearie fear port0001" x="1481" y="0" width="243" height="270"/>
+	<SubTexture name="dearie fear port0002" x="1754" y="0" width="228" height="267" frameX="-11" frameY="-3" frameWidth="243" frameHeight="270"/>
+	<SubTexture name="dearie fear port0003" x="0" y="301" width="236" height="270" frameX="-5" frameY="0" frameWidth="243" frameHeight="270"/>
+	<SubTexture name="dearie fear port0004" x="266" y="301" width="243" height="267" frameX="0" frameY="-3" frameWidth="243" frameHeight="270"/>
+	<SubTexture name="dearie fear port0005" x="539" y="301" width="234" height="270" frameX="-5" frameY="0" frameWidth="243" frameHeight="270"/>
+	<SubTexture name="dearie fear port0006" x="1219" y="0" width="232" height="267" frameX="-9" frameY="-3" frameWidth="243" frameHeight="270"/>
+	<SubTexture name="dearie fear port0007" x="1481" y="0" width="243" height="270"/>
+	<SubTexture name="dearie fear port0008" x="1754" y="0" width="228" height="267" frameX="-11" frameY="-3" frameWidth="243" frameHeight="270"/>
+	<SubTexture name="dearie fear port0009" x="0" y="301" width="236" height="270" frameX="-5" frameY="0" frameWidth="243" frameHeight="270"/>
+	<SubTexture name="dearie fear port0010" x="266" y="301" width="243" height="267" frameX="0" frameY="-3" frameWidth="243" frameHeight="270"/>
+	<SubTexture name="dearie fear port0011" x="539" y="301" width="234" height="270" frameX="-5" frameY="0" frameWidth="243" frameHeight="270"/>
+	<SubTexture name="dearie fear port0012" x="1219" y="0" width="232" height="267" frameX="-9" frameY="-3" frameWidth="243" frameHeight="270"/>
+	<SubTexture name="dearie fear port0013" x="1481" y="0" width="243" height="270"/>
+	<SubTexture name="dearie fear port0014" x="1754" y="0" width="228" height="267" frameX="-11" frameY="-3" frameWidth="243" frameHeight="270"/>
+	<SubTexture name="dearie fear port0015" x="0" y="301" width="236" height="270" frameX="-5" frameY="0" frameWidth="243" frameHeight="270"/>
+	<SubTexture name="dearie fear port0016" x="266" y="301" width="243" height="267" frameX="0" frameY="-3" frameWidth="243" frameHeight="270"/>
+	<SubTexture name="dearie fear port0017" x="539" y="301" width="234" height="270" frameX="-5" frameY="0" frameWidth="243" frameHeight="270"/>
+	<SubTexture name="dearie fear port0018" x="803" y="301" width="237" height="270" frameX="-3" frameY="0" frameWidth="243" frameHeight="270"/>
+	<SubTexture name="dearie fear port0019" x="803" y="301" width="237" height="270" frameX="-3" frameY="0" frameWidth="243" frameHeight="270"/>
+	<SubTexture name="dearie haha crybaby port 0000" x="1070" y="301" width="224" height="289" frameX="0" frameY="0" frameWidth="227" frameHeight="289"/>
+	<SubTexture name="dearie haha crybaby port 0001" x="1070" y="301" width="224" height="289" frameX="0" frameY="0" frameWidth="227" frameHeight="289"/>
+	<SubTexture name="dearie haha crybaby port 0002" x="1324" y="301" width="227" height="285" frameX="0" frameY="-4" frameWidth="227" frameHeight="289"/>
+	<SubTexture name="dearie haha crybaby port 0003" x="1324" y="301" width="227" height="285" frameX="0" frameY="-4" frameWidth="227" frameHeight="289"/>
+	<SubTexture name="dearie haha crybaby port 0004" x="1324" y="301" width="227" height="285" frameX="0" frameY="-4" frameWidth="227" frameHeight="289"/>
+	<SubTexture name="dearie haha crybaby port 0005" x="1324" y="301" width="227" height="285" frameX="0" frameY="-4" frameWidth="227" frameHeight="289"/>
+	<SubTexture name="dearie haha crybaby port 0006" x="1324" y="301" width="227" height="285" frameX="0" frameY="-4" frameWidth="227" frameHeight="289"/>
+	<SubTexture name="dearie haha crybaby port 0007" x="1324" y="301" width="227" height="285" frameX="0" frameY="-4" frameWidth="227" frameHeight="289"/>
+	<SubTexture name="dearie haha crybaby port 0008" x="1324" y="301" width="227" height="285" frameX="0" frameY="-4" frameWidth="227" frameHeight="289"/>
+	<SubTexture name="dearie haha crybaby port 0009" x="1324" y="301" width="227" height="285" frameX="0" frameY="-4" frameWidth="227" frameHeight="289"/>
+	<SubTexture name="dearie haha crybaby port 0010" x="1324" y="301" width="227" height="285" frameX="0" frameY="-4" frameWidth="227" frameHeight="289"/>
+	<SubTexture name="dearie haha crybaby port 0011" x="1324" y="301" width="227" height="285" frameX="0" frameY="-4" frameWidth="227" frameHeight="289"/>
+	<SubTexture name="dearie haha crybaby port 0012" x="1324" y="301" width="227" height="285" frameX="0" frameY="-4" frameWidth="227" frameHeight="289"/>
+	<SubTexture name="dearie haha crybaby port 0013" x="1324" y="301" width="227" height="285" frameX="0" frameY="-4" frameWidth="227" frameHeight="289"/>
+	<SubTexture name="dearie haha crybaby port 0014" x="1324" y="301" width="227" height="285" frameX="0" frameY="-4" frameWidth="227" frameHeight="289"/>
+	<SubTexture name="dearie haha crybaby port 0015" x="1324" y="301" width="227" height="285" frameX="0" frameY="-4" frameWidth="227" frameHeight="289"/>
+	<SubTexture name="dearie haha crybaby port 0016" x="1324" y="301" width="227" height="285" frameX="0" frameY="-4" frameWidth="227" frameHeight="289"/>
+	<SubTexture name="dearie haha crybaby port 0017" x="1324" y="301" width="227" height="285" frameX="0" frameY="-4" frameWidth="227" frameHeight="289"/>
+	<SubTexture name="dearie haha crybaby port 0018" x="1324" y="301" width="227" height="285" frameX="0" frameY="-4" frameWidth="227" frameHeight="289"/>
+	<SubTexture name="dearie haha crybaby port 0019" x="1324" y="301" width="227" height="285" frameX="0" frameY="-4" frameWidth="227" frameHeight="289"/>
+	<SubTexture name="dearie innocent port0000" x="1581" y="301" width="196" height="267" frameX="0" frameY="-1" frameWidth="197" frameHeight="268"/>
+	<SubTexture name="dearie innocent port0001" x="1581" y="301" width="196" height="267" frameX="0" frameY="-1" frameWidth="197" frameHeight="268"/>
+	<SubTexture name="dearie innocent port0002" x="1807" y="301" width="196" height="265" frameX="-1" frameY="-3" frameWidth="197" frameHeight="268"/>
+	<SubTexture name="dearie innocent port0003" x="1807" y="301" width="196" height="265" frameX="-1" frameY="-3" frameWidth="197" frameHeight="268"/>
+	<SubTexture name="dearie innocent port0004" x="0" y="620" width="196" height="268" frameX="-1" frameY="0" frameWidth="197" frameHeight="268"/>
+	<SubTexture name="dearie innocent port0005" x="0" y="620" width="196" height="268" frameX="-1" frameY="0" frameWidth="197" frameHeight="268"/>
+	<SubTexture name="dearie innocent port0006" x="0" y="620" width="196" height="268" frameX="-1" frameY="0" frameWidth="197" frameHeight="268"/>
+	<SubTexture name="dearie innocent port0007" x="1581" y="301" width="196" height="267" frameX="0" frameY="-1" frameWidth="197" frameHeight="268"/>
+	<SubTexture name="dearie innocent port0008" x="1581" y="301" width="196" height="267" frameX="0" frameY="-1" frameWidth="197" frameHeight="268"/>
+	<SubTexture name="dearie innocent port0009" x="1807" y="301" width="196" height="265" frameX="-1" frameY="-3" frameWidth="197" frameHeight="268"/>
+	<SubTexture name="dearie innocent port0010" x="1807" y="301" width="196" height="265" frameX="-1" frameY="-3" frameWidth="197" frameHeight="268"/>
+	<SubTexture name="dearie innocent port0011" x="0" y="620" width="196" height="268" frameX="-1" frameY="0" frameWidth="197" frameHeight="268"/>
+	<SubTexture name="dearie innocent port0012" x="0" y="620" width="196" height="268" frameX="-1" frameY="0" frameWidth="197" frameHeight="268"/>
+	<SubTexture name="dearie innocent port0013" x="0" y="620" width="196" height="268" frameX="-1" frameY="0" frameWidth="197" frameHeight="268"/>
+	<SubTexture name="dearie innocent port0014" x="0" y="620" width="196" height="268" frameX="-1" frameY="0" frameWidth="197" frameHeight="268"/>
+	<SubTexture name="dearie innocent port0015" x="0" y="620" width="196" height="268" frameX="-1" frameY="0" frameWidth="197" frameHeight="268"/>
+	<SubTexture name="dearie innocent port0016" x="0" y="620" width="196" height="268" frameX="-1" frameY="0" frameWidth="197" frameHeight="268"/>
+	<SubTexture name="dearie innocent port0017" x="0" y="620" width="196" height="268" frameX="-1" frameY="0" frameWidth="197" frameHeight="268"/>
+	<SubTexture name="dearie innocent port0018" x="0" y="620" width="196" height="268" frameX="-1" frameY="0" frameWidth="197" frameHeight="268"/>
+	<SubTexture name="dearie innocent port0019" x="0" y="620" width="196" height="268" frameX="-1" frameY="0" frameWidth="197" frameHeight="268"/>
+	<SubTexture name="dearie malicous port0000" x="226" y="620" width="202" height="258" frameX="0" frameY="0" frameWidth="207" frameHeight="258"/>
+	<SubTexture name="dearie malicous port0001" x="226" y="620" width="202" height="258" frameX="0" frameY="0" frameWidth="207" frameHeight="258"/>
+	<SubTexture name="dearie malicous port0002" x="458" y="620" width="207" height="244" frameX="0" frameY="-14" frameWidth="207" frameHeight="258"/>
+	<SubTexture name="dearie malicous port0003" x="458" y="620" width="207" height="244" frameX="0" frameY="-14" frameWidth="207" frameHeight="258"/>
+	<SubTexture name="dearie malicous port0004" x="695" y="620" width="206" height="245" frameX="0" frameY="-13" frameWidth="207" frameHeight="258"/>
+	<SubTexture name="dearie malicous port0005" x="695" y="620" width="206" height="245" frameX="0" frameY="-13" frameWidth="207" frameHeight="258"/>
+	<SubTexture name="dearie malicous port0006" x="695" y="620" width="206" height="245" frameX="0" frameY="-13" frameWidth="207" frameHeight="258"/>
+	<SubTexture name="dearie malicous port0007" x="931" y="620" width="202" height="251" frameX="0" frameY="-7" frameWidth="207" frameHeight="258"/>
+	<SubTexture name="dearie malicous port0008" x="931" y="620" width="202" height="251" frameX="0" frameY="-7" frameWidth="207" frameHeight="258"/>
+	<SubTexture name="dearie malicous port0009" x="458" y="620" width="207" height="244" frameX="0" frameY="-14" frameWidth="207" frameHeight="258"/>
+	<SubTexture name="dearie malicous port0010" x="458" y="620" width="207" height="244" frameX="0" frameY="-14" frameWidth="207" frameHeight="258"/>
+	<SubTexture name="dearie malicous port0011" x="695" y="620" width="206" height="245" frameX="0" frameY="-13" frameWidth="207" frameHeight="258"/>
+	<SubTexture name="dearie malicous port0012" x="695" y="620" width="206" height="245" frameX="0" frameY="-13" frameWidth="207" frameHeight="258"/>
+	<SubTexture name="dearie malicous port0013" x="695" y="620" width="206" height="245" frameX="0" frameY="-13" frameWidth="207" frameHeight="258"/>
+	<SubTexture name="dearie malicous port0014" x="695" y="620" width="206" height="245" frameX="0" frameY="-13" frameWidth="207" frameHeight="258"/>
+	<SubTexture name="dearie malicous port0015" x="695" y="620" width="206" height="245" frameX="0" frameY="-13" frameWidth="207" frameHeight="258"/>
+	<SubTexture name="dearie malicous port0016" x="695" y="620" width="206" height="245" frameX="0" frameY="-13" frameWidth="207" frameHeight="258"/>
+	<SubTexture name="dearie malicous port0017" x="695" y="620" width="206" height="245" frameX="0" frameY="-13" frameWidth="207" frameHeight="258"/>
+	<SubTexture name="dearie malicous port0018" x="695" y="620" width="206" height="245" frameX="0" frameY="-13" frameWidth="207" frameHeight="258"/>
+	<SubTexture name="dearie malicous port0019" x="695" y="620" width="206" height="245" frameX="0" frameY="-13" frameWidth="207" frameHeight="258"/>
+	<SubTexture name="dearie think port0000" x="1163" y="620" width="230" height="262" frameX="0" frameY="-5" frameWidth="230" frameHeight="267"/>
+	<SubTexture name="dearie think port0001" x="1163" y="620" width="230" height="262" frameX="0" frameY="-5" frameWidth="230" frameHeight="267"/>
+	<SubTexture name="dearie think port0002" x="1423" y="620" width="227" height="267" frameX="0" frameY="0" frameWidth="230" frameHeight="267"/>
+	<SubTexture name="dearie think port0003" x="1423" y="620" width="227" height="267" frameX="0" frameY="0" frameWidth="230" frameHeight="267"/>
+	<SubTexture name="dearie think port0004" x="1680" y="620" width="227" height="267" frameX="0" frameY="0" frameWidth="230" frameHeight="267"/>
+	<SubTexture name="dearie think port0005" x="1680" y="620" width="227" height="267" frameX="0" frameY="0" frameWidth="230" frameHeight="267"/>
+	<SubTexture name="dearie think port0006" x="1680" y="620" width="227" height="267" frameX="0" frameY="0" frameWidth="230" frameHeight="267"/>
+	<SubTexture name="dearie think port0007" x="1680" y="620" width="227" height="267" frameX="0" frameY="0" frameWidth="230" frameHeight="267"/>
+	<SubTexture name="dearie think port0008" x="1680" y="620" width="227" height="267" frameX="0" frameY="0" frameWidth="230" frameHeight="267"/>
+	<SubTexture name="dearie think port0009" x="1680" y="620" width="227" height="267" frameX="0" frameY="0" frameWidth="230" frameHeight="267"/>
+	<SubTexture name="dearie think port0010" x="1680" y="620" width="227" height="267" frameX="0" frameY="0" frameWidth="230" frameHeight="267"/>
+	<SubTexture name="dearie think port0011" x="1680" y="620" width="227" height="267" frameX="0" frameY="0" frameWidth="230" frameHeight="267"/>
+	<SubTexture name="dearie think port0012" x="1680" y="620" width="227" height="267" frameX="0" frameY="0" frameWidth="230" frameHeight="267"/>
+	<SubTexture name="dearie think port0013" x="1680" y="620" width="227" height="267" frameX="0" frameY="0" frameWidth="230" frameHeight="267"/>
+	<SubTexture name="dearie think port0014" x="1680" y="620" width="227" height="267" frameX="0" frameY="0" frameWidth="230" frameHeight="267"/>
+	<SubTexture name="dearie think port0015" x="1680" y="620" width="227" height="267" frameX="0" frameY="0" frameWidth="230" frameHeight="267"/>
+	<SubTexture name="dearie think port0016" x="1680" y="620" width="227" height="267" frameX="0" frameY="0" frameWidth="230" frameHeight="267"/>
+	<SubTexture name="dearie think port0017" x="1680" y="620" width="227" height="267" frameX="0" frameY="0" frameWidth="230" frameHeight="267"/>
+	<SubTexture name="dearie think port0018" x="1680" y="620" width="227" height="267" frameX="0" frameY="0" frameWidth="230" frameHeight="267"/>
+	<SubTexture name="dearie think port0019" x="1680" y="620" width="227" height="267" frameX="0" frameY="0" frameWidth="230" frameHeight="267"/>
+	<SubTexture name="dearie tired port0000" x="0" y="918" width="230" height="262" frameX="0" frameY="-6" frameWidth="230" frameHeight="268"/>
+	<SubTexture name="dearie tired port0001" x="0" y="918" width="230" height="262" frameX="0" frameY="-6" frameWidth="230" frameHeight="268"/>
+	<SubTexture name="dearie tired port0002" x="260" y="918" width="227" height="267" frameX="0" frameY="-1" frameWidth="230" frameHeight="268"/>
+	<SubTexture name="dearie tired port0003" x="260" y="918" width="227" height="267" frameX="0" frameY="-1" frameWidth="230" frameHeight="268"/>
+	<SubTexture name="dearie tired port0004" x="517" y="918" width="227" height="268" frameX="0" frameY="0" frameWidth="230" frameHeight="268"/>
+	<SubTexture name="dearie tired port0005" x="517" y="918" width="227" height="268" frameX="0" frameY="0" frameWidth="230" frameHeight="268"/>
+	<SubTexture name="dearie tired port0006" x="517" y="918" width="227" height="268" frameX="0" frameY="0" frameWidth="230" frameHeight="268"/>
+	<SubTexture name="dearie tired port0007" x="0" y="918" width="230" height="262" frameX="0" frameY="-6" frameWidth="230" frameHeight="268"/>
+	<SubTexture name="dearie tired port0008" x="0" y="918" width="230" height="262" frameX="0" frameY="-6" frameWidth="230" frameHeight="268"/>
+	<SubTexture name="dearie tired port0009" x="774" y="918" width="227" height="267" frameX="0" frameY="-1" frameWidth="230" frameHeight="268"/>
+	<SubTexture name="dearie tired port0010" x="774" y="918" width="227" height="267" frameX="0" frameY="-1" frameWidth="230" frameHeight="268"/>
+	<SubTexture name="dearie tired port0011" x="1031" y="918" width="227" height="268" frameX="0" frameY="0" frameWidth="230" frameHeight="268"/>
+	<SubTexture name="dearie tired port0012" x="1031" y="918" width="227" height="268" frameX="0" frameY="0" frameWidth="230" frameHeight="268"/>
+	<SubTexture name="dearie tired port0013" x="1031" y="918" width="227" height="268" frameX="0" frameY="0" frameWidth="230" frameHeight="268"/>
+	<SubTexture name="dearie tired port0014" x="1031" y="918" width="227" height="268" frameX="0" frameY="0" frameWidth="230" frameHeight="268"/>
+	<SubTexture name="dearie tired port0015" x="1031" y="918" width="227" height="268" frameX="0" frameY="0" frameWidth="230" frameHeight="268"/>
+	<SubTexture name="dearie tired port0016" x="1031" y="918" width="227" height="268" frameX="0" frameY="0" frameWidth="230" frameHeight="268"/>
+	<SubTexture name="dearie tired port0017" x="1031" y="918" width="227" height="268" frameX="0" frameY="0" frameWidth="230" frameHeight="268"/>
+	<SubTexture name="dearie tired port0018" x="1031" y="918" width="227" height="268" frameX="0" frameY="0" frameWidth="230" frameHeight="268"/>
+	<SubTexture name="dearie tired port0019" x="1031" y="918" width="227" height="268" frameX="0" frameY="0" frameWidth="230" frameHeight="268"/>
+</TextureAtlas>

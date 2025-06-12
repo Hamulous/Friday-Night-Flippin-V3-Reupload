@@ -1,0 +1,76 @@
+{
+	"dialogue": [
+		{
+			"sound": "pump",
+			"speed": 0.05,
+			"boximage": "pump",
+			"portrait": "pump",
+			"expression": "normal",
+			"text": "that was...",
+			"textColor": "592111"
+		},
+		{
+			"sound": "pump",
+			"speed": 0.05,
+			"boximage": "pump",
+			"portrait": "pump",
+			"expression": "happy",
+			"text": "actually not that bad!",
+			"textColor": "592111"
+		},
+		{
+			"sound": "sen",
+			"speed": 0.05,
+			"boximage": "sen",
+			"portrait": "sen",
+			"expression": "mad",
+			"text": "OH YEAH? WELL-",
+			"textColor": "C86762"
+		},
+		{
+			"sound": "sen",
+			"speed": 0.05,
+			"boximage": "sen",
+			"portrait": "sen",
+			"expression": "regret",
+			"text": "wait huh",
+			"textColor": "C86762"
+		},
+		{
+			"sound": "pump",
+			"speed": 0.05,
+			"boximage": "pump",
+			"portrait": "pump",
+			"expression": "content",
+			"text": "yeah you're doing better than I thought ya would",
+			"textColor": "592111"
+		},
+		{
+			"sound": "sen",
+			"speed": 0.05,
+			"boximage": "sen",
+			"portrait": "sen",
+			"expression": "happy",
+			"text": "haha that'll teach you to underestimate me!",
+			"textColor": "C86762"
+		},
+		{
+			"sound": "pump",
+			"speed": 0.05,
+			"boximage": "pump",
+			"portrait": "pump",
+			"expression": "normal",
+			"text": "don't get too full of ya'self now. We're just getting started",
+			"textColor": "592111"
+		},
+		{
+			"sound": "sen",
+			"speed": 0.05,
+			"boximage": "sen",
+			"portrait": "sen",
+			"expression": "happy",
+			"text": "Ah right. Let's continue",
+			"textColor": "C86762"
+		}
+	]
+}

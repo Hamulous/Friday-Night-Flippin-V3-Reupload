@@ -1,0 +1,118 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Sen_Death_Scythe.png">
+	<!-- Created with Adobe Animate version 20.5.0.29329 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BF Dead Confirm Scythe0000" x="20" y="20" width="1070" height="409" frameX="-18" frameY="0" frameWidth="1109" frameHeight="416"/>
+	<SubTexture name="BF Dead Confirm Scythe0001" x="1110" y="20" width="1070" height="377" frameX="-18" frameY="-32" frameWidth="1109" frameHeight="416"/>
+	<SubTexture name="BF Dead Confirm Scythe0002" x="2200" y="20" width="1070" height="377" frameX="-18" frameY="-32" frameWidth="1109" frameHeight="416"/>
+	<SubTexture name="BF Dead Confirm Scythe0003" x="3290" y="20" width="1109" height="354" frameX="0" frameY="-62" frameWidth="1109" frameHeight="416"/>
+	<SubTexture name="BF Dead Confirm Scythe0004" x="4419" y="20" width="1109" height="354" frameX="0" frameY="-62" frameWidth="1109" frameHeight="416"/>
+	<SubTexture name="BF Dead Confirm Scythe0005" x="5548" y="20" width="1109" height="354" frameX="0" frameY="-62" frameWidth="1109" frameHeight="416"/>
+	<SubTexture name="BF Dead Confirm Scythe0006" x="6677" y="20" width="1109" height="354" frameX="0" frameY="-62" frameWidth="1109" frameHeight="416"/>
+	<SubTexture name="BF Dead Confirm Scythe0007" x="20" y="449" width="1109" height="354" frameX="0" frameY="-62" frameWidth="1109" frameHeight="416"/>
+	<SubTexture name="BF Dead Confirm Scythe0008" x="1149" y="449" width="1109" height="354" frameX="0" frameY="-62" frameWidth="1109" frameHeight="416"/>
+	<SubTexture name="BF Dead Confirm Scythe0009" x="2278" y="449" width="1109" height="354" frameX="0" frameY="-62" frameWidth="1109" frameHeight="416"/>
+	<SubTexture name="BF Dead Confirm Scythe0010" x="3407" y="449" width="1109" height="354" frameX="0" frameY="-62" frameWidth="1109" frameHeight="416"/>
+	<SubTexture name="BF Dead Confirm Scythe0011" x="4536" y="449" width="1109" height="354" frameX="0" frameY="-62" frameWidth="1109" frameHeight="416"/>
+	<SubTexture name="BF Dead Confirm Scythe0012" x="4536" y="449" width="1109" height="354" frameX="0" frameY="-62" frameWidth="1109" frameHeight="416"/>
+	<SubTexture name="BF Dead Confirm Scythe0013" x="5665" y="449" width="1109" height="354" frameX="0" frameY="-62" frameWidth="1109" frameHeight="416"/>
+	<SubTexture name="BF Dead Confirm Scythe0014" x="6794" y="449" width="1109" height="354" frameX="0" frameY="-62" frameWidth="1109" frameHeight="416"/>
+	<SubTexture name="BF Dead Confirm Scythe0015" x="20" y="823" width="1109" height="354" frameX="0" frameY="-62" frameWidth="1109" frameHeight="416"/>
+	<SubTexture name="BF Dead Confirm Scythe0016" x="1149" y="823" width="1109" height="354" frameX="0" frameY="-62" frameWidth="1109" frameHeight="416"/>
+	<SubTexture name="BF Dead Confirm Scythe0017" x="2278" y="823" width="1109" height="354" frameX="0" frameY="-62" frameWidth="1109" frameHeight="416"/>
+	<SubTexture name="BF Dead Confirm Scythe0018" x="3407" y="823" width="1070" height="329" frameX="-18" frameY="-80" frameWidth="1109" frameHeight="416"/>
+	<SubTexture name="BF Dead Confirm Scythe0019" x="4497" y="823" width="154" height="112" frameX="-175" frameY="-297" frameWidth="1109" frameHeight="416"/>
+	<SubTexture name="BF Dead Confirm Scythe0020" x="4497" y="823" width="154" height="112" frameX="-175" frameY="-297" frameWidth="1109" frameHeight="416"/>
+	<SubTexture name="BF Dead Confirm Scythe0021" x="4497" y="823" width="154" height="112" frameX="-175" frameY="-297" frameWidth="1109" frameHeight="416"/>
+	<SubTexture name="BF Dead Loop Scythe0000" x="4671" y="823" width="1069" height="372" frameX="0" frameY="-3" frameWidth="1069" frameHeight="375"/>
+	<SubTexture name="BF Dead Loop Scythe0001" x="5760" y="823" width="1069" height="375"/>
+	<SubTexture name="BF Dead Loop Scythe0002" x="5760" y="823" width="1069" height="375"/>
+	<SubTexture name="BF Dead Loop Scythe0003" x="6849" y="823" width="1069" height="375"/>
+	<SubTexture name="BF Dead Loop Scythe0004" x="6849" y="823" width="1069" height="375"/>
+	<SubTexture name="BF Dead Loop Scythe0005" x="20" y="1218" width="1069" height="375"/>
+	<SubTexture name="BF Dead Loop Scythe0006" x="20" y="1218" width="1069" height="375"/>
+	<SubTexture name="BF Dead Loop Scythe0007" x="1109" y="1218" width="1069" height="375"/>
+	<SubTexture name="BF Dead Loop Scythe0008" x="1109" y="1218" width="1069" height="375"/>
+	<SubTexture name="BF Dead Loop Scythe0009" x="1109" y="1218" width="1069" height="375"/>
+	<SubTexture name="BF Dead Loop Scythe0010" x="1109" y="1218" width="1069" height="375"/>
+	<SubTexture name="BF Dead Loop Scythe0011" x="1109" y="1218" width="1069" height="375"/>
+	<SubTexture name="BF Dead Loop Scythe0012" x="1109" y="1218" width="1069" height="375"/>
+	<SubTexture name="BF Dead Loop Scythe0013" x="1109" y="1218" width="1069" height="375"/>
+	<SubTexture name="BF Dead Loop Scythe0014" x="1109" y="1218" width="1069" height="375"/>
+	<SubTexture name="BF Dead Loop Scythe0015" x="1109" y="1218" width="1069" height="375"/>
+	<SubTexture name="BF Dead Loop Scythe0016" x="1109" y="1218" width="1069" height="375"/>
+	<SubTexture name="BF Dead Loop Scythe0017" x="4671" y="823" width="1069" height="372" frameX="0" frameY="-3" frameWidth="1069" frameHeight="375"/>
+	<SubTexture name="BF Dead Loop Scythe0018" x="5760" y="823" width="1069" height="375"/>
+	<SubTexture name="BF Dead Loop Scythe0019" x="5760" y="823" width="1069" height="375"/>
+	<SubTexture name="BF Dead Loop Scythe0020" x="6849" y="823" width="1069" height="375"/>
+	<SubTexture name="BF Dead Loop Scythe0021" x="6849" y="823" width="1069" height="375"/>
+	<SubTexture name="BF Dead Loop Scythe0022" x="20" y="1218" width="1069" height="375"/>
+	<SubTexture name="BF Dead Loop Scythe0023" x="20" y="1218" width="1069" height="375"/>
+	<SubTexture name="BF Dead Loop Scythe0024" x="1109" y="1218" width="1069" height="375"/>
+	<SubTexture name="BF Dead Loop Scythe0025" x="1109" y="1218" width="1069" height="375"/>
+	<SubTexture name="BF Dead Loop Scythe0026" x="1109" y="1218" width="1069" height="375"/>
+	<SubTexture name="BF Dead Loop Scythe0027" x="1109" y="1218" width="1069" height="375"/>
+	<SubTexture name="BF Dead Loop Scythe0028" x="1109" y="1218" width="1069" height="375"/>
+	<SubTexture name="BF Dead Loop Scythe0029" x="1109" y="1218" width="1069" height="375"/>
+	<SubTexture name="BF Dead Loop Scythe0030" x="1109" y="1218" width="1069" height="375"/>
+	<SubTexture name="BF Dead Loop Scythe0031" x="1109" y="1218" width="1069" height="375"/>
+	<SubTexture name="BF Dead Loop Scythe0032" x="1109" y="1218" width="1069" height="375"/>
+	<SubTexture name="BF Dead Loop Scythe0033" x="1109" y="1218" width="1069" height="375"/>
+	<SubTexture name="BF dies Scythe0000" x="2198" y="1218" width="498" height="340" frameX="-87" frameY="-286" frameWidth="1069" frameHeight="764"/>
+	<SubTexture name="BF dies Scythe0001" x="2716" y="1218" width="386" height="335" frameX="-163" frameY="-291" frameWidth="1069" frameHeight="764"/>
+	<SubTexture name="BF dies Scythe0002" x="3122" y="1218" width="382" height="336" frameX="-167" frameY="-291" frameWidth="1069" frameHeight="764"/>
+	<SubTexture name="BF dies Scythe0003" x="3524" y="1218" width="317" height="330" frameX="-167" frameY="-297" frameWidth="1069" frameHeight="764"/>
+	<SubTexture name="BF dies Scythe0004" x="3861" y="1218" width="309" height="296" frameX="-175" frameY="-336" frameWidth="1069" frameHeight="764"/>
+	<SubTexture name="BF dies Scythe0005" x="4190" y="1218" width="309" height="296" frameX="-175" frameY="-336" frameWidth="1069" frameHeight="764"/>
+	<SubTexture name="BF dies Scythe0006" x="4519" y="1218" width="318" height="270" frameX="-176" frameY="-362" frameWidth="1069" frameHeight="764"/>
+	<SubTexture name="BF dies Scythe0007" x="4857" y="1218" width="321" height="276" frameX="-176" frameY="-356" frameWidth="1069" frameHeight="764"/>
+	<SubTexture name="BF dies Scythe0008" x="5198" y="1218" width="325" height="278" frameX="-176" frameY="-354" frameWidth="1069" frameHeight="764"/>
+	<SubTexture name="BF dies Scythe0009" x="5543" y="1218" width="325" height="278" frameX="-176" frameY="-354" frameWidth="1069" frameHeight="764"/>
+	<SubTexture name="BF dies Scythe0010" x="5888" y="1218" width="325" height="278" frameX="-176" frameY="-354" frameWidth="1069" frameHeight="764"/>
+	<SubTexture name="BF dies Scythe0011" x="6233" y="1218" width="325" height="278" frameX="-176" frameY="-354" frameWidth="1069" frameHeight="764"/>
+	<SubTexture name="BF dies Scythe0012" x="6578" y="1218" width="328" height="277" frameX="-176" frameY="-355" frameWidth="1069" frameHeight="764"/>
+	<SubTexture name="BF dies Scythe0013" x="6926" y="1218" width="328" height="277" frameX="-176" frameY="-355" frameWidth="1069" frameHeight="764"/>
+	<SubTexture name="BF dies Scythe0014" x="7274" y="1218" width="328" height="277" frameX="-176" frameY="-355" frameWidth="1069" frameHeight="764"/>
+	<SubTexture name="BF dies Scythe0015" x="7622" y="1218" width="328" height="277" frameX="-176" frameY="-355" frameWidth="1069" frameHeight="764"/>
+	<SubTexture name="BF dies Scythe0016" x="20" y="1613" width="319" height="273" frameX="-176" frameY="-359" frameWidth="1069" frameHeight="764"/>
+	<SubTexture name="BF dies Scythe0017" x="20" y="1613" width="319" height="273" frameX="-176" frameY="-359" frameWidth="1069" frameHeight="764"/>
+	<SubTexture name="BF dies Scythe0018" x="359" y="1613" width="313" height="272" frameX="-176" frameY="-360" frameWidth="1069" frameHeight="764"/>
+	<SubTexture name="BF dies Scythe0019" x="692" y="1613" width="659" height="632" frameX="-176" frameY="0" frameWidth="1069" frameHeight="764"/>
+	<SubTexture name="BF dies Scythe0020" x="1371" y="1613" width="809" height="210" frameX="-175" frameY="-421" frameWidth="1069" frameHeight="764"/>
+	<SubTexture name="BF dies Scythe0021" x="1371" y="1613" width="809" height="210" frameX="-175" frameY="-421" frameWidth="1069" frameHeight="764"/>
+	<SubTexture name="BF dies Scythe0022" x="2200" y="1613" width="893" height="319" frameX="-166" frameY="-423" frameWidth="1069" frameHeight="764"/>
+	<SubTexture name="BF dies Scythe0023" x="3113" y="1613" width="953" height="319" frameX="-106" frameY="-423" frameWidth="1069" frameHeight="764"/>
+	<SubTexture name="BF dies Scythe0024" x="4086" y="1613" width="969" height="336" frameX="-98" frameY="-428" frameWidth="1069" frameHeight="764"/>
+	<SubTexture name="BF dies Scythe0025" x="5075" y="1613" width="993" height="328" frameX="-76" frameY="-436" frameWidth="1069" frameHeight="764"/>
+	<SubTexture name="BF dies Scythe0026" x="6088" y="1613" width="1058" height="325" frameX="-11" frameY="-435" frameWidth="1069" frameHeight="764"/>
+	<SubTexture name="BF dies Scythe0027" x="20" y="2265" width="1058" height="325" frameX="-11" frameY="-435" frameWidth="1069" frameHeight="764"/>
+	<SubTexture name="BF dies Scythe0028" x="1098" y="2265" width="1069" height="328" frameX="0" frameY="-435" frameWidth="1069" frameHeight="764"/>
+	<SubTexture name="BF dies Scythe0029" x="2187" y="2265" width="1069" height="328" frameX="0" frameY="-435" frameWidth="1069" frameHeight="764"/>
+	<SubTexture name="BF dies Scythe0030" x="3276" y="2265" width="1069" height="328" frameX="0" frameY="-435" frameWidth="1069" frameHeight="764"/>
+	<SubTexture name="BF dies Scythe0031" x="4365" y="2265" width="1069" height="328" frameX="0" frameY="-435" frameWidth="1069" frameHeight="764"/>
+	<SubTexture name="BF dies Scythe0032" x="4365" y="2265" width="1069" height="328" frameX="0" frameY="-435" frameWidth="1069" frameHeight="764"/>
+	<SubTexture name="BF dies Scythe0033" x="5454" y="2265" width="1069" height="328" frameX="0" frameY="-435" frameWidth="1069" frameHeight="764"/>
+	<SubTexture name="BF dies Scythe0034" x="6543" y="2265" width="1069" height="328" frameX="0" frameY="-435" frameWidth="1069" frameHeight="764"/>
+	<SubTexture name="BF dies Scythe0035" x="20" y="2613" width="1069" height="370" frameX="0" frameY="-393" frameWidth="1069" frameHeight="764"/>
+	<SubTexture name="BF dies Scythe0036" x="1109" y="2613" width="1069" height="370" frameX="0" frameY="-393" frameWidth="1069" frameHeight="764"/>
+	<SubTexture name="BF dies Scythe0037" x="1109" y="2613" width="1069" height="370" frameX="0" frameY="-392" frameWidth="1069" frameHeight="764"/>
+	<SubTexture name="BF dies Scythe0038" x="2198" y="2613" width="1069" height="371" frameX="0" frameY="-392" frameWidth="1069" frameHeight="764"/>
+	<SubTexture name="BF dies Scythe0039" x="2198" y="2613" width="1069" height="371" frameX="0" frameY="-392" frameWidth="1069" frameHeight="764"/>
+	<SubTexture name="BF dies Scythe0040" x="2198" y="2613" width="1069" height="371" frameX="0" frameY="-391" frameWidth="1069" frameHeight="764"/>
+	<SubTexture name="BF dies Scythe0041" x="3287" y="2613" width="1069" height="372" frameX="0" frameY="-391" frameWidth="1069" frameHeight="764"/>
+	<SubTexture name="BF dies Scythe0042" x="3287" y="2613" width="1069" height="372" frameX="0" frameY="-391" frameWidth="1069" frameHeight="764"/>
+	<SubTexture name="BF dies Scythe0043" x="3287" y="2613" width="1069" height="372" frameX="0" frameY="-390" frameWidth="1069" frameHeight="764"/>
+	<SubTexture name="BF dies Scythe0044" x="4376" y="2613" width="1069" height="373" frameX="0" frameY="-390" frameWidth="1069" frameHeight="764"/>
+	<SubTexture name="BF dies Scythe0045" x="4376" y="2613" width="1069" height="373" frameX="0" frameY="-389" frameWidth="1069" frameHeight="764"/>
+	<SubTexture name="BF dies Scythe0046" x="4376" y="2613" width="1069" height="373" frameX="0" frameY="-389" frameWidth="1069" frameHeight="764"/>
+	<SubTexture name="BF dies Scythe0047" x="5465" y="2613" width="1069" height="374" frameX="0" frameY="-389" frameWidth="1069" frameHeight="764"/>
+	<SubTexture name="BF dies Scythe0048" x="5465" y="2613" width="1069" height="374" frameX="0" frameY="-388" frameWidth="1069" frameHeight="764"/>
+	<SubTexture name="BF dies Scythe0049" x="6554" y="2613" width="1069" height="375" frameX="0" frameY="-388" frameWidth="1069" frameHeight="764"/>
+	<SubTexture name="BF dies Scythe0050" x="6554" y="2613" width="1069" height="375" frameX="0" frameY="-388" frameWidth="1069" frameHeight="764"/>
+	<SubTexture name="BF dies Scythe0051" x="6554" y="2613" width="1069" height="375" frameX="0" frameY="-388" frameWidth="1069" frameHeight="764"/>
+	<SubTexture name="BF dies Scythe0052" x="6554" y="2613" width="1069" height="375" frameX="0" frameY="-388" frameWidth="1069" frameHeight="764"/>
+	<SubTexture name="BF dies Scythe0053" x="6554" y="2613" width="1069" height="375" frameX="0" frameY="-388" frameWidth="1069" frameHeight="764"/>
+	<SubTexture name="BF dies Scythe0054" x="6554" y="2613" width="1069" height="375" frameX="0" frameY="-388" frameWidth="1069" frameHeight="764"/>
+	<SubTexture name="BF dies Scythe0055" x="6554" y="2613" width="1069" height="375" frameX="0" frameY="-388" frameWidth="1069" frameHeight="764"/>
+	<SubTexture name="BF dies Scythe0056" x="6554" y="2613" width="1069" height="375" frameX="0" frameY="-388" frameWidth="1069" frameHeight="764"/>
+</TextureAtlas>

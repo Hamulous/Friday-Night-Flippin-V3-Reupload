@@ -1,0 +1,76 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		190,
+		90
+	],
+	"scale": 1.25,
+	"animations": [
+		{
+			"idle_offsets": [
+				-90,
+				-30
+			],
+			"anim": "default",
+			"loop_offsets": [
+				-90,
+				-30
+			],
+			"idle_name": "mearie default port ",
+			"loop_name": "mearie default port "
+		},
+		{
+			"loop_name": "mearie fear port",
+			"idle_offsets": [
+				-90,
+				-10
+			],
+			"idle_name": "mearie fear port0",
+			"anim": "fear",
+			"loop_offsets": [
+				-90,
+				-10
+			]
+		},
+		{
+			"loop_name": "mearie malicous port0",
+			"idle_offsets": [
+				-100,
+				-30
+			],
+			"idle_name": "mearie malicous port0",
+			"anim": "malicious",
+			"loop_offsets": [
+				-100,
+				-30
+			]
+		},
+		{
+			"loop_name": "mearie mopey port0",
+			"idle_offsets": [
+				-90,
+				-30
+			],
+			"idle_name": "mearie mopey port0",
+			"anim": "mopey",
+			"loop_offsets": [
+				-90,
+				-30
+			]
+		},
+		{
+			"loop_name": "mearie pissed port 0",
+			"idle_offsets": [
+				-100,
+				-30
+			],
+			"idle_name": "mearie pissed port 0",
+			"anim": "pissed",
+			"loop_offsets": [
+				-100,
+				-30
+			]
+		}
+	],
+	"image": "portraits/mearie/ports"
+}

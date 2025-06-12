@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				-21
+			],
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "sc_left"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-2,
+				-18
+			],
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "sc_down"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				21,
+				-28
+			],
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "sc_up"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-44,
+				-53
+			],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "sc_right"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "sc_idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/muffy_assets",
+	"position": [
+		930,
+		340
+	],
+	"healthicon": "muffy",
+	"flip_x": false,
+	"healthbar_colors": [
+		175,
+		102,
+		206
+	],
+	"camera_position": [
+		-270,
+		30
+	],
+	"sing_duration": 6.1,
+	"scale": 1.2
+}

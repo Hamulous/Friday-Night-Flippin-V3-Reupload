@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Eyes_Seq.png">
+	<!-- Created with Adobe Animate version 23.0.2.103 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="eyes entrance cutscene seq0000" x="20" y="20" width="0" height="0" frameX="-561" frameY="-453" frameWidth="1101" frameHeight="914"/>
+	<SubTexture name="eyes entrance cutscene seq0001" x="20" y="20" width="0" height="0" frameX="-561" frameY="-453" frameWidth="1101" frameHeight="914"/>
+	<SubTexture name="eyes entrance cutscene seq0002" x="20" y="20" width="0" height="0" frameX="-561" frameY="-453" frameWidth="1101" frameHeight="914"/>
+	<SubTexture name="eyes entrance cutscene seq0003" x="20" y="20" width="0" height="0" frameX="-561" frameY="-453" frameWidth="1101" frameHeight="914"/>
+	<SubTexture name="eyes entrance cutscene seq0004" x="20" y="20" width="0" height="0" frameX="-561" frameY="-453" frameWidth="1101" frameHeight="914"/>
+	<SubTexture name="eyes entrance cutscene seq0005" x="20" y="20" width="0" height="0" frameX="-561" frameY="-453" frameWidth="1101" frameHeight="914"/>
+	<SubTexture name="eyes entrance cutscene seq0006" x="20" y="20" width="0" height="0" frameX="-561" frameY="-453" frameWidth="1101" frameHeight="914"/>
+	<SubTexture name="eyes entrance cutscene seq0007" x="20" y="20" width="0" height="0" frameX="-561" frameY="-453" frameWidth="1101" frameHeight="914"/>
+	<SubTexture name="eyes entrance cutscene seq0008" x="20" y="20" width="0" height="0" frameX="-561" frameY="-453" frameWidth="1101" frameHeight="914"/>
+	<SubTexture name="eyes entrance cutscene seq0009" x="20" y="20" width="0" height="0" frameX="-561" frameY="-453" frameWidth="1101" frameHeight="914"/>
+	<SubTexture name="eyes entrance cutscene seq0010" x="20" y="20" width="0" height="0" frameX="-561" frameY="-453" frameWidth="1101" frameHeight="914"/>
+	<SubTexture name="eyes entrance cutscene seq0011" x="20" y="20" width="0" height="0" frameX="-561" frameY="-453" frameWidth="1101" frameHeight="914"/>
+	<SubTexture name="eyes entrance cutscene seq0012" x="20" y="20" width="0" height="0" frameX="-561" frameY="-453" frameWidth="1101" frameHeight="914"/>
+	<SubTexture name="eyes entrance cutscene seq0013" x="20" y="20" width="0" height="0" frameX="-561" frameY="-453" frameWidth="1101" frameHeight="914"/>
+	<SubTexture name="eyes entrance cutscene seq0014" x="20" y="20" width="0" height="0" frameX="-561" frameY="-453" frameWidth="1101" frameHeight="914"/>
+	<SubTexture name="eyes entrance cutscene seq0015" x="20" y="20" width="0" height="0" frameX="-561" frameY="-453" frameWidth="1101" frameHeight="914"/>
+	<SubTexture name="eyes entrance cutscene seq0016" x="20" y="20" width="0" height="0" frameX="-561" frameY="-453" frameWidth="1101" frameHeight="914"/>
+	<SubTexture name="eyes entrance cutscene seq0017" x="20" y="20" width="0" height="0" frameX="-561" frameY="-453" frameWidth="1101" frameHeight="914"/>
+	<SubTexture name="eyes entrance cutscene seq0018" x="20" y="20" width="0" height="0" frameX="-561" frameY="-453" frameWidth="1101" frameHeight="914"/>
+	<SubTexture name="eyes entrance cutscene seq0019" x="20" y="20" width="0" height="0" frameX="-561" frameY="-453" frameWidth="1101" frameHeight="914"/>
+	<SubTexture name="eyes entrance cutscene seq0020" x="20" y="20" width="0" height="0" frameX="-561" frameY="-453" frameWidth="1101" frameHeight="914"/>
+	<SubTexture name="eyes entrance cutscene seq0021" x="20" y="20" width="0" height="0" frameX="-561" frameY="-453" frameWidth="1101" frameHeight="914"/>
+	<SubTexture name="eyes entrance cutscene seq0022" x="20" y="20" width="0" height="0" frameX="-561" frameY="-453" frameWidth="1101" frameHeight="914"/>
+	<SubTexture name="eyes entrance cutscene seq0023" x="20" y="20" width="0" height="0" frameX="-561" frameY="-453" frameWidth="1101" frameHeight="914"/>
+	<SubTexture name="eyes entrance cutscene seq0024" x="20" y="20" width="0" height="0" frameX="-561" frameY="-453" frameWidth="1101" frameHeight="914"/>
+	<SubTexture name="eyes entrance cutscene seq0025" x="20" y="20" width="0" height="0" frameX="-561" frameY="-453" frameWidth="1101" frameHeight="914"/>
+	<SubTexture name="eyes entrance cutscene seq0026" x="20" y="20" width="0" height="0" frameX="-561" frameY="-453" frameWidth="1101" frameHeight="914"/>
+	<SubTexture name="eyes entrance cutscene seq0027" x="20" y="20" width="0" height="0" frameX="-561" frameY="-453" frameWidth="1101" frameHeight="914"/>
+	<SubTexture name="eyes entrance cutscene seq0028" x="20" y="20" width="0" height="0" frameX="-561" frameY="-453" frameWidth="1101" frameHeight="914"/>
+	<SubTexture name="eyes entrance cutscene seq0029" x="20" y="20" width="0" height="0" frameX="-561" frameY="-453" frameWidth="1101" frameHeight="914"/>
+	<SubTexture name="eyes entrance cutscene seq0030" x="20" y="20" width="0" height="0" frameX="-561" frameY="-453" frameWidth="1101" frameHeight="914"/>
+	<SubTexture name="eyes entrance cutscene seq0031" x="20" y="20" width="0" height="0" frameX="-561" frameY="-453" frameWidth="1101" frameHeight="914"/>
+	<SubTexture name="eyes entrance cutscene seq0032" x="20" y="20" width="0" height="0" frameX="-561" frameY="-453" frameWidth="1101" frameHeight="914"/>
+	<SubTexture name="eyes entrance cutscene seq0033" x="20" y="20" width="0" height="0" frameX="-561" frameY="-453" frameWidth="1101" frameHeight="914"/>
+	<SubTexture name="eyes entrance cutscene seq0034" x="20" y="20" width="0" height="0" frameX="-561" frameY="-453" frameWidth="1101" frameHeight="914"/>
+	<SubTexture name="eyes entrance cutscene seq0035" x="20" y="20" width="0" height="0" frameX="-561" frameY="-453" frameWidth="1101" frameHeight="914"/>
+	<SubTexture name="eyes entrance cutscene seq0036" x="20" y="20" width="0" height="0" frameX="-561" frameY="-453" frameWidth="1101" frameHeight="914"/>
+	<SubTexture name="eyes entrance cutscene seq0037" x="20" y="20" width="0" height="0" frameX="-561" frameY="-453" frameWidth="1101" frameHeight="914"/>
+	<SubTexture name="eyes entrance cutscene seq0038" x="20" y="20" width="0" height="0" frameX="-561" frameY="-453" frameWidth="1101" frameHeight="914"/>
+	<SubTexture name="eyes entrance cutscene seq0039" x="20" y="20" width="0" height="0" frameX="-561" frameY="-453" frameWidth="1101" frameHeight="914"/>
+	<SubTexture name="eyes entrance cutscene seq0040" x="20" y="20" width="0" height="0" frameX="-561" frameY="-453" frameWidth="1101" frameHeight="914"/>
+	<SubTexture name="eyes entrance cutscene seq0041" x="20" y="20" width="0" height="0" frameX="-561" frameY="-453" frameWidth="1101" frameHeight="914"/>
+	<SubTexture name="eyes entrance cutscene seq0042" x="20" y="20" width="0" height="0" frameX="-561" frameY="-453" frameWidth="1101" frameHeight="914"/>
+	<SubTexture name="eyes entrance cutscene seq0043" x="20" y="20" width="0" height="0" frameX="-561" frameY="-453" frameWidth="1101" frameHeight="914"/>
+	<SubTexture name="eyes entrance cutscene seq0044" x="20" y="20" width="0" height="0" frameX="-561" frameY="-453" frameWidth="1101" frameHeight="914"/>
+	<SubTexture name="eyes entrance cutscene seq0045" x="20" y="20" width="0" height="0" frameX="-561" frameY="-453" frameWidth="1101" frameHeight="914"/>
+	<SubTexture name="eyes entrance cutscene seq0046" x="40" y="20" width="1087" height="547" frameX="-14" frameY="-367" frameWidth="1101" frameHeight="914"/>
+	<SubTexture name="eyes entrance cutscene seq0047" x="1147" y="20" width="1087" height="540" frameX="-14" frameY="-374" frameWidth="1101" frameHeight="914"/>
+	<SubTexture name="eyes entrance cutscene seq0048" x="2254" y="20" width="1083" height="555" frameX="-17" frameY="-282" frameWidth="1101" frameHeight="914"/>
+	<SubTexture name="eyes entrance cutscene seq0049" x="3357" y="20" width="1083" height="549" frameX="-17" frameY="-288" frameWidth="1101" frameHeight="914"/>
+	<SubTexture name="eyes entrance cutscene seq0050" x="4460" y="20" width="1094" height="631" frameX="0" frameY="-156" frameWidth="1101" frameHeight="914"/>
+	<SubTexture name="eyes entrance cutscene seq0051" x="5574" y="20" width="1094" height="624" frameX="0" frameY="-162" frameWidth="1101" frameHeight="914"/>
+	<SubTexture name="eyes entrance cutscene seq0052" x="6688" y="20" width="917" height="757" frameX="-103" frameY="-5" frameWidth="1101" frameHeight="914"/>
+	<SubTexture name="eyes entrance cutscene seq0053" x="20" y="797" width="909" height="757" frameX="-105" frameY="0" frameWidth="1101" frameHeight="914"/>
+	<SubTexture name="eyes entrance cutscene seq0054" x="949" y="797" width="815" height="760" frameX="-152" frameY="-13" frameWidth="1101" frameHeight="914"/>
+	<SubTexture name="eyes entrance cutscene seq0055" x="1784" y="797" width="811" height="760" frameX="-150" frameY="-8" frameWidth="1101" frameHeight="914"/>
+	<SubTexture name="eyes entrance cutscene seq0056" x="2615" y="797" width="846" height="750" frameX="-132" frameY="-34" frameWidth="1101" frameHeight="914"/>
+	<SubTexture name="eyes entrance cutscene seq0057" x="3481" y="797" width="857" height="751" frameX="-133" frameY="-29" frameWidth="1101" frameHeight="914"/>
+	<SubTexture name="eyes entrance cutscene seq0058" x="4358" y="797" width="881" height="748" frameX="-121" frameY="-36" frameWidth="1101" frameHeight="914"/>
+	<SubTexture name="eyes entrance cutscene seq0059" x="5259" y="797" width="884" height="749" frameX="-116" frameY="-31" frameWidth="1101" frameHeight="914"/>
+	<SubTexture name="eyes entrance cutscene seq0060" x="6163" y="797" width="884" height="746" frameX="-116" frameY="-38" frameWidth="1101" frameHeight="914"/>
+	<SubTexture name="eyes entrance cutscene seq0061" x="7067" y="797" width="881" height="747" frameX="-118" frameY="-33" frameWidth="1101" frameHeight="914"/>
+	<SubTexture name="eyes idle0000" x="20" y="1577" width="880" height="773" frameX="-17" frameY="-1" frameWidth="897" frameHeight="774"/>
+	<SubTexture name="eyes idle0001" x="920" y="1577" width="880" height="766" frameX="-17" frameY="-8" frameWidth="897" frameHeight="774"/>
+	<SubTexture name="eyes idle0002" x="1820" y="1577" width="874" height="760" frameX="-18" frameY="-8" frameWidth="897" frameHeight="774"/>
+	<SubTexture name="eyes idle0003" x="2714" y="1577" width="874" height="754" frameX="-18" frameY="-14" frameWidth="897" frameHeight="774"/>
+	<SubTexture name="eyes idle0004" x="3608" y="1577" width="869" height="754" frameX="-16" frameY="-12" frameWidth="897" frameHeight="774"/>
+	<SubTexture name="eyes idle0005" x="4497" y="1577" width="869" height="745" frameX="-16" frameY="-20" frameWidth="897" frameHeight="774"/>
+	<SubTexture name="eyes idle0006" x="5386" y="1577" width="880" height="746" frameX="-17" frameY="-15" frameWidth="897" frameHeight="774"/>
+	<SubTexture name="eyes idle0007" x="6286" y="1577" width="880" height="753" frameX="-17" frameY="-13" frameWidth="897" frameHeight="774"/>
+	<SubTexture name="eyes idle0008" x="7186" y="1577" width="882" height="756" frameX="-12" frameY="-9" frameWidth="897" frameHeight="774"/>
+	<SubTexture name="eyes idle0009" x="20" y="2370" width="882" height="745" frameX="-12" frameY="-16" frameWidth="897" frameHeight="774"/>
+	<SubTexture name="eyes idle0010" x="922" y="2370" width="880" height="762" frameX="-14" frameY="-4" frameWidth="897" frameHeight="774"/>
+	<SubTexture name="eyes idle0011" x="1822" y="2370" width="880" height="755" frameX="-14" frameY="-10" frameWidth="897" frameHeight="774"/>
+	<SubTexture name="eyes idle0012" x="2722" y="2370" width="889" height="768" frameX="0" frameY="0" frameWidth="897" frameHeight="774"/>
+	<SubTexture name="eyes idle0013" x="3631" y="2370" width="889" height="762" frameX="0" frameY="-6" frameWidth="897" frameHeight="774"/>
+</TextureAtlas>

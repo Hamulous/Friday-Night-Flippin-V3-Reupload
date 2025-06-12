@@ -1,0 +1,155 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				68,
+				130
+			],
+			"anim": "firstDeath",
+			"fps": 24,
+			"name": "sen DIES",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				63,
+				139
+			],
+			"anim": "deathLoop",
+			"fps": 24,
+			"name": "sen dead loop",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				63,
+				231
+			],
+			"anim": "deathConfirm",
+			"fps": 24,
+			"name": "sen dead confirm",
+			"indices": []
+		},
+		{
+			"offsets": [
+				7,
+				-2
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "sen_left miss"
+		},
+		{
+			"offsets": [
+				-6,
+				-47
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "sen_down miss"
+		},
+		{
+			"offsets": [
+				12,
+				19
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "sen_up miss"
+		},
+		{
+			"offsets": [
+				-15,
+				-9
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "sen_right miss"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				24,
+				14
+			],
+			"anim": "singLEFT",
+			"fps": 20,
+			"name": "sen_left0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-4,
+				-12
+			],
+			"anim": "singDOWN",
+			"fps": 20,
+			"name": "sen_down0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				133,
+				138
+			],
+			"anim": "singUP",
+			"fps": 20,
+			"name": "sen_up0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-8,
+				-13
+			],
+			"anim": "singRIGHT",
+			"fps": 20,
+			"name": "sen_right0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-3,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "sen_idle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/sen_PUPPY_assets",
+	"position": [
+		-710,
+		330
+	],
+	"healthicon": "sen",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		175,
+		117
+	],
+	"camera_position": [
+		-160,
+		-50
+	],
+	"sing_duration": 4,
+	"scale": 1.2
+}

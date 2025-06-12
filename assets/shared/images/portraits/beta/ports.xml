@@ -1,0 +1,404 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="portraits_beta.png">
+	<!-- Created with Adobe Animate version 23.0.2.103 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="beta annoyed port0000" x="20" y="20" width="324" height="279"/>
+	<SubTexture name="beta annoyed port0001" x="20" y="20" width="324" height="279"/>
+	<SubTexture name="beta annoyed port0002" x="364" y="20" width="324" height="279"/>
+	<SubTexture name="beta annoyed port0003" x="364" y="20" width="324" height="279"/>
+	<SubTexture name="beta annoyed port0004" x="708" y="20" width="324" height="279"/>
+	<SubTexture name="beta annoyed port0005" x="708" y="20" width="324" height="279"/>
+	<SubTexture name="beta annoyed port0006" x="708" y="20" width="324" height="279"/>
+	<SubTexture name="beta annoyed port0007" x="708" y="20" width="324" height="279"/>
+	<SubTexture name="beta annoyed port0008" x="708" y="20" width="324" height="279"/>
+	<SubTexture name="beta annoyed port0009" x="708" y="20" width="324" height="279"/>
+	<SubTexture name="beta annoyed port0010" x="708" y="20" width="324" height="279"/>
+	<SubTexture name="beta annoyed port0011" x="708" y="20" width="324" height="279"/>
+	<SubTexture name="beta annoyed port0012" x="708" y="20" width="324" height="279"/>
+	<SubTexture name="beta annoyed port0013" x="708" y="20" width="324" height="279"/>
+	<SubTexture name="beta annoyed port0014" x="708" y="20" width="324" height="279"/>
+	<SubTexture name="beta annoyed port0015" x="708" y="20" width="324" height="279"/>
+	<SubTexture name="beta annoyed port0016" x="708" y="20" width="324" height="279"/>
+	<SubTexture name="beta annoyed port0017" x="708" y="20" width="324" height="279"/>
+	<SubTexture name="beta annoyed port0018" x="708" y="20" width="324" height="279"/>
+	<SubTexture name="beta annoyed port0019" x="708" y="20" width="324" height="279"/>
+	<SubTexture name="beta baby port0000" x="1052" y="20" width="324" height="280"/>
+	<SubTexture name="beta baby port0001" x="1052" y="20" width="324" height="280"/>
+	<SubTexture name="beta baby port0002" x="1396" y="20" width="324" height="278" frameX="0" frameY="-2" frameWidth="324" frameHeight="280"/>
+	<SubTexture name="beta baby port0003" x="1396" y="20" width="324" height="278" frameX="0" frameY="-2" frameWidth="324" frameHeight="280"/>
+	<SubTexture name="beta baby port0004" x="1740" y="20" width="324" height="279" frameX="0" frameY="-1" frameWidth="324" frameHeight="280"/>
+	<SubTexture name="beta baby port0005" x="1740" y="20" width="324" height="279" frameX="0" frameY="-1" frameWidth="324" frameHeight="280"/>
+	<SubTexture name="beta baby port0006" x="1740" y="20" width="324" height="279" frameX="0" frameY="-1" frameWidth="324" frameHeight="280"/>
+	<SubTexture name="beta baby port0007" x="1740" y="20" width="324" height="279" frameX="0" frameY="-1" frameWidth="324" frameHeight="280"/>
+	<SubTexture name="beta baby port0008" x="1052" y="20" width="324" height="280"/>
+	<SubTexture name="beta baby port0009" x="1052" y="20" width="324" height="280"/>
+	<SubTexture name="beta baby port0010" x="1396" y="20" width="324" height="278" frameX="0" frameY="-2" frameWidth="324" frameHeight="280"/>
+	<SubTexture name="beta baby port0011" x="1396" y="20" width="324" height="278" frameX="0" frameY="-2" frameWidth="324" frameHeight="280"/>
+	<SubTexture name="beta baby port0012" x="1740" y="20" width="324" height="279" frameX="0" frameY="-1" frameWidth="324" frameHeight="280"/>
+	<SubTexture name="beta baby port0013" x="1740" y="20" width="324" height="279" frameX="0" frameY="-1" frameWidth="324" frameHeight="280"/>
+	<SubTexture name="beta baby port0014" x="1740" y="20" width="324" height="279" frameX="0" frameY="-1" frameWidth="324" frameHeight="280"/>
+	<SubTexture name="beta baby port0015" x="1740" y="20" width="324" height="279" frameX="0" frameY="-1" frameWidth="324" frameHeight="280"/>
+	<SubTexture name="beta baby port0016" x="1740" y="20" width="324" height="279" frameX="0" frameY="-1" frameWidth="324" frameHeight="280"/>
+	<SubTexture name="beta baby port0017" x="1740" y="20" width="324" height="279" frameX="0" frameY="-1" frameWidth="324" frameHeight="280"/>
+	<SubTexture name="beta baby port0018" x="1740" y="20" width="324" height="279" frameX="0" frameY="-1" frameWidth="324" frameHeight="280"/>
+	<SubTexture name="beta baby port0019" x="1740" y="20" width="324" height="279" frameX="0" frameY="-1" frameWidth="324" frameHeight="280"/>
+	<SubTexture name="beta bruh port0000" x="2084" y="20" width="324" height="280"/>
+	<SubTexture name="beta bruh port0001" x="2084" y="20" width="324" height="280"/>
+	<SubTexture name="beta bruh port0002" x="2428" y="20" width="324" height="278" frameX="0" frameY="-2" frameWidth="324" frameHeight="280"/>
+	<SubTexture name="beta bruh port0003" x="2428" y="20" width="324" height="278" frameX="0" frameY="-2" frameWidth="324" frameHeight="280"/>
+	<SubTexture name="beta bruh port0004" x="2772" y="20" width="324" height="279" frameX="0" frameY="-1" frameWidth="324" frameHeight="280"/>
+	<SubTexture name="beta bruh port0005" x="2772" y="20" width="324" height="279" frameX="0" frameY="-1" frameWidth="324" frameHeight="280"/>
+	<SubTexture name="beta bruh port0006" x="3116" y="20" width="324" height="279" frameX="0" frameY="-1" frameWidth="324" frameHeight="280"/>
+	<SubTexture name="beta bruh port0007" x="3116" y="20" width="324" height="279" frameX="0" frameY="-1" frameWidth="324" frameHeight="280"/>
+	<SubTexture name="beta bruh port0008" x="2084" y="20" width="324" height="280"/>
+	<SubTexture name="beta bruh port0009" x="2084" y="20" width="324" height="280"/>
+	<SubTexture name="beta bruh port0010" x="2428" y="20" width="324" height="278" frameX="0" frameY="-2" frameWidth="324" frameHeight="280"/>
+	<SubTexture name="beta bruh port0011" x="2428" y="20" width="324" height="278" frameX="0" frameY="-2" frameWidth="324" frameHeight="280"/>
+	<SubTexture name="beta bruh port0012" x="2772" y="20" width="324" height="279" frameX="0" frameY="-1" frameWidth="324" frameHeight="280"/>
+	<SubTexture name="beta bruh port0013" x="2772" y="20" width="324" height="279" frameX="0" frameY="-1" frameWidth="324" frameHeight="280"/>
+	<SubTexture name="beta bruh port0014" x="3116" y="20" width="324" height="279" frameX="0" frameY="-1" frameWidth="324" frameHeight="280"/>
+	<SubTexture name="beta bruh port0015" x="3116" y="20" width="324" height="279" frameX="0" frameY="-1" frameWidth="324" frameHeight="280"/>
+	<SubTexture name="beta bruh port0016" x="3116" y="20" width="324" height="279" frameX="0" frameY="-1" frameWidth="324" frameHeight="280"/>
+	<SubTexture name="beta bruh port0017" x="3116" y="20" width="324" height="279" frameX="0" frameY="-1" frameWidth="324" frameHeight="280"/>
+	<SubTexture name="beta bruh port0018" x="3116" y="20" width="324" height="279" frameX="0" frameY="-1" frameWidth="324" frameHeight="280"/>
+	<SubTexture name="beta bruh port0019" x="3116" y="20" width="324" height="279" frameX="0" frameY="-1" frameWidth="324" frameHeight="280"/>
+	<SubTexture name="beta chill port0000" x="3460" y="20" width="257" height="274" frameX="0" frameY="-1" frameWidth="259" frameHeight="275"/>
+	<SubTexture name="beta chill port0001" x="3460" y="20" width="257" height="274" frameX="0" frameY="-1" frameWidth="259" frameHeight="275"/>
+	<SubTexture name="beta chill port0002" x="3737" y="20" width="257" height="274" frameX="-1" frameY="-1" frameWidth="259" frameHeight="275"/>
+	<SubTexture name="beta chill port0003" x="3737" y="20" width="257" height="274" frameX="-1" frameY="-1" frameWidth="259" frameHeight="275"/>
+	<SubTexture name="beta chill port0004" x="20" y="320" width="257" height="275" frameX="-2" frameY="0" frameWidth="259" frameHeight="275"/>
+	<SubTexture name="beta chill port0005" x="20" y="320" width="257" height="275" frameX="-2" frameY="0" frameWidth="259" frameHeight="275"/>
+	<SubTexture name="beta chill port0006" x="20" y="320" width="257" height="275" frameX="-2" frameY="0" frameWidth="259" frameHeight="275"/>
+	<SubTexture name="beta chill port0007" x="20" y="320" width="257" height="275" frameX="-2" frameY="0" frameWidth="259" frameHeight="275"/>
+	<SubTexture name="beta chill port0008" x="3460" y="20" width="257" height="274" frameX="0" frameY="-1" frameWidth="259" frameHeight="275"/>
+	<SubTexture name="beta chill port0009" x="3460" y="20" width="257" height="274" frameX="0" frameY="-1" frameWidth="259" frameHeight="275"/>
+	<SubTexture name="beta chill port0010" x="3737" y="20" width="257" height="274" frameX="-1" frameY="-1" frameWidth="259" frameHeight="275"/>
+	<SubTexture name="beta chill port0011" x="3737" y="20" width="257" height="274" frameX="-1" frameY="-1" frameWidth="259" frameHeight="275"/>
+	<SubTexture name="beta chill port0012" x="20" y="320" width="257" height="275" frameX="-2" frameY="0" frameWidth="259" frameHeight="275"/>
+	<SubTexture name="beta chill port0013" x="20" y="320" width="257" height="275" frameX="-2" frameY="0" frameWidth="259" frameHeight="275"/>
+	<SubTexture name="beta chill port0014" x="20" y="320" width="257" height="275" frameX="-2" frameY="0" frameWidth="259" frameHeight="275"/>
+	<SubTexture name="beta chill port0015" x="20" y="320" width="257" height="275" frameX="-2" frameY="0" frameWidth="259" frameHeight="275"/>
+	<SubTexture name="beta chill port0016" x="20" y="320" width="257" height="275" frameX="-2" frameY="0" frameWidth="259" frameHeight="275"/>
+	<SubTexture name="beta chill port0017" x="20" y="320" width="257" height="275" frameX="-2" frameY="0" frameWidth="259" frameHeight="275"/>
+	<SubTexture name="beta chill port0018" x="20" y="320" width="257" height="275" frameX="-2" frameY="0" frameWidth="259" frameHeight="275"/>
+	<SubTexture name="beta chill port0019" x="20" y="320" width="257" height="275" frameX="-2" frameY="0" frameWidth="259" frameHeight="275"/>
+	<SubTexture name="beta default port0000" x="297" y="320" width="324" height="280"/>
+	<SubTexture name="beta default port0001" x="297" y="320" width="324" height="280"/>
+	<SubTexture name="beta default port0002" x="641" y="320" width="324" height="278" frameX="0" frameY="-2" frameWidth="324" frameHeight="280"/>
+	<SubTexture name="beta default port0003" x="641" y="320" width="324" height="278" frameX="0" frameY="-2" frameWidth="324" frameHeight="280"/>
+	<SubTexture name="beta default port0004" x="985" y="320" width="324" height="279" frameX="0" frameY="-1" frameWidth="324" frameHeight="280"/>
+	<SubTexture name="beta default port0005" x="985" y="320" width="324" height="279" frameX="0" frameY="-1" frameWidth="324" frameHeight="280"/>
+	<SubTexture name="beta default port0006" x="985" y="320" width="324" height="279" frameX="0" frameY="-1" frameWidth="324" frameHeight="280"/>
+	<SubTexture name="beta default port0007" x="297" y="320" width="324" height="280"/>
+	<SubTexture name="beta default port0008" x="297" y="320" width="324" height="280"/>
+	<SubTexture name="beta default port0009" x="641" y="320" width="324" height="278" frameX="0" frameY="-2" frameWidth="324" frameHeight="280"/>
+	<SubTexture name="beta default port0010" x="641" y="320" width="324" height="278" frameX="0" frameY="-2" frameWidth="324" frameHeight="280"/>
+	<SubTexture name="beta default port0011" x="985" y="320" width="324" height="279" frameX="0" frameY="-1" frameWidth="324" frameHeight="280"/>
+	<SubTexture name="beta default port0012" x="985" y="320" width="324" height="279" frameX="0" frameY="-1" frameWidth="324" frameHeight="280"/>
+	<SubTexture name="beta default port0013" x="985" y="320" width="324" height="279" frameX="0" frameY="-1" frameWidth="324" frameHeight="280"/>
+	<SubTexture name="beta default port0014" x="985" y="320" width="324" height="279" frameX="0" frameY="-1" frameWidth="324" frameHeight="280"/>
+	<SubTexture name="beta default port0015" x="985" y="320" width="324" height="279" frameX="0" frameY="-1" frameWidth="324" frameHeight="280"/>
+	<SubTexture name="beta default port0016" x="985" y="320" width="324" height="279" frameX="0" frameY="-1" frameWidth="324" frameHeight="280"/>
+	<SubTexture name="beta default port0017" x="985" y="320" width="324" height="279" frameX="0" frameY="-1" frameWidth="324" frameHeight="280"/>
+	<SubTexture name="beta default port0018" x="985" y="320" width="324" height="279" frameX="0" frameY="-1" frameWidth="324" frameHeight="280"/>
+	<SubTexture name="beta default port0019" x="985" y="320" width="324" height="279" frameX="0" frameY="-1" frameWidth="324" frameHeight="280"/>
+	<SubTexture name="beta fake smile port0000" x="1329" y="320" width="324" height="278"/>
+	<SubTexture name="beta fake smile port0001" x="1329" y="320" width="324" height="278"/>
+	<SubTexture name="beta fake smile port0002" x="1673" y="320" width="324" height="278"/>
+	<SubTexture name="beta fake smile port0003" x="1673" y="320" width="324" height="278"/>
+	<SubTexture name="beta fake smile port0004" x="1673" y="320" width="324" height="278"/>
+	<SubTexture name="beta fake smile port0005" x="1673" y="320" width="324" height="278"/>
+	<SubTexture name="beta fake smile port0006" x="1673" y="320" width="324" height="278"/>
+	<SubTexture name="beta fake smile port0007" x="1673" y="320" width="324" height="278"/>
+	<SubTexture name="beta fake smile port0008" x="1673" y="320" width="324" height="278"/>
+	<SubTexture name="beta fake smile port0009" x="1673" y="320" width="324" height="278"/>
+	<SubTexture name="beta fake smile port0010" x="1673" y="320" width="324" height="278"/>
+	<SubTexture name="beta fake smile port0011" x="1673" y="320" width="324" height="278"/>
+	<SubTexture name="beta fake smile port0012" x="1673" y="320" width="324" height="278"/>
+	<SubTexture name="beta fake smile port0013" x="1673" y="320" width="324" height="278"/>
+	<SubTexture name="beta fake smile port0014" x="1673" y="320" width="324" height="278"/>
+	<SubTexture name="beta fake smile port0015" x="1673" y="320" width="324" height="278"/>
+	<SubTexture name="beta fake smile port0016" x="1673" y="320" width="324" height="278"/>
+	<SubTexture name="beta fake smile port0017" x="1673" y="320" width="324" height="278"/>
+	<SubTexture name="beta fake smile port0018" x="1673" y="320" width="324" height="278"/>
+	<SubTexture name="beta fake smile port0019" x="1673" y="320" width="324" height="278"/>
+	<SubTexture name="beta fierce port0000" x="2017" y="320" width="323" height="275" frameX="0" frameY="-1" frameWidth="324" frameHeight="276"/>
+	<SubTexture name="beta fierce port0001" x="2017" y="320" width="323" height="275" frameX="0" frameY="-1" frameWidth="324" frameHeight="276"/>
+	<SubTexture name="beta fierce port0002" x="2360" y="320" width="323" height="274" frameX="0" frameY="-2" frameWidth="324" frameHeight="276"/>
+	<SubTexture name="beta fierce port0003" x="2360" y="320" width="323" height="274" frameX="0" frameY="-2" frameWidth="324" frameHeight="276"/>
+	<SubTexture name="beta fierce port0004" x="2703" y="320" width="324" height="276"/>
+	<SubTexture name="beta fierce port0005" x="2703" y="320" width="324" height="276"/>
+	<SubTexture name="beta fierce port0006" x="2703" y="320" width="324" height="276"/>
+	<SubTexture name="beta fierce port0007" x="2703" y="320" width="324" height="276"/>
+	<SubTexture name="beta fierce port0008" x="2017" y="320" width="323" height="275" frameX="0" frameY="-1" frameWidth="324" frameHeight="276"/>
+	<SubTexture name="beta fierce port0009" x="2017" y="320" width="323" height="275" frameX="0" frameY="-1" frameWidth="324" frameHeight="276"/>
+	<SubTexture name="beta fierce port0010" x="2360" y="320" width="323" height="274" frameX="0" frameY="-2" frameWidth="324" frameHeight="276"/>
+	<SubTexture name="beta fierce port0011" x="2360" y="320" width="323" height="274" frameX="0" frameY="-2" frameWidth="324" frameHeight="276"/>
+	<SubTexture name="beta fierce port0012" x="2703" y="320" width="324" height="276"/>
+	<SubTexture name="beta fierce port0013" x="2703" y="320" width="324" height="276"/>
+	<SubTexture name="beta fierce port0014" x="2703" y="320" width="324" height="276"/>
+	<SubTexture name="beta fierce port0015" x="2703" y="320" width="324" height="276"/>
+	<SubTexture name="beta fierce port0016" x="2703" y="320" width="324" height="276"/>
+	<SubTexture name="beta fierce port0017" x="2703" y="320" width="324" height="276"/>
+	<SubTexture name="beta fierce port0018" x="2703" y="320" width="324" height="276"/>
+	<SubTexture name="beta fierce port0019" x="2703" y="320" width="324" height="276"/>
+	<SubTexture name="beta fuck port0000" x="3047" y="320" width="335" height="272" frameX="0" frameY="-8" frameWidth="335" frameHeight="280"/>
+	<SubTexture name="beta fuck port0001" x="3047" y="320" width="335" height="272" frameX="0" frameY="-8" frameWidth="335" frameHeight="280"/>
+	<SubTexture name="beta fuck port0002" x="3402" y="320" width="324" height="280" frameX="0" frameY="0" frameWidth="335" frameHeight="280"/>
+	<SubTexture name="beta fuck port0003" x="3402" y="320" width="324" height="280" frameX="0" frameY="0" frameWidth="335" frameHeight="280"/>
+	<SubTexture name="beta fuck port0004" x="3746" y="320" width="324" height="272" frameX="0" frameY="-8" frameWidth="335" frameHeight="280"/>
+	<SubTexture name="beta fuck port0005" x="3746" y="320" width="324" height="272" frameX="0" frameY="-8" frameWidth="335" frameHeight="280"/>
+	<SubTexture name="beta fuck port0006" x="3746" y="320" width="324" height="272" frameX="0" frameY="-8" frameWidth="335" frameHeight="280"/>
+	<SubTexture name="beta fuck port0007" x="3746" y="320" width="324" height="272" frameX="0" frameY="-8" frameWidth="335" frameHeight="280"/>
+	<SubTexture name="beta fuck port0008" x="3746" y="320" width="324" height="272" frameX="0" frameY="-8" frameWidth="335" frameHeight="280"/>
+	<SubTexture name="beta fuck port0009" x="3746" y="320" width="324" height="272" frameX="0" frameY="-8" frameWidth="335" frameHeight="280"/>
+	<SubTexture name="beta fuck port0010" x="3746" y="320" width="324" height="272" frameX="0" frameY="-8" frameWidth="335" frameHeight="280"/>
+	<SubTexture name="beta fuck port0011" x="3746" y="320" width="324" height="272" frameX="0" frameY="-8" frameWidth="335" frameHeight="280"/>
+	<SubTexture name="beta fuck port0012" x="3746" y="320" width="324" height="272" frameX="0" frameY="-8" frameWidth="335" frameHeight="280"/>
+	<SubTexture name="beta fuck port0013" x="3746" y="320" width="324" height="272" frameX="0" frameY="-8" frameWidth="335" frameHeight="280"/>
+	<SubTexture name="beta fuck port0014" x="3746" y="320" width="324" height="272" frameX="0" frameY="-8" frameWidth="335" frameHeight="280"/>
+	<SubTexture name="beta happy port0000" x="20" y="620" width="324" height="280"/>
+	<SubTexture name="beta happy port0001" x="20" y="620" width="324" height="280"/>
+	<SubTexture name="beta happy port0002" x="364" y="620" width="324" height="278" frameX="0" frameY="-2" frameWidth="324" frameHeight="280"/>
+	<SubTexture name="beta happy port0003" x="364" y="620" width="324" height="278" frameX="0" frameY="-2" frameWidth="324" frameHeight="280"/>
+	<SubTexture name="beta happy port0004" x="708" y="620" width="324" height="279" frameX="0" frameY="-1" frameWidth="324" frameHeight="280"/>
+	<SubTexture name="beta happy port0005" x="708" y="620" width="324" height="279" frameX="0" frameY="-1" frameWidth="324" frameHeight="280"/>
+	<SubTexture name="beta happy port0006" x="708" y="620" width="324" height="279" frameX="0" frameY="-1" frameWidth="324" frameHeight="280"/>
+	<SubTexture name="beta happy port0007" x="708" y="620" width="324" height="279" frameX="0" frameY="-1" frameWidth="324" frameHeight="280"/>
+	<SubTexture name="beta happy port0008" x="20" y="620" width="324" height="280"/>
+	<SubTexture name="beta happy port0009" x="20" y="620" width="324" height="280"/>
+	<SubTexture name="beta happy port0010" x="364" y="620" width="324" height="278" frameX="0" frameY="-2" frameWidth="324" frameHeight="280"/>
+	<SubTexture name="beta happy port0011" x="364" y="620" width="324" height="278" frameX="0" frameY="-2" frameWidth="324" frameHeight="280"/>
+	<SubTexture name="beta happy port0012" x="708" y="620" width="324" height="279" frameX="0" frameY="-1" frameWidth="324" frameHeight="280"/>
+	<SubTexture name="beta happy port0013" x="708" y="620" width="324" height="279" frameX="0" frameY="-1" frameWidth="324" frameHeight="280"/>
+	<SubTexture name="beta happy port0014" x="708" y="620" width="324" height="279" frameX="0" frameY="-1" frameWidth="324" frameHeight="280"/>
+	<SubTexture name="beta happy port0015" x="708" y="620" width="324" height="279" frameX="0" frameY="-1" frameWidth="324" frameHeight="280"/>
+	<SubTexture name="beta happy port0016" x="708" y="620" width="324" height="279" frameX="0" frameY="-1" frameWidth="324" frameHeight="280"/>
+	<SubTexture name="beta happy port0017" x="708" y="620" width="324" height="279" frameX="0" frameY="-1" frameWidth="324" frameHeight="280"/>
+	<SubTexture name="beta happy port0018" x="708" y="620" width="324" height="279" frameX="0" frameY="-1" frameWidth="324" frameHeight="280"/>
+	<SubTexture name="beta happy port0019" x="708" y="620" width="324" height="279" frameX="0" frameY="-1" frameWidth="324" frameHeight="280"/>
+	<SubTexture name="beta panic port0000" x="1052" y="620" width="328" height="250"/>
+	<SubTexture name="beta panic port0001" x="1400" y="620" width="328" height="248" frameX="0" frameY="-2" frameWidth="328" frameHeight="250"/>
+	<SubTexture name="beta panic port0002" x="1748" y="620" width="328" height="250"/>
+	<SubTexture name="beta panic port0003" x="2096" y="620" width="328" height="248" frameX="0" frameY="-2" frameWidth="328" frameHeight="250"/>
+	<SubTexture name="beta passive agressive port0000" x="2444" y="620" width="324" height="280"/>
+	<SubTexture name="beta passive agressive port0001" x="2444" y="620" width="324" height="280"/>
+	<SubTexture name="beta passive agressive port0002" x="2788" y="620" width="324" height="278" frameX="0" frameY="-2" frameWidth="324" frameHeight="280"/>
+	<SubTexture name="beta passive agressive port0003" x="2788" y="620" width="324" height="278" frameX="0" frameY="-2" frameWidth="324" frameHeight="280"/>
+	<SubTexture name="beta passive agressive port0004" x="3132" y="620" width="324" height="279" frameX="0" frameY="-1" frameWidth="324" frameHeight="280"/>
+	<SubTexture name="beta passive agressive port0005" x="3132" y="620" width="324" height="279" frameX="0" frameY="-1" frameWidth="324" frameHeight="280"/>
+	<SubTexture name="beta passive agressive port0006" x="3132" y="620" width="324" height="279" frameX="0" frameY="-1" frameWidth="324" frameHeight="280"/>
+	<SubTexture name="beta passive agressive port0007" x="2444" y="620" width="324" height="280"/>
+	<SubTexture name="beta passive agressive port0008" x="2444" y="620" width="324" height="280"/>
+	<SubTexture name="beta passive agressive port0009" x="2788" y="620" width="324" height="278" frameX="0" frameY="-2" frameWidth="324" frameHeight="280"/>
+	<SubTexture name="beta passive agressive port0010" x="2788" y="620" width="324" height="278" frameX="0" frameY="-2" frameWidth="324" frameHeight="280"/>
+	<SubTexture name="beta passive agressive port0011" x="3132" y="620" width="324" height="279" frameX="0" frameY="-1" frameWidth="324" frameHeight="280"/>
+	<SubTexture name="beta passive agressive port0012" x="3132" y="620" width="324" height="279" frameX="0" frameY="-1" frameWidth="324" frameHeight="280"/>
+	<SubTexture name="beta passive agressive port0013" x="3132" y="620" width="324" height="279" frameX="0" frameY="-1" frameWidth="324" frameHeight="280"/>
+	<SubTexture name="beta passive agressive port0014" x="3132" y="620" width="324" height="279" frameX="0" frameY="-1" frameWidth="324" frameHeight="280"/>
+	<SubTexture name="beta passive agressive port0015" x="3132" y="620" width="324" height="279" frameX="0" frameY="-1" frameWidth="324" frameHeight="280"/>
+	<SubTexture name="beta passive agressive port0016" x="3132" y="620" width="324" height="279" frameX="0" frameY="-1" frameWidth="324" frameHeight="280"/>
+	<SubTexture name="beta passive agressive port0017" x="3132" y="620" width="324" height="279" frameX="0" frameY="-1" frameWidth="324" frameHeight="280"/>
+	<SubTexture name="beta passive agressive port0018" x="3132" y="620" width="324" height="279" frameX="0" frameY="-1" frameWidth="324" frameHeight="280"/>
+	<SubTexture name="beta passive agressive port0019" x="3132" y="620" width="324" height="279" frameX="0" frameY="-1" frameWidth="324" frameHeight="280"/>
+	<SubTexture name="beta pissed port0000" x="3476" y="620" width="329" height="252" frameX="0" frameY="-23" frameWidth="329" frameHeight="275"/>
+	<SubTexture name="beta pissed port0001" x="20" y="920" width="329" height="252" frameX="0" frameY="-23" frameWidth="329" frameHeight="275"/>
+	<SubTexture name="beta pissed port0002" x="369" y="920" width="329" height="275"/>
+	<SubTexture name="beta pissed port0003" x="718" y="920" width="329" height="275"/>
+	<SubTexture name="beta pissed port0004" x="1067" y="920" width="329" height="263" frameX="0" frameY="-12" frameWidth="329" frameHeight="275"/>
+	<SubTexture name="beta pissed port0005" x="1416" y="920" width="329" height="264" frameX="0" frameY="-11" frameWidth="329" frameHeight="275"/>
+	<SubTexture name="beta pissed port0006" x="1765" y="920" width="329" height="264" frameX="0" frameY="-11" frameWidth="329" frameHeight="275"/>
+	<SubTexture name="beta pissed port0007" x="3476" y="620" width="329" height="252" frameX="0" frameY="-23" frameWidth="329" frameHeight="275"/>
+	<SubTexture name="beta pissed port0008" x="20" y="920" width="329" height="252" frameX="0" frameY="-23" frameWidth="329" frameHeight="275"/>
+	<SubTexture name="beta pissed port0009" x="369" y="920" width="329" height="275"/>
+	<SubTexture name="beta pissed port0010" x="718" y="920" width="329" height="275"/>
+	<SubTexture name="beta pissed port0011" x="1067" y="920" width="329" height="263" frameX="0" frameY="-12" frameWidth="329" frameHeight="275"/>
+	<SubTexture name="beta pissed port0012" x="1416" y="920" width="329" height="264" frameX="0" frameY="-11" frameWidth="329" frameHeight="275"/>
+	<SubTexture name="beta pissed port0013" x="1765" y="920" width="329" height="264" frameX="0" frameY="-11" frameWidth="329" frameHeight="275"/>
+	<SubTexture name="beta pissed port0014" x="1416" y="920" width="329" height="264" frameX="0" frameY="-11" frameWidth="329" frameHeight="275"/>
+	<SubTexture name="beta pissed port0015" x="1765" y="920" width="329" height="264" frameX="0" frameY="-11" frameWidth="329" frameHeight="275"/>
+	<SubTexture name="beta pissed port0016" x="1416" y="920" width="329" height="264" frameX="0" frameY="-11" frameWidth="329" frameHeight="275"/>
+	<SubTexture name="beta pissed port0017" x="1765" y="920" width="329" height="264" frameX="0" frameY="-11" frameWidth="329" frameHeight="275"/>
+	<SubTexture name="beta pissed port0018" x="1416" y="920" width="329" height="264" frameX="0" frameY="-11" frameWidth="329" frameHeight="275"/>
+	<SubTexture name="beta pissed port0019" x="1765" y="920" width="329" height="264" frameX="0" frameY="-11" frameWidth="329" frameHeight="275"/>
+	<SubTexture name="beta shitass port 0000" x="2114" y="920" width="324" height="284" frameX="0" frameY="-5" frameWidth="324" frameHeight="289"/>
+	<SubTexture name="beta shitass port 0001" x="2114" y="920" width="324" height="284" frameX="0" frameY="-5" frameWidth="324" frameHeight="289"/>
+	<SubTexture name="beta shitass port 0002" x="2458" y="920" width="324" height="275" frameX="0" frameY="-14" frameWidth="324" frameHeight="289"/>
+	<SubTexture name="beta shitass port 0003" x="2458" y="920" width="324" height="275" frameX="0" frameY="-14" frameWidth="324" frameHeight="289"/>
+	<SubTexture name="beta shitass port 0004" x="2802" y="920" width="324" height="279" frameX="0" frameY="-10" frameWidth="324" frameHeight="289"/>
+	<SubTexture name="beta shitass port 0005" x="2802" y="920" width="324" height="279" frameX="0" frameY="-10" frameWidth="324" frameHeight="289"/>
+	<SubTexture name="beta shitass port 0006" x="3146" y="920" width="324" height="289"/>
+	<SubTexture name="beta shitass port 0007" x="3146" y="920" width="324" height="289"/>
+	<SubTexture name="beta shitass port 0008" x="3490" y="920" width="324" height="274" frameX="0" frameY="-15" frameWidth="324" frameHeight="289"/>
+	<SubTexture name="beta shitass port 0009" x="3490" y="920" width="324" height="274" frameX="0" frameY="-15" frameWidth="324" frameHeight="289"/>
+	<SubTexture name="beta shitass port 0010" x="2802" y="920" width="324" height="279" frameX="0" frameY="-10" frameWidth="324" frameHeight="289"/>
+	<SubTexture name="beta shitass port 0011" x="2802" y="920" width="324" height="279" frameX="0" frameY="-10" frameWidth="324" frameHeight="289"/>
+	<SubTexture name="beta shitass port 0012" x="2802" y="920" width="324" height="279" frameX="0" frameY="-10" frameWidth="324" frameHeight="289"/>
+	<SubTexture name="beta shitass port 0013" x="2802" y="920" width="324" height="279" frameX="0" frameY="-10" frameWidth="324" frameHeight="289"/>
+	<SubTexture name="beta shitass port 0014" x="2802" y="920" width="324" height="279" frameX="0" frameY="-10" frameWidth="324" frameHeight="289"/>
+	<SubTexture name="beta shitass port 0015" x="2802" y="920" width="324" height="279" frameX="0" frameY="-10" frameWidth="324" frameHeight="289"/>
+	<SubTexture name="beta shitass port 0016" x="2802" y="920" width="324" height="279" frameX="0" frameY="-10" frameWidth="324" frameHeight="289"/>
+	<SubTexture name="beta shitass port 0017" x="2802" y="920" width="324" height="279" frameX="0" frameY="-10" frameWidth="324" frameHeight="289"/>
+	<SubTexture name="beta shitass port 0018" x="2802" y="920" width="324" height="279" frameX="0" frameY="-10" frameWidth="324" frameHeight="289"/>
+	<SubTexture name="beta shock port0000" x="20" y="1229" width="324" height="285"/>
+	<SubTexture name="beta shock port0001" x="20" y="1229" width="324" height="285"/>
+	<SubTexture name="beta shock port0002" x="364" y="1229" width="324" height="277" frameX="0" frameY="-8" frameWidth="324" frameHeight="285"/>
+	<SubTexture name="beta shock port0003" x="364" y="1229" width="324" height="277" frameX="0" frameY="-8" frameWidth="324" frameHeight="285"/>
+	<SubTexture name="beta shock port0004" x="708" y="1229" width="324" height="279" frameX="0" frameY="-6" frameWidth="324" frameHeight="285"/>
+	<SubTexture name="beta shock port0005" x="708" y="1229" width="324" height="279" frameX="0" frameY="-6" frameWidth="324" frameHeight="285"/>
+	<SubTexture name="beta shock port0006" x="708" y="1229" width="324" height="279" frameX="0" frameY="-6" frameWidth="324" frameHeight="285"/>
+	<SubTexture name="beta shock port0007" x="708" y="1229" width="324" height="279" frameX="0" frameY="-6" frameWidth="324" frameHeight="285"/>
+	<SubTexture name="beta shock port0008" x="708" y="1229" width="324" height="279" frameX="0" frameY="-6" frameWidth="324" frameHeight="285"/>
+	<SubTexture name="beta shock port0009" x="708" y="1229" width="324" height="279" frameX="0" frameY="-6" frameWidth="324" frameHeight="285"/>
+	<SubTexture name="beta shock port0010" x="708" y="1229" width="324" height="279" frameX="0" frameY="-6" frameWidth="324" frameHeight="285"/>
+	<SubTexture name="beta shock port0011" x="708" y="1229" width="324" height="279" frameX="0" frameY="-6" frameWidth="324" frameHeight="285"/>
+	<SubTexture name="beta shock port0012" x="708" y="1229" width="324" height="279" frameX="0" frameY="-6" frameWidth="324" frameHeight="285"/>
+	<SubTexture name="beta shock port0013" x="708" y="1229" width="324" height="279" frameX="0" frameY="-6" frameWidth="324" frameHeight="285"/>
+	<SubTexture name="beta shock port0014" x="708" y="1229" width="324" height="279" frameX="0" frameY="-6" frameWidth="324" frameHeight="285"/>
+	<SubTexture name="beta shock port0015" x="708" y="1229" width="324" height="279" frameX="0" frameY="-6" frameWidth="324" frameHeight="285"/>
+	<SubTexture name="beta shock port0016" x="708" y="1229" width="324" height="279" frameX="0" frameY="-6" frameWidth="324" frameHeight="285"/>
+	<SubTexture name="beta shock port0017" x="708" y="1229" width="324" height="279" frameX="0" frameY="-6" frameWidth="324" frameHeight="285"/>
+	<SubTexture name="beta shock port0018" x="708" y="1229" width="324" height="279" frameX="0" frameY="-6" frameWidth="324" frameHeight="285"/>
+	<SubTexture name="beta shock port0019" x="708" y="1229" width="324" height="279" frameX="0" frameY="-6" frameWidth="324" frameHeight="285"/>
+	<SubTexture name="beta shock port0020" x="708" y="1229" width="324" height="279" frameX="0" frameY="-6" frameWidth="324" frameHeight="285"/>
+	<SubTexture name="beta shock port0021" x="708" y="1229" width="324" height="279" frameX="0" frameY="-6" frameWidth="324" frameHeight="285"/>
+	<SubTexture name="beta shock port0022" x="708" y="1229" width="324" height="279" frameX="0" frameY="-6" frameWidth="324" frameHeight="285"/>
+	<SubTexture name="beta shock port0023" x="708" y="1229" width="324" height="279" frameX="0" frameY="-6" frameWidth="324" frameHeight="285"/>
+	<SubTexture name="beta shock port0024" x="708" y="1229" width="324" height="279" frameX="0" frameY="-6" frameWidth="324" frameHeight="285"/>
+	<SubTexture name="beta shock port0025" x="708" y="1229" width="324" height="279" frameX="0" frameY="-6" frameWidth="324" frameHeight="285"/>
+	<SubTexture name="beta shock port0026" x="708" y="1229" width="324" height="279" frameX="0" frameY="-6" frameWidth="324" frameHeight="285"/>
+	<SubTexture name="beta shock port0027" x="708" y="1229" width="324" height="279" frameX="0" frameY="-6" frameWidth="324" frameHeight="285"/>
+	<SubTexture name="beta shock port0028" x="708" y="1229" width="324" height="279" frameX="0" frameY="-6" frameWidth="324" frameHeight="285"/>
+	<SubTexture name="beta shock port0029" x="708" y="1229" width="324" height="279" frameX="0" frameY="-6" frameWidth="324" frameHeight="285"/>
+	<SubTexture name="beta shock port0030" x="708" y="1229" width="324" height="279" frameX="0" frameY="-6" frameWidth="324" frameHeight="285"/>
+	<SubTexture name="beta shock port0031" x="708" y="1229" width="324" height="279" frameX="0" frameY="-6" frameWidth="324" frameHeight="285"/>
+	<SubTexture name="beta shock port0032" x="708" y="1229" width="324" height="279" frameX="0" frameY="-6" frameWidth="324" frameHeight="285"/>
+	<SubTexture name="beta shock port0033" x="708" y="1229" width="324" height="279" frameX="0" frameY="-6" frameWidth="324" frameHeight="285"/>
+	<SubTexture name="beta shock port0034" x="708" y="1229" width="324" height="279" frameX="0" frameY="-6" frameWidth="324" frameHeight="285"/>
+	<SubTexture name="beta shock port0035" x="708" y="1229" width="324" height="279" frameX="0" frameY="-6" frameWidth="324" frameHeight="285"/>
+	<SubTexture name="beta shock port0036" x="708" y="1229" width="324" height="279" frameX="0" frameY="-6" frameWidth="324" frameHeight="285"/>
+	<SubTexture name="beta shock port0037" x="708" y="1229" width="324" height="279" frameX="0" frameY="-6" frameWidth="324" frameHeight="285"/>
+	<SubTexture name="beta shock port0038" x="708" y="1229" width="324" height="279" frameX="0" frameY="-6" frameWidth="324" frameHeight="285"/>
+	<SubTexture name="beta shock port0039" x="708" y="1229" width="324" height="279" frameX="0" frameY="-6" frameWidth="324" frameHeight="285"/>
+	<SubTexture name="beta shock port0040" x="708" y="1229" width="324" height="279" frameX="0" frameY="-6" frameWidth="324" frameHeight="285"/>
+	<SubTexture name="beta shock port0041" x="708" y="1229" width="324" height="279" frameX="0" frameY="-6" frameWidth="324" frameHeight="285"/>
+	<SubTexture name="beta shock port0042" x="708" y="1229" width="324" height="279" frameX="0" frameY="-6" frameWidth="324" frameHeight="285"/>
+	<SubTexture name="beta shock port0043" x="708" y="1229" width="324" height="279" frameX="0" frameY="-6" frameWidth="324" frameHeight="285"/>
+	<SubTexture name="beta shock port0044" x="708" y="1229" width="324" height="279" frameX="0" frameY="-6" frameWidth="324" frameHeight="285"/>
+	<SubTexture name="beta shock port0045" x="708" y="1229" width="324" height="279" frameX="0" frameY="-6" frameWidth="324" frameHeight="285"/>
+	<SubTexture name="beta shock port0046" x="708" y="1229" width="324" height="279" frameX="0" frameY="-6" frameWidth="324" frameHeight="285"/>
+	<SubTexture name="beta shock port0047" x="708" y="1229" width="324" height="279" frameX="0" frameY="-6" frameWidth="324" frameHeight="285"/>
+	<SubTexture name="beta shock port0048" x="708" y="1229" width="324" height="279" frameX="0" frameY="-6" frameWidth="324" frameHeight="285"/>
+	<SubTexture name="beta shock port0049" x="708" y="1229" width="324" height="279" frameX="0" frameY="-6" frameWidth="324" frameHeight="285"/>
+	<SubTexture name="beta shock port0050" x="708" y="1229" width="324" height="279" frameX="0" frameY="-6" frameWidth="324" frameHeight="285"/>
+	<SubTexture name="beta shock port0051" x="708" y="1229" width="324" height="279" frameX="0" frameY="-6" frameWidth="324" frameHeight="285"/>
+	<SubTexture name="beta shock port0052" x="708" y="1229" width="324" height="279" frameX="0" frameY="-6" frameWidth="324" frameHeight="285"/>
+	<SubTexture name="beta shock port0053" x="708" y="1229" width="324" height="279" frameX="0" frameY="-6" frameWidth="324" frameHeight="285"/>
+	<SubTexture name="beta shock port0054" x="708" y="1229" width="324" height="279" frameX="0" frameY="-6" frameWidth="324" frameHeight="285"/>
+	<SubTexture name="beta shock port0055" x="708" y="1229" width="324" height="279" frameX="0" frameY="-6" frameWidth="324" frameHeight="285"/>
+	<SubTexture name="beta shock port0056" x="708" y="1229" width="324" height="279" frameX="0" frameY="-6" frameWidth="324" frameHeight="285"/>
+	<SubTexture name="beta shock port0057" x="708" y="1229" width="324" height="279" frameX="0" frameY="-6" frameWidth="324" frameHeight="285"/>
+	<SubTexture name="beta shock port0058" x="708" y="1229" width="324" height="279" frameX="0" frameY="-6" frameWidth="324" frameHeight="285"/>
+	<SubTexture name="beta shock port0059" x="708" y="1229" width="324" height="279" frameX="0" frameY="-6" frameWidth="324" frameHeight="285"/>
+	<SubTexture name="beta shock port0060" x="708" y="1229" width="324" height="279" frameX="0" frameY="-6" frameWidth="324" frameHeight="285"/>
+	<SubTexture name="beta shock port0061" x="708" y="1229" width="324" height="279" frameX="0" frameY="-6" frameWidth="324" frameHeight="285"/>
+	<SubTexture name="beta shock port0062" x="708" y="1229" width="324" height="279" frameX="0" frameY="-6" frameWidth="324" frameHeight="285"/>
+	<SubTexture name="beta shock port0063" x="708" y="1229" width="324" height="279" frameX="0" frameY="-6" frameWidth="324" frameHeight="285"/>
+	<SubTexture name="beta shock port0064" x="708" y="1229" width="324" height="279" frameX="0" frameY="-6" frameWidth="324" frameHeight="285"/>
+	<SubTexture name="beta shock port0065" x="708" y="1229" width="324" height="279" frameX="0" frameY="-6" frameWidth="324" frameHeight="285"/>
+	<SubTexture name="beta shock port0066" x="708" y="1229" width="324" height="279" frameX="0" frameY="-6" frameWidth="324" frameHeight="285"/>
+	<SubTexture name="beta shock port0067" x="708" y="1229" width="324" height="279" frameX="0" frameY="-6" frameWidth="324" frameHeight="285"/>
+	<SubTexture name="beta shock port0068" x="708" y="1229" width="324" height="279" frameX="0" frameY="-6" frameWidth="324" frameHeight="285"/>
+	<SubTexture name="beta shock port0069" x="708" y="1229" width="324" height="279" frameX="0" frameY="-6" frameWidth="324" frameHeight="285"/>
+	<SubTexture name="beta shock port0070" x="708" y="1229" width="324" height="279" frameX="0" frameY="-6" frameWidth="324" frameHeight="285"/>
+	<SubTexture name="beta shock port0071" x="708" y="1229" width="324" height="279" frameX="0" frameY="-6" frameWidth="324" frameHeight="285"/>
+	<SubTexture name="beta shock port0072" x="708" y="1229" width="324" height="279" frameX="0" frameY="-6" frameWidth="324" frameHeight="285"/>
+	<SubTexture name="beta shock port0073" x="708" y="1229" width="324" height="279" frameX="0" frameY="-6" frameWidth="324" frameHeight="285"/>
+	<SubTexture name="beta shock port0074" x="708" y="1229" width="324" height="279" frameX="0" frameY="-6" frameWidth="324" frameHeight="285"/>
+	<SubTexture name="beta shock port0075" x="708" y="1229" width="324" height="279" frameX="0" frameY="-6" frameWidth="324" frameHeight="285"/>
+	<SubTexture name="beta shock port0076" x="708" y="1229" width="324" height="279" frameX="0" frameY="-6" frameWidth="324" frameHeight="285"/>
+	<SubTexture name="beta shock port0077" x="708" y="1229" width="324" height="279" frameX="0" frameY="-6" frameWidth="324" frameHeight="285"/>
+	<SubTexture name="beta shock port0078" x="708" y="1229" width="324" height="279" frameX="0" frameY="-6" frameWidth="324" frameHeight="285"/>
+	<SubTexture name="beta shock port0079" x="708" y="1229" width="324" height="279" frameX="0" frameY="-6" frameWidth="324" frameHeight="285"/>
+	<SubTexture name="beta shock port0080" x="708" y="1229" width="324" height="279" frameX="0" frameY="-6" frameWidth="324" frameHeight="285"/>
+	<SubTexture name="beta shock port0081" x="708" y="1229" width="324" height="279" frameX="0" frameY="-6" frameWidth="324" frameHeight="285"/>
+	<SubTexture name="beta shock port0082" x="708" y="1229" width="324" height="279" frameX="0" frameY="-6" frameWidth="324" frameHeight="285"/>
+	<SubTexture name="beta shock port0083" x="708" y="1229" width="324" height="279" frameX="0" frameY="-6" frameWidth="324" frameHeight="285"/>
+	<SubTexture name="beta shock port0084" x="708" y="1229" width="324" height="279" frameX="0" frameY="-6" frameWidth="324" frameHeight="285"/>
+	<SubTexture name="beta shock port0085" x="708" y="1229" width="324" height="279" frameX="0" frameY="-6" frameWidth="324" frameHeight="285"/>
+	<SubTexture name="beta shock port0086" x="708" y="1229" width="324" height="279" frameX="0" frameY="-6" frameWidth="324" frameHeight="285"/>
+	<SubTexture name="beta shock port0087" x="708" y="1229" width="324" height="279" frameX="0" frameY="-6" frameWidth="324" frameHeight="285"/>
+	<SubTexture name="beta shock port0088" x="708" y="1229" width="324" height="279" frameX="0" frameY="-6" frameWidth="324" frameHeight="285"/>
+	<SubTexture name="beta shock port0089" x="708" y="1229" width="324" height="279" frameX="0" frameY="-6" frameWidth="324" frameHeight="285"/>
+	<SubTexture name="beta shock port0090" x="708" y="1229" width="324" height="279" frameX="0" frameY="-6" frameWidth="324" frameHeight="285"/>
+	<SubTexture name="beta shock port0091" x="708" y="1229" width="324" height="279" frameX="0" frameY="-6" frameWidth="324" frameHeight="285"/>
+	<SubTexture name="beta shock port0092" x="708" y="1229" width="324" height="279" frameX="0" frameY="-6" frameWidth="324" frameHeight="285"/>
+	<SubTexture name="beta shock port0093" x="708" y="1229" width="324" height="279" frameX="0" frameY="-6" frameWidth="324" frameHeight="285"/>
+	<SubTexture name="beta shock port0094" x="708" y="1229" width="324" height="279" frameX="0" frameY="-6" frameWidth="324" frameHeight="285"/>
+	<SubTexture name="beta shock port0095" x="708" y="1229" width="324" height="279" frameX="0" frameY="-6" frameWidth="324" frameHeight="285"/>
+	<SubTexture name="beta shock port0096" x="708" y="1229" width="324" height="279" frameX="0" frameY="-6" frameWidth="324" frameHeight="285"/>
+	<SubTexture name="beta shock port0097" x="708" y="1229" width="324" height="279" frameX="0" frameY="-6" frameWidth="324" frameHeight="285"/>
+	<SubTexture name="beta shock port0098" x="708" y="1229" width="324" height="279" frameX="0" frameY="-6" frameWidth="324" frameHeight="285"/>
+	<SubTexture name="beta shock port0099" x="708" y="1229" width="324" height="279" frameX="0" frameY="-6" frameWidth="324" frameHeight="285"/>
+	<SubTexture name="beta sleepy port0000" x="1052" y="1229" width="327" height="248" frameX="0" frameY="-3" frameWidth="328" frameHeight="251"/>
+	<SubTexture name="beta sleepy port0001" x="1052" y="1229" width="327" height="248" frameX="0" frameY="-3" frameWidth="328" frameHeight="251"/>
+	<SubTexture name="beta sleepy port0002" x="1399" y="1229" width="328" height="250" frameX="0" frameY="-1" frameWidth="328" frameHeight="251"/>
+	<SubTexture name="beta sleepy port0003" x="1399" y="1229" width="328" height="250" frameX="0" frameY="-1" frameWidth="328" frameHeight="251"/>
+	<SubTexture name="beta sleepy port0004" x="1399" y="1229" width="328" height="250" frameX="0" frameY="-1" frameWidth="328" frameHeight="251"/>
+	<SubTexture name="beta sleepy port0005" x="1747" y="1229" width="328" height="251"/>
+	<SubTexture name="beta sleepy port0006" x="1747" y="1229" width="328" height="251"/>
+	<SubTexture name="beta sleepy port0007" x="1747" y="1229" width="328" height="251"/>
+	<SubTexture name="beta sleepy port0008" x="1747" y="1229" width="328" height="251"/>
+	<SubTexture name="beta sleepy port0009" x="1747" y="1229" width="328" height="251"/>
+	<SubTexture name="beta sleepy port0010" x="1747" y="1229" width="328" height="251"/>
+	<SubTexture name="beta sleepy port0011" x="1747" y="1229" width="328" height="251"/>
+	<SubTexture name="beta sleepy port0012" x="1747" y="1229" width="328" height="251"/>
+	<SubTexture name="beta sleepy port0013" x="1747" y="1229" width="328" height="251"/>
+	<SubTexture name="beta sleepy port0014" x="1747" y="1229" width="328" height="251"/>
+	<SubTexture name="beta sleepy port0015" x="1747" y="1229" width="328" height="251"/>
+	<SubTexture name="beta sleepy port0016" x="1747" y="1229" width="328" height="251"/>
+	<SubTexture name="beta sleepy port0017" x="1747" y="1229" width="328" height="251"/>
+	<SubTexture name="beta sleepy port0018" x="1747" y="1229" width="328" height="251"/>
+	<SubTexture name="beta sleepy port0019" x="1747" y="1229" width="328" height="251"/>
+	<SubTexture name="beta stare port0000" x="2095" y="1229" width="325" height="279"/>
+	<SubTexture name="beta stare port0001" x="2095" y="1229" width="325" height="279"/>
+	<SubTexture name="beta stare port0002" x="2440" y="1229" width="325" height="279"/>
+	<SubTexture name="beta stare port0003" x="2440" y="1229" width="325" height="279"/>
+	<SubTexture name="beta stare port0004" x="2440" y="1229" width="325" height="279"/>
+	<SubTexture name="beta stare port0005" x="2440" y="1229" width="325" height="279"/>
+	<SubTexture name="beta stare port0006" x="2440" y="1229" width="325" height="279"/>
+	<SubTexture name="beta stare port0007" x="2440" y="1229" width="325" height="279"/>
+	<SubTexture name="beta stare port0008" x="2440" y="1229" width="325" height="279"/>
+	<SubTexture name="beta stare port0009" x="2440" y="1229" width="325" height="279"/>
+	<SubTexture name="beta stare port0010" x="2440" y="1229" width="325" height="279"/>
+	<SubTexture name="beta stare port0011" x="2440" y="1229" width="325" height="279"/>
+	<SubTexture name="beta stare port0012" x="2440" y="1229" width="325" height="279"/>
+	<SubTexture name="beta stare port0013" x="2440" y="1229" width="325" height="279"/>
+	<SubTexture name="beta stare port0014" x="2440" y="1229" width="325" height="279"/>
+	<SubTexture name="beta stare port0015" x="2440" y="1229" width="325" height="279"/>
+	<SubTexture name="beta stare port0016" x="2440" y="1229" width="325" height="279"/>
+	<SubTexture name="beta stare port0017" x="2440" y="1229" width="325" height="279"/>
+	<SubTexture name="beta stare port0018" x="2440" y="1229" width="325" height="279"/>
+	<SubTexture name="beta stare port0019" x="2440" y="1229" width="325" height="279"/>
+	<SubTexture name="beta stare port0020" x="2440" y="1229" width="325" height="279"/>
+	<SubTexture name="beta stim port0000" x="2785" y="1229" width="335" height="273" frameX="0" frameY="-6" frameWidth="335" frameHeight="279"/>
+	<SubTexture name="beta stim port0001" x="2785" y="1229" width="335" height="273" frameX="0" frameY="-6" frameWidth="335" frameHeight="279"/>
+	<SubTexture name="beta stim port0002" x="3140" y="1229" width="327" height="278" frameX="0" frameY="-1" frameWidth="335" frameHeight="279"/>
+	<SubTexture name="beta stim port0003" x="3140" y="1229" width="327" height="278" frameX="0" frameY="-1" frameWidth="335" frameHeight="279"/>
+	<SubTexture name="beta stim port0004" x="3487" y="1229" width="325" height="279" frameX="0" frameY="0" frameWidth="335" frameHeight="279"/>
+	<SubTexture name="beta stim port0005" x="3487" y="1229" width="325" height="279" frameX="0" frameY="0" frameWidth="335" frameHeight="279"/>
+	<SubTexture name="beta stim port0006" x="20" y="1534" width="325" height="279" frameX="0" frameY="0" frameWidth="335" frameHeight="279"/>
+	<SubTexture name="beta stim port0007" x="20" y="1534" width="325" height="279" frameX="0" frameY="0" frameWidth="335" frameHeight="279"/>
+	<SubTexture name="beta stim port0008" x="2785" y="1229" width="335" height="273" frameX="0" frameY="-6" frameWidth="335" frameHeight="279"/>
+	<SubTexture name="beta stim port0009" x="2785" y="1229" width="335" height="273" frameX="0" frameY="-6" frameWidth="335" frameHeight="279"/>
+	<SubTexture name="beta stim port0010" x="3140" y="1229" width="327" height="278" frameX="0" frameY="-1" frameWidth="335" frameHeight="279"/>
+	<SubTexture name="beta stim port0011" x="3140" y="1229" width="327" height="278" frameX="0" frameY="-1" frameWidth="335" frameHeight="279"/>
+	<SubTexture name="beta stim port0012" x="3487" y="1229" width="325" height="279" frameX="0" frameY="0" frameWidth="335" frameHeight="279"/>
+	<SubTexture name="beta stim port0013" x="3487" y="1229" width="325" height="279" frameX="0" frameY="0" frameWidth="335" frameHeight="279"/>
+	<SubTexture name="beta stim port0014" x="20" y="1534" width="325" height="279" frameX="0" frameY="0" frameWidth="335" frameHeight="279"/>
+	<SubTexture name="beta stim port0015" x="20" y="1534" width="325" height="279" frameX="0" frameY="0" frameWidth="335" frameHeight="279"/>
+	<SubTexture name="beta stim port0016" x="3487" y="1229" width="325" height="279" frameX="0" frameY="0" frameWidth="335" frameHeight="279"/>
+	<SubTexture name="beta stim port0017" x="3487" y="1229" width="325" height="279" frameX="0" frameY="0" frameWidth="335" frameHeight="279"/>
+	<SubTexture name="beta stim port0018" x="20" y="1534" width="325" height="279" frameX="0" frameY="0" frameWidth="335" frameHeight="279"/>
+	<SubTexture name="beta stim port0019" x="20" y="1534" width="325" height="279" frameX="0" frameY="0" frameWidth="335" frameHeight="279"/>
+</TextureAtlas>

@@ -1,0 +1,112 @@
+{
+	"dialogue": [
+		{
+			"sound": "alpha",
+			"speed": 0.05,
+			"boximage": "alpha",
+			"portrait": "alpha",
+			"expression": "dizzy",
+			"text": "Oh great heavens we are traveling at such extreme velocities!",
+			"textColor": "3b28a8"
+		},
+        {
+			"sound": "lem",
+			"speed": 0.05,
+			"boximage": "lem",
+			"portrait": "lem",
+			"expression": "embarassed",
+			"text": "Oh for fucks sake not you.",
+			"textColor": "7d2222"
+		},
+        {
+			"sound": "skid",
+			"speed": 0.05,
+			"boximage": "skid",
+			"portrait": "skid",
+			"expression": "confuse",
+			"text": "Huh guess I picked up the WRONG kid huh?",
+			"textColor": "1a414f"
+		},
+        {
+			"sound": "lem",
+			"speed": 0.05,
+			"boximage": "lem",
+			"portrait": "lem",
+			"expression": "questioning",
+			"text": "[At least he's home safe.]",
+			"textColor": "7d2222"
+		},
+        {
+			"sound": "skid",
+			"speed": 0.05,
+			"boximage": "skid",
+			"portrait": "skid",
+			"expression": "think",
+			"text": "Lame. I wanted to have some FUN tonight.",
+			"textColor": "1a414f"
+		},
+        {
+			"sound": "skid",
+			"speed": 0.05,
+			"boximage": "skid",
+			"portrait": "skid",
+			"expression": "think",
+			"text": " Hm...",
+			"textColor": "1a414f"
+		},
+        {
+			"sound": "skid",
+			"speed": 0.05,
+			"boximage": "skid",
+			"portrait": "skid",
+			"expression": "asshole",
+			"text": " Hey KID!",
+			"textColor": "1a414f"
+		},
+        {
+			"sound": "alpha",
+			"speed": 0.05,
+			"boximage": "alpha",
+			"portrait": "alpha",
+			"expression": "shrug",
+			"text": "Hello my skeletal snatcher! ",
+			"textColor": "3b28a8"
+		},
+        {
+			"sound": "skid",
+			"speed": 0.05,
+			"boximage": "skid",
+			"portrait": "skid",
+			"expression": "idea",
+			"text": "It's gonna be a WHILE 'til we get ya back HOME so...",
+			"textColor": "1a414f"
+		},
+        {
+			"sound": "skid",
+			"speed": 0.05,
+			"boximage": "skid",
+			"portrait": "skid",
+			"expression": "default",
+			"text": "How d'ya feel about a little RECREATIONAL ACTIVITY to pass the time?",
+			"textColor": "1a414f"
+		},
+        {
+			"sound": "lem",
+			"speed": 0.05,
+			"boximage": "lem",
+			"portrait": "lem",
+			"expression": "bruh",
+			"text": "Please say no.",
+			"textColor": "7d2222"
+		},
+        {
+			"sound": "alpha",
+			"speed": 0.05,
+			"boximage": "alpha",
+			"portrait": "alpha",
+			"expression": "shrug",
+			"text": "Certainly!",
+			"textColor": "3b28a8"
+		}
+	]
+}

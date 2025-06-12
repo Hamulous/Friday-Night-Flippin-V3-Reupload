@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bg_freeplay.png">
+	<!-- Created with Adobe Animate version 21.0.4.39603 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="freeplay bg0000" x="0" y="0" width="1280" height="720"/>
+	<SubTexture name="freeplay bg0001" x="0" y="0" width="1280" height="720"/>
+	<SubTexture name="freeplay bg0002" x="0" y="0" width="1280" height="720"/>
+	<SubTexture name="freeplay bg0003" x="0" y="0" width="1280" height="720"/>
+	<SubTexture name="freeplay bg0004" x="0" y="0" width="1280" height="720"/>
+	<SubTexture name="freeplay bg0005" x="0" y="0" width="1280" height="720"/>
+	<SubTexture name="freeplay bg0006" x="1310" y="0" width="1280" height="720"/>
+	<SubTexture name="freeplay bg0007" x="1310" y="0" width="1280" height="720"/>
+	<SubTexture name="freeplay bg0008" x="1310" y="0" width="1280" height="720"/>
+	<SubTexture name="freeplay bg0009" x="1310" y="0" width="1280" height="720"/>
+	<SubTexture name="freeplay bg0010" x="1310" y="0" width="1280" height="720"/>
+	<SubTexture name="freeplay bg0011" x="1310" y="0" width="1280" height="720"/>
+	<SubTexture name="freeplay bg0012" x="2620" y="0" width="1280" height="720"/>
+	<SubTexture name="freeplay bg0013" x="2620" y="0" width="1280" height="720"/>
+	<SubTexture name="freeplay bg0014" x="2620" y="0" width="1280" height="720"/>
+	<SubTexture name="freeplay bg0015" x="2620" y="0" width="1280" height="720"/>
+	<SubTexture name="freeplay bg0016" x="2620" y="0" width="1280" height="720"/>
+</TextureAtlas>

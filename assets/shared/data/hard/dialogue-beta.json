@@ -1,0 +1,256 @@
+{
+	"dialogue": [
+		{
+			"sound": "beta",
+			"speed": 0.05,
+			"boximage": "beta",
+			"portrait": "beta",
+			"expression": "shitass",
+			"text": "",
+			"textColor": "663c60"
+		},
+		{
+			"sound": "beta",
+			"speed": 0.05,
+			"boximage": "beta",
+			"portrait": "beta",
+			"expression": "shitass",
+			"text": "What.",
+			"textColor": "663c60"
+		},
+		{
+			"sound": "cap",
+			"speed": 0.05,
+			"boximage": "cap",
+			"portrait": "cap",
+			"expression": "doubt",
+			"text": "Hells up with that face? looks like ya seena ghost.",
+			"textColor": "573937"
+		},
+		{
+			"sound": "beta",
+			"speed": 0.05,
+			"boximage": "beta",
+			"portrait": "beta",
+			"expression": "fuck",
+			"text": "YOU'RE ALIVE?",
+			"textColor": "663c60"
+		},
+		{
+			"sound": "cap",
+			"speed": 0.05,
+			"boximage": "cap",
+			"portrait": "cap",
+			"expression": "default",
+			"text": "The hell are you so mad about?",
+			"textColor": "573937"
+		},
+		{
+			"sound": "beta",
+			"speed": 0.05,
+			"boximage": "beta",
+			"portrait": "beta",
+			"expression": "fuck",
+			"text": "Well I'm not gonna be stoked over you faking that shit???",
+			"textColor": "663c60"
+		},
+		{
+			"sound": "beta",
+			"speed": 0.05,
+			"boximage": "beta",
+			"portrait": "beta",
+			"expression": "pissed",
+			"text": "especially when YOU just ditched EVERYONE.",
+			"textColor": "663c60"
+		},
+		{
+			"sound": "cap",
+			"speed": 0.05,
+			"boximage": "cap",
+			"portrait": "cap",
+			"expression": "nuetral",
+			"text": "Eh",
+			"textColor": "573937"
+		},
+		{
+			"sound": "beta",
+			"speed": 0.05,
+			"boximage": "beta",
+			"portrait": "beta",
+			"expression": "fuck",
+			"text": "Fuck you mean, 'eh?'",
+			"textColor": "663c60"
+		},
+		{
+			"sound": "cap",
+			"speed": 0.05,
+			"boximage": "cap",
+			"portrait": "cap",
+			"expression": "confuse",
+			"text": "Why should I care about all that material shit.",
+			"textColor": "573937"
+		},
+		{
+			"sound": "cap",
+			"speed": 0.05,
+			"boximage": "cap",
+			"portrait": "cap",
+			"expression": "default",
+			"text": "Don't really matter when I get everything I need here.",
+			"textColor": "573937"
+		},
+		{
+			"sound": "beta",
+			"speed": 0.05,
+			"boximage": "beta",
+			"portrait": "beta",
+			"expression": "annoyed",
+			"text": "Oh yeah I'm sure Sen never mattered to you",
+			"textColor": "663c60"
+		},
+		{
+			"sound": "cap",
+			"speed": 0.05,
+			"boximage": "cap",
+			"portrait": "cap",
+			"expression": "nuetral",
+			"text": "Shut it.",
+			"textColor": "573937"
+		},
+		{
+			"sound": "cap",
+			"speed": 0.05,
+			"boximage": "cap",
+			"portrait": "cap",
+			"expression": "mad",
+			"text": "No-ranks like you dont talk to captains like that, you hear?",
+			"textColor": "573937"
+		},
+		{
+			"sound": "cap",
+			"speed": 0.05,
+			"boximage": "cap",
+			"portrait": "cap",
+			"expression": "insane",
+			"text": "'Fact just for that, I should blow yer goddamn head off.",
+			"textColor": "573937"
+		},
+		{
+			"sound": "lem",
+			"speed": 0.05,
+			"boximage": "lem",
+			"portrait": "lem",
+			"expression": "bruh",
+			"text": "Back off.",
+			"textColor": "7d2222"
+		},
+		{
+			"sound": "cap",
+			"speed": 0.05,
+			"boximage": "cap",
+			"portrait": "cap",
+			"expression": "insane",
+			"text": "Relax candy-head, I'm not done talkin'",
+			"textColor": "573937"
+		},
+		{
+			"sound": "cap",
+			"speed": 0.05,
+			"boximage": "cap",
+			"portrait": "cap",
+			"expression": "nuetral",
+			"text": "",
+			"textColor": "573937"
+		},
+		{
+			"sound": "cap",
+			"speed": 0.05,
+			"boximage": "cap",
+			"portrait": "cap",
+			"expression": "default",
+			"text": "Look I'm a reasonable guy. I may just forgive ya slander n letcha get outta here.",
+			"textColor": "573937"
+		},
+		{
+			"sound": "cap",
+			"speed": 0.05,
+			"boximage": "cap",
+			"portrait": "cap",
+			"expression": "default",
+			"text": "IF you can beat me.",
+			"textColor": "573937"
+		},
+		{
+			"sound": "beta",
+			"speed": 0.05,
+			"boximage": "beta",
+			"portrait": "beta",
+			"expression": "fake smile",
+			"text": "Oh hoho It's fuckin on. Can't wait to wipe that smile off your face.",
+			"textColor": "663c60"
+		},
+		{
+			"sound": "cap",
+			"speed": 0.05,
+			"boximage": "cap",
+			"portrait": "cap",
+			"expression": "default",
+			"text": "Whatever you say, hot topic. Just one thing",
+			"textColor": "573937"
+		},
+		{
+			"sound": "cap",
+			"speed": 0.05,
+			"boximage": "cap",
+			"portrait": "cap",
+			"expression": "nuetral",
+			"text": "Fuck up and you're dead.",
+			"textColor": "573937"
+		},
+		{
+			"sound": "cap",
+			"speed": 0.05,
+			"boximage": "cap",
+			"portrait": "cap",
+			"expression": "doubt",
+			"text": "Both you and that... freak",
+			"textColor": "573937"
+		},
+		{
+			"sound": "lem",
+			"speed": 0.05,
+			"boximage": "lem",
+			"portrait": "lem",
+			"expression": "happy",
+			"text": "I'm not a freak!",
+			"textColor": "7d2222"
+		},
+		{
+			"sound": "lem",
+			"speed": 0.05,
+			"boximage": "lem",
+			"portrait": "lem",
+			"expression": "happy",
+			"text": "I'm a handsome lil lad.",
+			"textColor": "7d2222"
+		},
+		{
+			"sound": "beta",
+			"speed": 0.05,
+			"boximage": "beta",
+			"portrait": "beta",
+			"expression": "fake smile",
+			"text": "I thought you said you were a girl",
+			"textColor": "663c60"
+		},
+		{
+			"sound": "lem",
+			"speed": 0.05,
+			"boximage": "lem",
+			"portrait": "lem",
+			"expression": "happy",
+			"text": "Eh it fluctuates.",
+			"textColor": "7d2222"
+		}
+	]
+}

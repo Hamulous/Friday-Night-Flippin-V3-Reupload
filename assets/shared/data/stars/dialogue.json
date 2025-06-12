@@ -1,0 +1,157 @@
+{
+	"dialogue": [
+		{
+			"sound": "sen",
+			"speed": 0.05,
+			"boximage": "sen",
+			"portrait": "sen",
+			"expression": "done",
+			"text": "Oh... A guitar. Again. Neat.",
+			"textColor": "C86762"
+		},
+        {
+			"sound": "lem",
+			"speed": 0.05,
+			"boximage": "lem",
+			"portrait": "lem",
+			"expression": "bruh",
+			"text": "It's pre-recorded",
+			"textColor": "7d2222"
+		},
+        {
+			"sound": "lem",
+			"speed": 0.05,
+			"boximage": "lem",
+			"portrait": "lem",
+			"expression": "sass",
+			"text": "He doesn't actually know how to play.",
+			"textColor": "7d2222"
+		},
+        {
+			"sound": "skid",
+			"speed": 0.05,
+			"boximage": "skid",
+			"portrait": "skid",
+			"expression": "shock",
+			"text": "HE-HEY!",
+			"textColor": "1a414f"
+		},
+        {
+			"sound": "sen",
+			"speed": 0.05,
+			"boximage": "sen",
+			"portrait": "sen",
+			"expression": "happy",
+			"text": "heheheh",
+			"textColor": "C86762"
+		},
+        {
+			"sound": "skid",
+			"speed": 0.05,
+			"boximage": "skid",
+			"portrait": "skid",
+			"expression": "stare",
+			"text": "..",
+			"textColor": "1a414f"
+		},
+        {
+			"sound": "sen",
+			"speed": 0.05,
+			"boximage": "sen",
+			"portrait": "sen",
+			"expression": "shocked",
+			"text": "Eep!",
+			"textColor": "C86762"
+		},
+        {
+			"sound": "skid",
+			"speed": 0.05,
+			"boximage": "skid",
+			"portrait": "skid",
+			"expression": "default",
+			"text": "JEEZ Lem, what's got you in such a sour mood, huh? ",
+			"textColor": "1a414f"
+		},
+        {
+			"sound": "lem",
+			"speed": 0.05,
+			"boximage": "lem",
+			"portrait": "lem",
+			"expression": "meh",
+			"text": "Because you're being a dick.",
+			"textColor": "7d2222"
+		},
+        {
+			"sound": "skid",
+			"speed": 0.05,
+			"boximage": "skid",
+			"portrait": "skid",
+			"expression": "think",
+			"text": "...",
+			"textColor": "1a414f"
+		},
+        {
+			"sound": "skid",
+			"speed": 0.05,
+			"boximage": "skid",
+			"portrait": "skid",
+			"expression": "idea",
+			"text": "Oh wait I know what'll CHEER you up!",
+			"textColor": "1a414f"
+		},
+        {
+			"sound": "skid",
+			"speed": 0.05,
+			"boximage": "skid",
+			"portrait": "skid",
+			"expression": "nudge",
+			"text": "Howssabout I sing ya FAVORITE song, huh?",
+			"textColor": "1a414f"
+		},
+        {
+			"sound": "lem",
+			"speed": 0.05,
+			"boximage": "lem",
+			"portrait": "lem",
+			"expression": "meh",
+			"text": "Please don't ",
+			"textColor": "7d2222"
+		},
+        {
+			"sound": "skid",
+			"speed": 0.05,
+			"boximage": "skid",
+			"portrait": "skid",
+			"expression": "shrug",
+			"text": "Nah nah, I INSIST. Hell I'll MAKE this fella sing along.",
+			"textColor": "1a414f"
+		},
+        {
+			"sound": "sen",
+			"speed": 0.05,
+			"boximage": "sen",
+			"portrait": "sen",
+			"expression": "offguard",
+			"text": "Me?? B-but I dont know the words!",
+			"textColor": "C86762"
+		},
+        {
+			"sound": "skid",
+			"speed": 0.05,
+			"boximage": "skid",
+			"portrait": "skid",
+			"expression": "idea",
+			"text": "Eh it'll come out naturally just trust me",
+			"textColor": "1a414f"
+		},
+        {
+			"sound": "skid",
+			"speed": 0.05,
+			"boximage": "skid",
+			"portrait": "skid",
+			"expression": "shrug",
+			"text": "'sides, your FRUITY voice is perfect for this typa SH!T anyways.",
+			"textColor": "1a414f"
+		}
+	]
+}

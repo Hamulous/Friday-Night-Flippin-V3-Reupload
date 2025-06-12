@@ -1,0 +1,414 @@
+{
+	"position": [
+		-80,
+		140
+	],
+	"dialogue_pos": "right",
+	"scale": 1.25,
+	"image": "portraits/sen/ports",
+	"animations": [
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "LMFAO",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "sen LMFAOOO port",
+			"idle_name": "sen LMFAOOO port"
+		},
+		{
+			"loop_offsets": [
+				-112,
+				-6
+			],
+			"anim": "awshit",
+			"idle_offsets": [
+				-111,
+				-6
+			],
+			"loop_name": "senpai awshit port",
+			"idle_name": "senpai awshit port"
+		},
+		{
+			"loop_name": "senpai cat port",
+			"idle_offsets": [
+				-110,
+				0
+			],
+			"idle_name": "senpai cat port",
+			"anim": "cat",
+			"loop_offsets": [
+				-110,
+				0
+			]
+		},
+		{
+			"loop_name": "senpai concern port",
+			"idle_offsets": [
+				-120,
+				-10
+			],
+			"idle_name": "senpai concern port",
+			"anim": "concern",
+			"loop_offsets": [
+				-120,
+				-10
+			]
+		},
+		{
+			"loop_name": "senpai disbelief port",
+			"idle_offsets": [
+				-130,
+				-10
+			],
+			"idle_name": "senpai disbelief port",
+			"anim": "disbelief",
+			"loop_offsets": [
+				-130,
+				-10
+			]
+		},
+		{
+			"loop_name": "senpai dismay port",
+			"idle_offsets": [
+				-140,
+				-20
+			],
+			"idle_name": "senpai dismay port",
+			"anim": "dismay",
+			"loop_offsets": [
+				-141,
+				-20
+			]
+		},
+		{
+			"loop_name": "senpai done port",
+			"idle_offsets": [
+				-130,
+				-30
+			],
+			"idle_name": "senpai done port",
+			"anim": "done",
+			"loop_offsets": [
+				-130,
+				-30
+			]
+		},
+		{
+			"loop_name": "senpai droopy port",
+			"idle_offsets": [
+				-120,
+				-20
+			],
+			"idle_name": "senpai droopy port",
+			"anim": "droopy",
+			"loop_offsets": [
+				-120,
+				-20
+			]
+		},
+		{
+			"loop_name": "senpai evil port",
+			"idle_offsets": [
+				-130,
+				-20
+			],
+			"idle_name": "senpai evil port",
+			"anim": "evil",
+			"loop_offsets": [
+				-130,
+				-20
+			]
+		},
+		{
+			"loop_name": "senpai explaining port",
+			"idle_offsets": [
+				-130,
+				-20
+			],
+			"idle_name": "senpai explaining port",
+			"anim": "explaining",
+			"loop_offsets": [
+				-130,
+				-20
+			]
+		},
+		{
+			"loop_name": "senpai fear port",
+			"idle_offsets": [
+				-140,
+				-40
+			],
+			"idle_name": "senpai fear port",
+			"anim": "fear",
+			"loop_offsets": [
+				-140,
+				-40
+			]
+		},
+		{
+			"loop_name": "senpai flustered port",
+			"idle_offsets": [
+				-80,
+				0
+			],
+			"idle_name": "senpai flustered port",
+			"anim": "flustered",
+			"loop_offsets": [
+				-80,
+				0
+			]
+		},
+		{
+			"loop_name": "senpai happy port ",
+			"idle_offsets": [
+				-100,
+				0
+			],
+			"idle_name": "senpai happy port ",
+			"anim": "happy",
+			"loop_offsets": [
+				-100,
+				0
+			]
+		},
+		{
+			"loop_name": "senpai headache port",
+			"idle_offsets": [
+				-110,
+				-17
+			],
+			"idle_name": "senpai headache port",
+			"anim": "headache",
+			"loop_offsets": [
+				-110,
+				-16
+			]
+		},
+		{
+			"loop_name": "senpai hehe port",
+			"idle_offsets": [
+				-110,
+				-10
+			],
+			"idle_name": "senpai hehe port",
+			"anim": "hehe",
+			"loop_offsets": [
+				-110,
+				-10
+			]
+		},
+		{
+			"loop_name": "senpai mad port ",
+			"idle_offsets": [
+				-120,
+				-20
+			],
+			"idle_name": "senpai mad port ",
+			"anim": "mad",
+			"loop_offsets": [
+				-120,
+				-20
+			]
+		},
+		{
+			"loop_name": "senpai normal port",
+			"idle_offsets": [
+				-110,
+				-10
+			],
+			"idle_name": "senpai normal port",
+			"anim": "normal",
+			"loop_offsets": [
+				-110,
+				-10
+			]
+		},
+		{
+			"loop_name": "senpai offguard port",
+			"idle_offsets": [
+				-130,
+				0
+			],
+			"idle_name": "senpai offguard port",
+			"anim": "offguard",
+			"loop_offsets": [
+				-130,
+				0
+			]
+		},
+		{
+			"loop_name": "senpai one eye port",
+			"idle_offsets": [
+				-120,
+				-20
+			],
+			"idle_name": "senpai one eye port",
+			"anim": "oneeye",
+			"loop_offsets": [
+				-120,
+				-20
+			]
+		},
+		{
+			"loop_name": "senpai panic port",
+			"idle_offsets": [
+				-110,
+				0
+			],
+			"idle_name": "senpai panic port",
+			"anim": "panic",
+			"loop_offsets": [
+				-110,
+				0
+			]
+		},
+		{
+			"loop_name": "senpai pissbaby port",
+			"idle_offsets": [
+				-160,
+				20
+			],
+			"idle_name": "senpai pissbaby port",
+			"anim": "pissbaby",
+			"loop_offsets": [
+				-160,
+				20
+			]
+		},
+		{
+			"loop_name": "senpai pissed port",
+			"idle_offsets": [
+				-120,
+				-15
+			],
+			"idle_name": "senpai pissed port",
+			"anim": "pissed",
+			"loop_offsets": [
+				-120,
+				-15
+			]
+		},
+		{
+			"loop_name": "senpai regret port",
+			"idle_offsets": [
+				-120,
+				10
+			],
+			"idle_name": "senpai regret port",
+			"anim": "regret",
+			"loop_offsets": [
+				-120,
+				10
+			]
+		},
+		{
+			"loop_name": "senpai shivering port",
+			"idle_offsets": [
+				-130,
+				0
+			],
+			"idle_name": "senpai shivering port",
+			"anim": "shivering",
+			"loop_offsets": [
+				-130,
+				0
+			]
+		},
+		{
+			"loop_name": "senpai shocked port ",
+			"idle_offsets": [
+				-100,
+				0
+			],
+			"idle_name": "senpai shocked port ",
+			"anim": "shocked",
+			"loop_offsets": [
+				-100,
+				0
+			]
+		},
+		{
+			"loop_name": "senpai sigh port",
+			"idle_offsets": [
+				-130,
+				-52
+			],
+			"idle_name": "senpai sigh port",
+			"anim": "sigh",
+			"loop_offsets": [
+				-130,
+				-51
+			]
+		},
+		{
+			"loop_name": "senpai soft port ",
+			"idle_offsets": [
+				-120,
+				0
+			],
+			"idle_name": "senpai soft port ",
+			"anim": "soft",
+			"loop_offsets": [
+				-120,
+				0
+			]
+		},
+		{
+			"loop_name": "senpai traumatized port",
+			"idle_offsets": [
+				-140,
+				-15
+			],
+			"idle_name": "senpai traumatized port",
+			"anim": "traumatized",
+			"loop_offsets": [
+				-140,
+				-15
+			]
+		},
+		{
+			"loop_name": "senpai uhoh port",
+			"idle_offsets": [
+				-130,
+				-10
+			],
+			"idle_name": "senpai uhoh port",
+			"anim": "uhoh",
+			"loop_offsets": [
+				-130,
+				-10
+			]
+		},
+		{
+			"loop_name": "senpai unsettled port",
+			"idle_offsets": [
+				-130,
+				-5
+			],
+			"idle_name": "senpai unsettled port",
+			"anim": "unsettled",
+			"loop_offsets": [
+				-130,
+				-5
+			]
+		},
+		{
+			"loop_name": "senpai wonder port",
+			"idle_offsets": [
+				-160,
+				-10
+			],
+			"idle_name": "senpai wonder port",
+			"anim": "wonder",
+			"loop_offsets": [
+				-160,
+				-10
+			]
+		}
+	]
+}

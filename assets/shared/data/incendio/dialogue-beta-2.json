@@ -1,0 +1,22 @@
+{
+	"dialogue": [
+        {
+			"sound": "beta",
+			"speed": 0.05,
+			"boximage": "beta",
+			"portrait": "beta",
+			"expression": "shock",
+			"text": "I dont know whats more horrifying.. that thing ",
+			"textColor": "663c60"
+		},
+        {
+			"sound": "beta",
+			"speed": 0.05,
+			"boximage": "beta",
+			"portrait": "beta",
+			"expression": "annoyed",
+			"text": "or the fact I just defied the laws of physics ",
+			"textColor": "663c60"
+		}
+	]
+}

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="boppin tankos.png">
+	<!-- Created with Adobe Animate version 21.0.4.39603 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="boppin0000" x="0" y="0" width="1834" height="277" frameX="0" frameY="-20" frameWidth="1834" frameHeight="297"/>
+	<SubTexture name="boppin0001" x="0" y="0" width="1834" height="277" frameX="0" frameY="-20" frameWidth="1834" frameHeight="297"/>
+	<SubTexture name="boppin0002" x="0" y="307" width="1834" height="289" frameX="0" frameY="-8" frameWidth="1834" frameHeight="297"/>
+	<SubTexture name="boppin0003" x="0" y="307" width="1834" height="289" frameX="0" frameY="-8" frameWidth="1834" frameHeight="297"/>
+	<SubTexture name="boppin0004" x="0" y="626" width="1834" height="297"/>
+	<SubTexture name="boppin0005" x="0" y="626" width="1834" height="297"/>
+	<SubTexture name="boppin0006" x="0" y="626" width="1834" height="297"/>
+	<SubTexture name="boppin0007" x="0" y="626" width="1834" height="297"/>
+	<SubTexture name="boppin0008" x="0" y="626" width="1834" height="297"/>
+	<SubTexture name="boppin0009" x="0" y="626" width="1834" height="297"/>
+	<SubTexture name="boppin0010" x="0" y="626" width="1834" height="297"/>
+	<SubTexture name="boppin0011" x="0" y="626" width="1834" height="297"/>
+	<SubTexture name="boppin0012" x="0" y="626" width="1834" height="297"/>
+	<SubTexture name="boppin0013" x="0" y="626" width="1834" height="297"/>
+</TextureAtlas>

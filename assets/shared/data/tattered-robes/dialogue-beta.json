@@ -1,0 +1,305 @@
+{
+	"dialogue": [
+		{
+			"sound": "lem",
+			"speed": 0.05,
+			"boximage": "lem",
+			"portrait": "lem",
+			"image": "cutscenes/sen-beta/black",
+			"expression": "sad",
+			"text": "Cmon get up,, please.",
+			"textColor": "7d2222"
+		},
+        {
+			"sound": "beta",
+			"speed": 0.05,
+			"boximage": "beta",
+			"portrait": "beta",
+			"expression": "sleepy",
+			"text": "...mn?",
+			"textColor": "663c60"
+		},
+        {
+			"sound": "lem",
+			"speed": 0.05,
+			"boximage": "lem",
+			"portrait": "lem",
+			"image": "cutscenes/sen-beta/week40001",
+			"expression": "happy",
+			"text": "Oh thank God",
+			"textColor": "7d2222"
+		},
+        {
+			"sound": "beta",
+			"speed": 0.05,
+			"boximage": "beta",
+			"portrait": "beta",
+			"expression": "sleepy",
+			"text": "Lem??",
+			"textColor": "663c60"
+		},
+        {
+			"sound": "lem",
+			"speed": 0.05,
+			"boximage": "lem",
+			"portrait": "lem",
+			"expression": "questioning",
+			"text": "Yeah-?",
+			"textColor": "7d2222"
+		},
+        {
+			"sound": "beta",
+			"speed": 0.05,
+			"boximage": "beta",
+			"portrait": "beta",
+			"expression": "stare",
+			"text": "",
+			"textColor": "663c60"
+		},
+        {
+			"sound": "beta",
+			"speed": 0.05,
+			"boximage": "beta",
+			"portrait": "beta",
+			"expression": "stare",
+			"text": "Why are we ontop a moving car?",
+			"textColor": "663c60"
+		},
+        {
+			"sound": "lem",
+			"speed": 0.05,
+			"boximage": "lem",
+			"portrait": "lem",
+			"expression": "regret",
+			"text": "Oh yeah about that-",
+			"textColor": "7d2222"
+		},
+        {
+			"sound": "lem",
+			"speed": 0.05,
+			"boximage": "lem",
+			"portrait": "lem",
+			"expression": "shrug",
+			"text": "There was a... slight mix up. I'm so sorry w-we'll get you home I swear!",
+			"textColor": "7d2222"
+		},
+        {
+			"sound": "beta",
+			"speed": 0.05,
+			"boximage": "beta",
+			"portrait": "beta",
+			"expression": "default",
+			"text": "Fuck you mean 'WE'?",
+			"textColor": "663c60"
+		},
+        {
+			"sound": "beta",
+			"speed": 0.05,
+			"boximage": "beta",
+			"portrait": "beta",
+			"expression": "annoyed",
+			"text": "So help me God if you brought one of your weirdo friends here I'll ",
+			"textColor": "663c60"
+		},
+        {
+			"sound": "skid",
+			"speed": 0.05,
+			"boximage": "skid",
+			"portrait": "skid",
+			"expression": "confuse",
+			"text": "HEY, Are they up yet?",
+			"textColor": "1a414f"
+		},
+        {
+			"sound": "beta",
+			"speed": 0.05,
+			"boximage": "beta",
+			"portrait": "beta",
+			"expression": "stare",
+			"text": ".",
+			"textColor": "663c60"
+		},
+        {
+			"sound": "beta",
+			"speed": 0.05,
+			"boximage": "beta",
+			"portrait": "beta",
+			"expression": "fuck",
+			"text": "What the fuck man, did you drug me?",
+			"textColor": "663c60"
+		},
+        {
+			"sound": "lem",
+			"speed": 0.05,
+			"boximage": "lem",
+			"portrait": "lem",
+			"expression": "regret",
+			"text": "What? no! I- I don't... I don't think so?",
+			"textColor": "7d2222"
+		},
+        {
+			"sound": "beta",
+			"speed": 0.05,
+			"boximage": "beta",
+			"portrait": "beta",
+			"expression": "bruh",
+			"text": "Then why the hell am I seeing the lead singer for Everything in front of me?",
+			"textColor": "663c60"
+		},
+        {
+			"sound": "lem",
+			"speed": 0.05,
+			"boximage": "lem",
+			"portrait": "lem",
+			"expression": "happy",
+			"text": "Oh that's because he is, don't worry.",
+			"textColor": "7d2222"
+		},
+        {
+			"sound": "skid",
+			"speed": 0.05,
+			"boximage": "skid",
+			"portrait": "skid",
+			"expression": "smile",
+			"text": "Aye!",
+			"textColor": "1a414f"
+		},
+        {
+			"sound": "lem",
+			"speed": 0.05,
+			"boximage": "lem",
+			"portrait": "lem",
+			"expression": "shrug",
+			"text": "Yeah he uh- mistook you for Sen and uhh... Whoopsie!",
+			"textColor": "7d2222"
+		},
+        {
+			"sound": "lem",
+			"speed": 0.05,
+			"boximage": "lem",
+			"portrait": "lem",
+			"expression": "sad",
+			"text": "You know how brothers can b-why are you looking at me like that",
+			"textColor": "7d2222"
+		},
+        {
+			"sound": "beta",
+			"speed": 0.05,
+			"boximage": "beta",
+			"portrait": "beta",
+			"expression": "panic",
+			"text": "holy shit.",
+			"textColor": "663c60"
+		},
+        {
+			"sound": "beta",
+			"speed": 0.05,
+			"boximage": "beta",
+			"portrait": "beta",
+			"expression": "shitass",
+			"text": "HOLY SHIT.",
+			"textColor": "663c60"
+		},
+        {
+			"sound": "lem",
+			"speed": 0.05,
+			"boximage": "lem",
+			"portrait": "lem",
+			"expression": "questioning",
+			"text": "what?",
+			"textColor": "7d2222"
+		},
+        {
+			"sound": "beta",
+			"speed": 0.05,
+			"boximage": "beta",
+			"portrait": "beta",
+			"image": "cutscenes/beta/week40002",
+			"expression": "shitass",
+			"text": "YOU DIDN'T TELL ME HES YOUR BROTHER HOLY SHIT????",
+			"textColor": "663c60"
+		},
+        {
+			"sound": "lem",
+			"speed": 0.05,
+			"boximage": "lem",
+			"portrait": "lem",
+			"expression": "awkward",
+			"text": "you never asked!",
+			"textColor": "7d2222"
+		},
+        {
+			"sound": "beta",
+			"speed": 0.05,
+			"boximage": "beta",
+			"portrait": "beta",
+			"expression": "panic",
+			"text": "Ohmygodohmygodohmygodohmygod",
+			"textColor": "663c60"
+		},
+        {
+			"sound": "skid",
+			"speed": 0.05,
+			"boximage": "skid",
+			"portrait": "skid",
+			"expression": "default",
+			"text": "well HEY, would ya LOOK at that? we picked up a little FAN here!",
+			"textColor": "1a414f"
+		},
+        {
+			"sound": "skid",
+			"speed": 0.05,
+			"boximage": "skid",
+			"portrait": "skid",
+			"expression": "shrug",
+			"text": "Makin' SOMEONE'S night! Looks like this wasn't a BAD IDEA after all, huh?",
+			"textColor": "1a414f"
+		},
+        {
+			"sound": "lem",
+			"speed": 0.05,
+			"boximage": "lem",
+			"portrait": "lem",
+			"expression": "bruh",
+			"text": "You're an asshole, I hope you fall off this car.",
+			"textColor": "7d2222"
+		},
+        {
+			"sound": "skid",
+			"speed": 0.05,
+			"boximage": "skid",
+			"portrait": "skid",
+			"expression": "nudge",
+			"text": "LOVE ya too!!",
+			"textColor": "1a414f"
+		},
+        {
+			"sound": "skid",
+			"speed": 0.05,
+			"boximage": "skid",
+			"portrait": "skid",
+			"expression": "nudge",
+			"text": "so, GREASE BOY! We're gonna be here for a WHILE sooo...",
+			"textColor": "1a414f"
+		},
+        {
+			"sound": "skid",
+			"speed": 0.05,
+			"boximage": "skid",
+			"portrait": "skid",
+			"expression": "nudge",
+			"text": "Howzzabout we pass the time 'n sing a few SONGS, huh?",
+			"textColor": "1a414f"
+		},
+        {
+			"sound": "beta",
+			"speed": 0.05,
+			"boximage": "beta",
+			"portrait": "beta",
+			"expression": "shitass",
+			"text": "DUDE I- I'D LOVE TO???",
+			"textColor": "663c60"
+		}
+
+	]
+}

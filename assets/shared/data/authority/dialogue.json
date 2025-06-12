@@ -1,0 +1,673 @@
+{
+	"dialogue": [
+		{
+			"sound": "lem",
+			"speed": 0.05,
+			"boximage": "lem",
+			"portrait": "lem",
+			"image": "cutscenes/sen/week20001",
+			"expression": "happy",
+			"text": "Pretty night out",
+			"textColor": "7d2222"
+		},
+		{
+			"sound": "lem",
+			"speed": 0.05,
+			"boximage": "lem",
+			"portrait": "lem",
+			"image": "cutscenes/sen/week20001",
+			"expression": "happy",
+			"text": "Wish more stars were out but the breeze is nice. Wouldn't you agree, Sen?",
+			"textColor": "7d2222"
+		},
+		{
+			"sound": "sen",
+			"speed": 0.05,
+			"boximage": "sen",
+			"portrait": "sen",
+			"image": "cutscenes/sen/week20001",
+			"expression": "soft",
+			"text": "Hm...",
+			"textColor": "C86762"
+		},
+		{
+			"sound": "lem",
+			"speed": 0.05,
+			"boximage": "lem",
+			"portrait": "lem",
+			"image": "cutscenes/sen/week20001",
+			"expression": "normal",
+			"text": "Sen?",
+			"textColor": "7d2222"
+		},
+		{
+			"sound": "sen",
+			"speed": 0.05,
+			"boximage": "sen",
+			"portrait": "sen",
+			"image": "cutscenes/sen/week20001",
+			"expression": "regret",
+			"text": "Huh?",
+			"textColor": "C86762"
+		},
+                {
+			"sound": "sen",
+			"speed": 0.05,
+			"boximage": "sen",
+			"portrait": "sen",
+			"image": "cutscenes/sen/week20001",
+			"expression": "normal",
+			"text": "Oh, yeah yeah",
+			"textColor": "C86762"
+		},
+                {
+			"sound": "sen",
+			"speed": 0.03,
+			"boximage": "sen",
+			"portrait": "sen",
+			"image": "cutscenes/sen/week20001",
+			"expression": "normal",
+			"text": "It's just. lovely.",
+			"textColor": "C86762"
+		},
+		{
+			"sound": "lem",
+			"speed": 0.05,
+			"boximage": "lem",
+			"portrait": "lem",
+			"image": "cutscenes/sen/week20001",
+			"expression": "normal",
+			"text": "Something wrong?",
+			"textColor": "7d2222"
+		},
+                {
+			"sound": "sen",
+			"speed": 0.05,
+			"boximage": "sen",
+			"portrait": "sen",
+			"image": "cutscenes/sen/week20001",
+			"expression": "normal",
+			"text": "Hm? No I'm perfectly fine, why do you ask?",
+			"textColor": "C86762"
+		},
+		{
+			"sound": "lem",
+			"speed": 0.05,
+			"boximage": "lem",
+			"portrait": "lem",
+			"image": "cutscenes/sen/week20001",
+			"expression": "normal",
+			"text": "Well you're uh.",
+			"textColor": "7d2222"
+		},
+  		{
+			"sound": "lem",
+			"speed": 0.05,
+			"boximage": "lem",
+			"portrait": "lem",
+			"image": "cutscenes/sen/week20002",
+			"expression": "sad",
+			"text": "You're doing that hand thing again",
+			"textColor": "7d2222"
+		},
+		{
+			"sound": "lem",
+			"speed": 0.05,
+			"boximage": "lem",
+			"portrait": "lem",
+			"image": "cutscenes/sen/week20002",
+			"expression": "sad",
+			"text": "You're nervous, aren't you?",
+			"textColor": "7d2222"
+		},
+                {
+			"sound": "sen",
+			"speed": 0.05,
+			"boximage": "sen",
+			"portrait": "sen",
+			"image": "cutscenes/sen/week20002",
+			"expression": "happy",
+			"text": "Aha, you got me",
+			"textColor": "C86762"
+		},
+		{
+			"sound": "lem",
+			"speed": 0.05,
+			"boximage": "lem",
+			"portrait": "lem",
+			"image": "cutscenes/sen/week20002",
+			"expression": "sad",
+			"text": "Is it because of what happened last week?",
+			"textColor": "7d2222"
+		},
+		{
+			"sound": "lem",
+			"speed": 0.03,
+			"boximage": "lem",
+			"portrait": "lem",
+			"image": "cutscenes/sen/week20002",
+			"expression": "sad",
+			"text": "You can dip if you want, I'd understand.",
+			"textColor": "7d2222"
+		},
+                {
+			"sound": "sen",
+			"speed": 0.05,
+			"boximage": "sen",
+			"portrait": "sen",
+			"image": "cutscenes/sen/week20002",
+			"expression": "mad",
+			"text": "N-no! Don't say that kinda stuff!",
+			"textColor": "C86762"
+		},
+                {
+			"sound": "sen",
+			"speed": 0.05,
+			"boximage": "sen",
+			"portrait": "sen",
+			"image": "cutscenes/sen/week20002",
+			"expression": "normal",
+			"text": "We just gotta figure this out, alright?",
+			"textColor": "C86762"
+		},
+                {
+			"sound": "sen",
+			"speed": 0.05,
+			"boximage": "sen",
+			"portrait": "sen",
+			"image": "cutscenes/sen/week20002",
+			"expression": "normal",
+			"text": "How do I get your brothers to like me?",
+			"textColor": "C86762"
+		},
+		{
+			"sound": "lem",
+			"speed": 0.03,
+			"boximage": "lem",
+			"portrait": "lem",
+			"image": "cutscenes/sen/week20002",
+			"expression": "sad",
+			"text": "Hm I'm not sure.",
+			"textColor": "7d2222"
+		},
+		{
+			"sound": "lem",
+			"speed": 0.05,
+			"boximage": "lem",
+			"portrait": "lem",
+			"image": "cutscenes/sen/week20002",
+			"expression": "happy",
+			"text": "You're pretty cute n all and I'm certain that almost every other person would love you",
+			"textColor": "7d2222"
+		},
+		{
+			"sound": "lem",
+			"speed": 0.05,
+			"boximage": "lem",
+			"portrait": "lem",
+			"image": "cutscenes/sen/week20002",
+			"expression": "normal",
+			"text": "But my brothers aren't like 'every other person'.",
+			"textColor": "7d2222"
+		},
+		{
+			"sound": "lem",
+			"speed": 0.05,
+			"boximage": "lem",
+			"portrait": "lem",
+			"image": "cutscenes/sen/week20002",
+			"expression": "sad",
+			"text": "They're not too fond of nice and pretty uh. 'sparkly' things.",
+			"textColor": "7d2222"
+		},
+                {
+			"sound": "sen",
+			"speed": 0.05,
+			"boximage": "sen",
+			"portrait": "sen",
+			"image": "cutscenes/sen/week20002",
+			"expression": "normal",
+			"text": "Well then what do they like?",
+			"textColor": "C86762"
+		},
+                {
+			"sound": "sen",
+			"speed": 0.05,
+			"boximage": "sen",
+			"portrait": "sen",
+			"image": "cutscenes/sen/week20002",
+			"expression": "normal",
+			"text": "A little change never hurt anybody.",
+			"textColor": "C86762"
+		},
+		{
+			"sound": "lem",
+			"speed": 0.05,
+			"boximage": "lem",
+			"portrait": "lem",
+			"image": "cutscenes/sen/week20002",
+			"expression": "sad",
+			"text": "Hm...",
+			"textColor": "7d2222"
+		},
+		{
+			"sound": "lem",
+			"speed": 0.05,
+			"boximage": "lem",
+			"portrait": "lem",
+			"image": "cutscenes/sen/week20002",
+			"expression": "happy",
+			"text": "Oh! They like spooky things!",
+			"textColor": "7d2222"
+		},
+		{
+			"sound": "lem",
+			"speed": 0.05,
+			"boximage": "lem",
+			"portrait": "lem",
+			"image": "cutscenes/sen/week20002",
+			"expression": "normal",
+			"text": "Like graveyards n demons and all that.",
+			"textColor": "7d2222"
+		},
+                {
+			"sound": "sen",
+			"speed": 0.05,
+			"boximage": "sen",
+			"portrait": "sen",
+			"image": "cutscenes/sen/week20002",
+			"expression": "normal",
+			"text": "Oh that... makes sense actually.",
+			"textColor": "C86762"
+		},
+                {
+			"sound": "sen",
+			"speed": 0.05,
+			"boximage": "sen",
+			"portrait": "sen",
+			"image": "cutscenes/sen/week20002",
+			"expression": "regret",
+			"text": "I feel rather foolish for not knowing already.",
+			"textColor": "C86762"
+		},
+                {
+			"sound": "sen",
+			"speed": 0.05,
+			"boximage": "sen",
+			"portrait": "sen",
+			"image": "cutscenes/sen/week20002",
+			"expression": "mad",
+			"text": "agh but how do I be 'spooky'? ",
+			"textColor": "C86762"
+		},
+		{
+			"sound": "lem",
+			"speed": 0.05,
+			"boximage": "lem",
+			"portrait": "lem",
+			"image": "cutscenes/sen/week20002",
+			"expression": "sad",
+			"text": "hmm",
+			"textColor": "7d2222"
+		},
+		{
+			"sound": "lem",
+			"speed": 0.05,
+			"boximage": "lem",
+			"portrait": "lem",
+			"image": "cutscenes/sen/week20002",
+			"expression": "normal",
+			"text": "Maybe we need to go somewhere scary? Like...",
+			"textColor": "7d2222"
+		},
+                {
+			"sound": "sen",
+			"speed": 0.05,
+			"boximage": "sen",
+			"portrait": "sen",
+			"image": "cutscenes/sen/week20003",
+			"expression": "happy",
+			"text": "like that scary looking house over there!",
+			"textColor": "C86762"
+		},
+		{
+			"sound": "lem",
+			"speed": 0.05,
+			"boximage": "lem",
+			"portrait": "lem",
+			"image": "cutscenes/sen/week20003",
+			"expression": "normal",
+			"text": "Sen, that's a mansion.",
+			"textColor": "7d2222"
+		},
+		{
+			"sound": "lem",
+			"speed": 0.05,
+			"boximage": "lem",
+			"portrait": "lem",
+			"image": "cutscenes/sen/week20003",
+			"expression": "normal",
+			"text": "I think there's people living in there",
+			"textColor": "7d2222"
+		},
+                {
+			"sound": "sen",
+			"speed": 0.05,
+			"boximage": "sen",
+			"portrait": "sen",
+			"image": "cutscenes/sen/week20003",
+			"expression": "happy",
+			"text": "eh oh well I'm sure they won't mind",
+			"textColor": "C86762"
+		},
+		{
+			"sound": "lem",
+			"speed": 0.05,
+			"boximage": "lem",
+			"portrait": "lem",
+			"image": "cutscenes/sen/week20003",
+			"expression": "normal",
+			"text": "Sen you're suggesting that we break into a house.",
+			"textColor": "7d2222"
+		},
+                {
+			"sound": "sen",
+			"speed": 0.05,
+			"boximage": "sen",
+			"portrait": "sen",
+			"image": "cutscenes/sen/week20003",
+			"expression": "happy",
+			"text": " yes.",
+			"textColor": "C86762"
+		},
+		{
+			"sound": "lem",
+			"speed": 0.05,
+			"boximage": "lem",
+			"portrait": "lem",
+			"image": "cutscenes/sen/week20003",
+			"expression": "normal",
+			"text": "That probably belongs strangers we have never even met",
+			"textColor": "7d2222"
+		},
+                {
+			"sound": "sen",
+			"speed": 0.05,
+			"boximage": "sen",
+			"portrait": "sen",
+			"image": "cutscenes/sen/week20003",
+			"expression": "happy",
+			"text": " yes.",
+			"textColor": "C86762"
+		},
+		{
+			"sound": "lem",
+			"speed": 0.05,
+			"boximage": "lem",
+			"portrait": "lem",
+			"image": "cutscenes/sen/week20003",
+			"expression": "normal",
+			"text": "Sen That's...",
+			"textColor": "7d2222"
+		},
+		{
+			"sound": "lem",
+			"speed": 0.05,
+			"boximage": "lem",
+			"portrait": "lem",
+			"image": "cutscenes/sen/week20003",
+			"expression": "normal",
+			"text": "the greatest idea you've ever had!",
+			"textColor": "7d2222"
+		},
+                {
+			"sound": "sen",
+			"speed": 0.05,
+			"boximage": "sen",
+			"portrait": "sen",
+			"image": "cutscenes/sen/week20003",
+			"expression": "happy",
+			"text": " Right?",
+			"textColor": "C86762"
+		},
+                {
+			"sound": "sen",
+			"speed": 0.05,
+			"boximage": "sen",
+			"portrait": "sen",
+			"image": "cutscenes/sen/week20004",
+			"expression": "happy",
+			"text": " Well, off we go!",
+			"textColor": "C86762"
+		},
+                {
+			"sound": "sen",
+			"speed": 0.05,
+			"boximage": "sen",
+			"portrait": "sen",
+			"image": "cutscenes/sen/week20004",
+			"expression": "normal",
+			"text": "(I'm not grabbing you too tightly am I?)",
+			"textColor": "C86762"
+		},
+		{
+			"sound": "lem",
+			"speed": 0.05,
+			"boximage": "lem",
+			"portrait": "lem",
+			"image": "cutscenes/sen/week20004",
+			"expression": "normal",
+			"text": "(not tight enough...)",
+			"textColor": "7d2222"
+		},
+                {
+			"sound": "sen",
+			"speed": 0.05,
+			"boximage": "sen",
+			"portrait": "sen",
+			"image": "cutscenes/sen/week20004",
+			"expression": "normal",
+			"text": "(haha what.)",
+			"textColor": "C86762"
+		},
+		{
+			"sound": "lem",
+			"speed": 0.05,
+			"boximage": "lem",
+			"portrait": "lem",
+			"image": "cutscenes/sen/week20004",
+			"expression": "normal",
+			"text": "(nothing.)",
+			"textColor": "7d2222"
+		},
+                {
+			"sound": "sen",
+			"speed": 0.05,
+			"boximage": "sen",
+			"portrait": "sen",
+			"expression": "normal",
+			"text": " Hough... I'd hate to be a burden, but is it necessary to keep bringing that stereo everywhere?",
+			"textColor": "C86762"
+		},
+		{
+			"sound": "lem",
+			"speed": 0.05,
+			"boximage": "lem",
+			"portrait": "lem",
+			"expression": "normal",
+			"text": "Why? What's wrong with it?",
+			"textColor": "7d2222"
+		},
+                {
+			"sound": "sen",
+			"speed": 0.05,
+			"boximage": "sen",
+			"portrait": "sen",
+			"expression": "regret",
+			"text": "They're so... heavy.",
+			"textColor": "C86762"
+		},
+                {
+			"sound": "dearie",
+			"speed": 0.08,
+			"boximage": "dearie",
+			"portrait": "dearie",
+			"expression": "default",
+			"text": "HEY!",
+			"textColor": "451a63"
+		},
+                {
+			"sound": "sen",
+			"speed": 0.07,
+			"boximage": "sen",
+			"portrait": "sen",
+			"expression": "shocked",
+			"text": "eep!",
+			"textColor": "C86762"
+		},
+                {
+			"sound": "sen",
+			"speed": 0.05,
+			"boximage": "sen",
+			"portrait": "sen",
+			"expression": "normal",
+			"text": "Oh. Haha, it's just a kid.",
+			"textColor": "C86762"
+		},
+                {
+			"sound": "mearie",
+			"speed": 0.05,
+			"boximage": "mearie",
+			"portrait": "mearie",
+			"expression": "default",
+			"text": "Dear? What's goin on? Are you yelling at a racoon again?",
+			"textColor": "a3004c"
+		},
+                {
+			"sound": "sen",
+			"speed": 0.07,
+			"boximage": "sen",
+			"portrait": "sen",
+			"expression": "shocked",
+			"text": "Dear God they're multiplying.",
+			"textColor": "C86762"
+		},
+                {
+			"sound": "mearie",
+			"speed": 0.05,
+			"boximage": "mearie",
+			"portrait": "mearie",
+			"expression": "default",
+			"text": "Oh! Are these new friends?",
+			"textColor": "a3004c"
+		},
+                {
+			"sound": "mearie",
+			"speed": 0.05,
+			"boximage": "mearie",
+			"portrait": "mearie",
+			"expression": "default",
+			"text": "Hiya! I'm Mearie. It's nice to meet you two!",
+			"textColor": "a3004c"
+		},
+                {
+			"sound": "dearie",
+			"speed": 0.07,
+			"boximage": "dearie",
+			"portrait": "dearie",
+			"expression": "default",
+			"text": "MEAR!! DON'T BE NICE TO THESE TWITS!",
+			"textColor": "451a63"
+		},
+                {
+			"sound": "mearie",
+			"speed": 0.05,
+			"boximage": "mearie",
+			"portrait": "mearie",
+			"expression": "default",
+			"text": "hehe! Okie doke!",
+			"textColor": "a3004c"
+		},
+                {
+			"sound": "dearie",
+			"speed": 0.05,
+			"boximage": "dearie",
+			"portrait": "dearie",
+			"expression": "default",
+			"text": "THE FUCK ARE YOU ASSHOLES DOING IN MY HOUSE?",
+			"textColor": "451a63"
+		},
+                {
+			"sound": "sen",
+			"speed": 0.05,
+			"boximage": "sen",
+			"portrait": "sen",
+			"expression": "shocked",
+			"text": "woah this one got a mouth on him.",
+			"textColor": "C86762"
+		},
+                {
+			"sound": "dearie",
+			"speed": 0.07,
+			"boximage": "dearie",
+			"portrait": "dearie",
+			"expression": "default",
+			"text": "ANSWER ME MORONS!",
+			"textColor": "451a63"
+		},
+		{
+			"sound": "lem",
+			"speed": 0.05,
+			"boximage": "lem",
+			"portrait": "lem",
+			"expression": "normal",
+			"text": "I'm teaching my boyfriend how to be spooky so my brothers don't annihilate him.",
+			"textColor": "7d2222"
+		},
+                {
+			"sound": "dearie",
+			"speed": 0.02,
+			"boximage": "dearie",
+			"portrait": "dearie",
+			"expression": "disgust",
+			"text": "...",
+			"textColor": "451a63"
+		},
+                {
+			"sound": "dearie",
+			"speed": 0.05,
+			"boximage": "dearie",
+			"portrait": "dearie",
+			"expression": "disgust",
+			"text": "Thats fucking stupid. Piss off.",
+			"textColor": "451a63"
+		},
+                {
+			"sound": "sen",
+			"speed": 0.05,
+			"boximage": "sen",
+			"portrait": "sen",
+			"expression": "happy",
+			"text": "Sorry kid but not until I learn how to be spooky.",
+			"textColor": "C86762"
+		},
+                {
+			"sound": "dearie",
+			"speed": 0.05,
+			"boximage": "dearie",
+			"portrait": "dearie",
+			"expression": "default",
+			"text": "Oh you want spooky, yeah?",
+			"textColor": "451a63"
+		},
+                {
+			"sound": "dearie",
+			"speed": 0.05,
+			"boximage": "dearie",
+			"portrait": "dearie",
+			"expression": "malicous",
+			"text": "Well I'll give ya spooky.",
+			"textColor": "451a63"
+		}
+	]
+}

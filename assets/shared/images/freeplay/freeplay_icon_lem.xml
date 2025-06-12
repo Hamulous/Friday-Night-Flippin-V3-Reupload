@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="freeplay_icon_lem.png">
+	<!-- Created with Adobe Animate version 20.5.0.29329 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="lem icons0000" x="20" y="20" width="125" height="118" frameX="-1" frameY="0" frameWidth="127" frameHeight="118"/>
+	<SubTexture name="lem icons0001" x="20" y="20" width="125" height="118" frameX="-1" frameY="0" frameWidth="127" frameHeight="118"/>
+	<SubTexture name="lem icons0002" x="20" y="20" width="125" height="118" frameX="-1" frameY="0" frameWidth="127" frameHeight="118"/>
+	<SubTexture name="lem icons0003" x="20" y="20" width="125" height="118" frameX="-1" frameY="0" frameWidth="127" frameHeight="118"/>
+	<SubTexture name="lem icons0004" x="165" y="20" width="127" height="118"/>
+	<SubTexture name="lem icons0005" x="165" y="20" width="127" height="118"/>
+	<SubTexture name="lem icons0006" x="165" y="20" width="127" height="118"/>
+	<SubTexture name="lem icons0007" x="165" y="20" width="127" height="118"/>
+	<SubTexture name="lem icons0008" x="312" y="20" width="125" height="118" frameX="-1" frameY="0" frameWidth="127" frameHeight="118"/>
+	<SubTexture name="lem icons0009" x="312" y="20" width="125" height="118" frameX="-1" frameY="0" frameWidth="127" frameHeight="118"/>
+	<SubTexture name="lem icons0010" x="312" y="20" width="125" height="118" frameX="-1" frameY="0" frameWidth="127" frameHeight="118"/>
+	<SubTexture name="lem icons0011" x="312" y="20" width="125" height="118" frameX="-1" frameY="0" frameWidth="127" frameHeight="118"/>
+</TextureAtlas>

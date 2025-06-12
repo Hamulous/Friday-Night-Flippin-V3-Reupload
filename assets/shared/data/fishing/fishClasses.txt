@@ -1,0 +1,4 @@
+fishType,width,frames to use,fps,if looped (use 1 for true and 0 for false)
+default,20,0:1:2,10,0
+clown,15,0:1:2:3,20,0
+fat,23,0,20,0

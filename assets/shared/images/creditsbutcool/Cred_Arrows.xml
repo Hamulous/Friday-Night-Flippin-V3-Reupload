@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Cred_Arrows.png">
+	<!-- Created with Adobe Animate version 24.0.0.305 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="F_button_hover0000" x="10" y="10" width="298" height="193" frameX="-1" frameY="0" frameWidth="299" frameHeight="193"/>
+	<SubTexture name="F_button_hover0001" x="10" y="10" width="298" height="193" frameX="-1" frameY="0" frameWidth="299" frameHeight="193"/>
+	<SubTexture name="F_button_hover0002" x="10" y="10" width="298" height="193" frameX="-1" frameY="0" frameWidth="299" frameHeight="193"/>
+	<SubTexture name="F_button_hover0003" x="318" y="10" width="292" height="186" frameX="0" frameY="0" frameWidth="299" frameHeight="193"/>
+	<SubTexture name="F_button_hover0004" x="318" y="10" width="292" height="186" frameX="0" frameY="0" frameWidth="299" frameHeight="193"/>
+	<SubTexture name="F_button_hover0005" x="318" y="10" width="292" height="186" frameX="0" frameY="0" frameWidth="299" frameHeight="193"/>
+	<SubTexture name="F_button_idle0000" x="620" y="10" width="270" height="157" frameX="0" frameY="-1" frameWidth="270" frameHeight="158"/>
+	<SubTexture name="F_button_idle0001" x="620" y="10" width="270" height="157" frameX="0" frameY="-1" frameWidth="270" frameHeight="158"/>
+	<SubTexture name="F_button_idle0002" x="620" y="10" width="270" height="157" frameX="0" frameY="-1" frameWidth="270" frameHeight="158"/>
+	<SubTexture name="F_button_idle0003" x="10" y="213" width="267" height="155" frameX="-1" frameY="0" frameWidth="270" frameHeight="158"/>
+	<SubTexture name="F_button_idle0004" x="10" y="213" width="267" height="155" frameX="-1" frameY="0" frameWidth="270" frameHeight="158"/>
+	<SubTexture name="F_button_idle0005" x="10" y="213" width="267" height="155" frameX="-1" frameY="0" frameWidth="270" frameHeight="158"/>
+	<SubTexture name="button_hover0000" x="287" y="213" width="298" height="193" frameX="-1" frameY="0" frameWidth="299" frameHeight="193"/>
+	<SubTexture name="button_hover0001" x="287" y="213" width="298" height="193" frameX="-1" frameY="0" frameWidth="299" frameHeight="193"/>
+	<SubTexture name="button_hover0002" x="287" y="213" width="298" height="193" frameX="-1" frameY="0" frameWidth="299" frameHeight="193"/>
+	<SubTexture name="button_hover0003" x="595" y="213" width="291" height="185" frameX="0" frameY="-1" frameWidth="299" frameHeight="193"/>
+	<SubTexture name="button_hover0004" x="595" y="213" width="291" height="185" frameX="0" frameY="-1" frameWidth="299" frameHeight="193"/>
+	<SubTexture name="button_hover0005" x="595" y="213" width="291" height="185" frameX="0" frameY="-1" frameWidth="299" frameHeight="193"/>
+	<SubTexture name="button_idle0000" x="10" y="416" width="269" height="157" frameX="0" frameY="-1" frameWidth="269" frameHeight="158"/>
+	<SubTexture name="button_idle0001" x="10" y="416" width="269" height="157" frameX="0" frameY="-1" frameWidth="269" frameHeight="158"/>
+	<SubTexture name="button_idle0002" x="10" y="416" width="269" height="157" frameX="0" frameY="-1" frameWidth="269" frameHeight="158"/>
+	<SubTexture name="button_idle0003" x="289" y="416" width="267" height="156" frameX="-1" frameY="0" frameWidth="269" frameHeight="158"/>
+	<SubTexture name="button_idle0004" x="289" y="416" width="267" height="156" frameX="-1" frameY="0" frameWidth="269" frameHeight="158"/>
+	<SubTexture name="button_idle0005" x="289" y="416" width="267" height="156" frameX="-1" frameY="0" frameWidth="269" frameHeight="158"/>
+</TextureAtlas>

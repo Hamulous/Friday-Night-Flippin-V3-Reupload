@@ -1,0 +1,58 @@
+{
+	"dialogue": [
+		{
+			"sound": "pump",
+			"speed": 0.05,
+			"boximage": "pump",
+			"portrait": "pump",
+			"expression": "content",
+			"text": " huh would you look at that..",
+			"textColor": "592111"
+		},
+		{
+			"sound": "alpha",
+			"speed": 0.05,
+			"boximage": "alpha",
+			"portrait": "alpha",
+			"expression": "baby",
+			"text": "AN AUDIENCE HAS ARRIVED TO COME TO SEE ME PERFORM",
+			"textColor": "3b28a8"
+		},
+		{
+			"sound": "alpha",
+			"speed": 0.05,
+			"boximage": "alpha",
+			"portrait": "alpha",
+			"expression": "baby",
+			"text": "With this finale, I shall garner the attention I rightfully deserve.",
+			"textColor": "3b28a8"
+		},
+		{
+			"sound": "pump",
+			"speed": 0.05,
+			"boximage": "pump",
+			"portrait": "pump",
+			"expression": "sad",
+			"text": "I'm here too-",
+			"textColor": "592111"
+		},
+		{
+			"sound": "alpha",
+			"speed": 0.05,
+			"boximage": "alpha",
+			"portrait": "alpha",
+			"expression": "default",
+			"text": "Ah yes, yes, devilspawn, you shall assist me as well.",
+			"textColor": "3b28a8"
+		},
+		{
+			"sound": "pump",
+			"speed": 0.05,
+			"boximage": "pump",
+			"portrait": "pump",
+			"expression": "content",
+			"text": "weird and insulting way to put it, but ok!",
+			"textColor": "592111"
+		}
+	]
+}

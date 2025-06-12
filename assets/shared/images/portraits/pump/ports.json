@@ -1,0 +1,154 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		120,
+		20
+	],
+	"scale": 1.25,
+	"animations": [
+		{
+			"loop_name": "pump content port ",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "pump content port ",
+			"anim": "content",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "pump happy port ",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "pump happy port ",
+			"anim": "happy",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "pump mad port ",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "pump mad port ",
+			"anim": "mad",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "pump nervous port",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "pump nervous port",
+			"anim": "nervous",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "pump normal port",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "pump normal port",
+			"anim": "normal",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "pump sad port",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "pump sad port",
+			"anim": "sad",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "pump scary port",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "pump scary port",
+			"anim": "scary",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "pump serious port",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "pump serious port",
+			"anim": "serious",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "pump shocked port",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "pump shocked port",
+			"anim": "shocked",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "pump shrug port ",
+			"idle_offsets": [
+				10,
+				0
+			],
+			"idle_name": "pump shrug port ",
+			"anim": "shrug",
+			"loop_offsets": [
+				10,
+				0
+			]
+		},
+		{
+			"loop_name": "pump sigh port ",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "pump sigh port ",
+			"anim": "sigh",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	],
+	"image": "portraits/pump/ports"
+}

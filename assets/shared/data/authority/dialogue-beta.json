@@ -1,0 +1,261 @@
+{
+	"dialogue": [
+		{
+			"sound": "dearie",
+			"speed": 0.05,
+			"boximage": "dearie",
+			"portrait": "dearie",
+			"image": "cutscenes/sen-beta/week20001",
+			"expression": "innocent",
+			"text": "MISTER MISTER!!!",
+			"textColor": "451a63"
+		},
+		{
+			"sound": "beta",
+			"speed": 0.05,
+			"boximage": "beta",
+			"portrait": "beta",
+			"expression": "default",
+			"text": "huh?",
+			"textColor": "663c60"
+		},
+		{
+			"sound": "dearie",
+			"speed": 0.05,
+			"boximage": "dearie",
+			"portrait": "dearie",
+			"expression": "innocent",
+			"text": "e-excuse me I really need some help-",
+			"textColor": "451a63"
+		},
+		{
+			"sound": "beta",
+			"speed": 0.05,
+			"boximage": "beta",
+			"portrait": "beta",
+			"expression": "default",
+			"text": "{ugh a kid} Yeah, bud? What is it?",
+			"textColor": "663c60"
+		},
+		{
+			"sound": "dearie",
+			"speed": 0.05,
+			"boximage": "dearie",
+			"portrait": "dearie",
+			"expression": "innocent",
+			"text": "I'd hate to be a bother, b-but. but I-I",
+			"textColor": "451a63"
+		},
+		{
+			"sound": "beta",
+			"speed": 0.05,
+			"boximage": "beta",
+			"portrait": "beta",
+			"expression": "bruh",
+			"text": "Just spit it out.",
+			"textColor": "663c60"
+		},
+		{
+			"sound": "dearie",
+			"speed": 0.05,
+			"boximage": "dearie",
+			"portrait": "dearie",
+			"expression": "innocent",
+			"text": "Well...",
+			"textColor": "451a63"
+		},
+		{
+			"sound": "mearie",
+			"speed": 0.03,
+			"boximage": "mearie",
+			"portrait": "mearie",
+			"expression": "default",
+			"text": "I GOT HIS WALLET!",
+			"textColor": "a3004c"
+		},
+		{
+			"sound": "beta",
+			"speed": 0.05,
+			"boximage": "beta",
+			"portrait": "beta",
+			"image": "cutscenes/sen-beta/week20002",
+			"expression": "pissed",
+			"text": "Wh- HEY!",
+			"textColor": "663c60"
+		},
+		{
+			"sound": "dearie",
+			"speed": 0.05,
+			"boximage": "dearie",
+			"portrait": "dearie",
+			"expression": "malicous",
+			"text": "GOGOGO!!",
+			"textColor": "451a63"
+		},
+		{
+			"sound": "beta",
+			"speed": 0.05,
+			"boximage": "beta",
+			"portrait": "beta",
+			"expression": "pissed",
+			"text": "GET BACK HERE YOU FUCKING-",
+			"textColor": "663c60"
+		},
+		{
+			"sound": "beta",
+			"speed": 0.05,
+			"boximage": "beta",
+			"portrait": "beta",
+			"expression": "bruh",
+			"image": "cutscenes/sen-beta/week20003",
+			"text": "ughhh...",
+			"textColor": "663c60"
+		},
+		{
+			"sound": "beta",
+			"speed": 0.05,
+			"boximage": "beta",
+			"portrait": "beta",
+			"expression": "bruh",
+			"text": "This night can't get any worse...",
+			"textColor": "663c60"
+		},
+		{
+			"sound": "lem",
+			"speed": 0.05,
+			"boximage": "lem",
+			"portrait": "lem",
+			"expression": "happy",
+			"text": "Hiya Beta!",
+			"textColor": "663c60"
+		},
+		{
+			"sound": "beta",
+			"speed": 0.05,
+			"boximage": "beta",
+			"portrait": "beta",
+			"expression": "annoyed",
+			"text": "God hates me.",
+			"textColor": "663c60"
+		},
+		{
+			"sound": "lem",
+			"speed": 0.05,
+			"boximage": "lem",
+			"portrait": "lem",
+			"image": "cutscenes/sen-beta/week20004",
+			"expression": "questioning",
+			"text": "What'cha doin?",
+			"textColor": "663c60"
+		},
+		{
+			"sound": "beta",
+			"speed": 0.05,
+			"boximage": "beta",
+			"portrait": "beta",
+			"expression": "bruh",
+			"text": "These crotch goblins stole my shit, now are you gonna help me or are you just gonna stand there?",
+			"textColor": "663c60"
+		},
+		{
+			"sound": "lem",
+			"speed": 0.05,
+			"boximage": "lem",
+			"portrait": "lem",
+			"expression": "happy",
+			"text": "Oh ye! I can help!!",
+			"textColor": "663c60"
+		},
+		{
+			"sound": "lem",
+			"speed": 0.05,
+			"boximage": "lem",
+			"portrait": "lem",
+			"image": "cutscenes/sen-beta/week20005",
+			"expression": "happy",
+			"text": ":3",
+			"textColor": "663c60"
+		},
+		{
+			"sound": "beta",
+			"speed": 0.05,
+			"boximage": "beta",
+			"portrait": "beta",
+			"expression": "happy",
+			"text": "Actually that does help thank you.",
+			"textColor": "663c60"
+		},
+		{
+			"sound": "beta",
+			"speed": 0.05,
+			"boximage": "beta",
+			"portrait": "beta",
+			"expression": "fierce",
+			"text": "HEY DIPSHITS!",
+			"textColor": "663c60"
+		},
+		{
+			"sound": "mearie",
+			"speed": 0.05,
+			"boximage": "mearie",
+			"portrait": "mearie",
+			"expression": "fear",
+			"text": " WH- how'd he get in?! Why is he here?!",
+			"textColor": "a3004c"
+		},
+		{
+			"sound": "dearie",
+			"speed": 0.05,
+			"boximage": "dearie",
+			"portrait": "dearie",
+			"expression": "think",
+			"text": "Must be for this.",
+			"textColor": "451a63"
+		},
+		{
+			"sound": "dearie",
+			"speed": 0.05,
+			"boximage": "dearie",
+			"portrait": "dearie",
+			"expression": "malicous",
+			"text": "Awright dildos, If you want this back...",
+			"textColor": "451a63"
+		},
+		{
+			"sound": "dearie",
+			"speed": 0.05,
+			"boximage": "dearie",
+			"portrait": "dearie",
+			"expression": "malicous",
+			"text": "You're going to have to beat us first, yeah?",
+			"textColor": "451a63"
+		},
+		{
+			"sound": "lem",
+			"speed": 0.05,
+			"boximage": "lem",
+			"portrait": "lem",
+			"expression": "happy",
+			"text": "Good thing I'm not above killing children!",
+			"textColor": "663c60"
+		},
+		{
+			"sound": "dearie",
+			"speed": 0.08,
+			"boximage": "dearie",
+			"portrait": "dearie",
+			"expression": "fear",
+			"text": "IN A RAP BATTLE IN A RAP BATTLE IN A RAP BATTLE-",
+			"textColor": "451a63"
+		},
+		{
+			"sound": "beta",
+			"speed": 0.05,
+			"boximage": "beta",
+			"portrait": "beta",
+			"expression": "annoyed",
+			"text": "Fine whatever let's just get this over with",
+			"textColor": "663c60"
+		}
+	]
+}

@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bg_credits.png">
+	<!-- Created with Adobe Animate version 21.0.4.39603 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="credits bg0000" x="0" y="0" width="1280" height="720"/>
+	<SubTexture name="credits bg0001" x="0" y="0" width="1280" height="720"/>
+	<SubTexture name="credits bg0002" x="0" y="0" width="1280" height="720"/>
+	<SubTexture name="credits bg0003" x="0" y="0" width="1280" height="720"/>
+	<SubTexture name="credits bg0004" x="0" y="0" width="1280" height="720"/>
+	<SubTexture name="credits bg0005" x="0" y="0" width="1280" height="720"/>
+	<SubTexture name="credits bg0006" x="1310" y="0" width="1280" height="720"/>
+	<SubTexture name="credits bg0007" x="1310" y="0" width="1280" height="720"/>
+	<SubTexture name="credits bg0008" x="1310" y="0" width="1280" height="720"/>
+	<SubTexture name="credits bg0009" x="1310" y="0" width="1280" height="720"/>
+	<SubTexture name="credits bg0010" x="1310" y="0" width="1280" height="720"/>
+	<SubTexture name="credits bg0011" x="1310" y="0" width="1280" height="720"/>
+	<SubTexture name="credits bg0012" x="2620" y="0" width="1280" height="720"/>
+	<SubTexture name="credits bg0013" x="2620" y="0" width="1280" height="720"/>
+	<SubTexture name="credits bg0014" x="2620" y="0" width="1280" height="720"/>
+	<SubTexture name="credits bg0015" x="2620" y="0" width="1280" height="720"/>
+	<SubTexture name="credits bg0016" x="2620" y="0" width="1280" height="720"/>
+	<SubTexture name="credits bg0017" x="2620" y="0" width="1280" height="720"/>
+</TextureAtlas>

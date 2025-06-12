@@ -1,0 +1,103 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Alpha_Seq.png">
+	<!-- Created with Adobe Animate version 23.0.2.103 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="alpha cutscene seq0000" x="20" y="20" width="431" height="398" frameX="-12" frameY="-31" frameWidth="510" frameHeight="429"/>
+	<SubTexture name="alpha cutscene seq0001" x="471" y="20" width="431" height="396" frameX="-12" frameY="-33" frameWidth="510" frameHeight="429"/>
+	<SubTexture name="alpha cutscene seq0002" x="922" y="20" width="420" height="387" frameX="-20" frameY="-41" frameWidth="510" frameHeight="429"/>
+	<SubTexture name="alpha cutscene seq0003" x="1362" y="20" width="420" height="385" frameX="-20" frameY="-43" frameWidth="510" frameHeight="429"/>
+	<SubTexture name="alpha cutscene seq0004" x="1802" y="20" width="424" height="397" frameX="-13" frameY="-31" frameWidth="510" frameHeight="429"/>
+	<SubTexture name="alpha cutscene seq0005" x="2246" y="20" width="424" height="394" frameX="-13" frameY="-34" frameWidth="510" frameHeight="429"/>
+	<SubTexture name="alpha cutscene seq0006" x="2690" y="20" width="424" height="396" frameX="-13" frameY="-32" frameWidth="510" frameHeight="429"/>
+	<SubTexture name="alpha cutscene seq0007" x="3134" y="20" width="424" height="394" frameX="-13" frameY="-34" frameWidth="510" frameHeight="429"/>
+	<SubTexture name="alpha cutscene seq0008" x="3578" y="20" width="424" height="386" frameX="-13" frameY="-42" frameWidth="510" frameHeight="429"/>
+	<SubTexture name="alpha cutscene seq0009" x="2690" y="20" width="424" height="396" frameX="-13" frameY="-32" frameWidth="510" frameHeight="429"/>
+	<SubTexture name="alpha cutscene seq0010" x="3134" y="20" width="424" height="394" frameX="-13" frameY="-34" frameWidth="510" frameHeight="429"/>
+	<SubTexture name="alpha cutscene seq0011" x="3578" y="20" width="424" height="386" frameX="-13" frameY="-42" frameWidth="510" frameHeight="429"/>
+	<SubTexture name="alpha cutscene seq0012" x="2690" y="20" width="424" height="396" frameX="-13" frameY="-32" frameWidth="510" frameHeight="429"/>
+	<SubTexture name="alpha cutscene seq0013" x="3134" y="20" width="424" height="394" frameX="-13" frameY="-34" frameWidth="510" frameHeight="429"/>
+	<SubTexture name="alpha cutscene seq0014" x="20" y="20" width="431" height="398" frameX="-12" frameY="-31" frameWidth="510" frameHeight="429"/>
+	<SubTexture name="alpha cutscene seq0015" x="471" y="20" width="431" height="396" frameX="-12" frameY="-33" frameWidth="510" frameHeight="429"/>
+	<SubTexture name="alpha cutscene seq0016" x="922" y="20" width="420" height="387" frameX="-20" frameY="-41" frameWidth="510" frameHeight="429"/>
+	<SubTexture name="alpha cutscene seq0017" x="1362" y="20" width="420" height="385" frameX="-20" frameY="-43" frameWidth="510" frameHeight="429"/>
+	<SubTexture name="alpha cutscene seq0018" x="1802" y="20" width="424" height="397" frameX="-13" frameY="-31" frameWidth="510" frameHeight="429"/>
+	<SubTexture name="alpha cutscene seq0019" x="2246" y="20" width="424" height="394" frameX="-13" frameY="-34" frameWidth="510" frameHeight="429"/>
+	<SubTexture name="alpha cutscene seq0020" x="2690" y="20" width="424" height="396" frameX="-13" frameY="-32" frameWidth="510" frameHeight="429"/>
+	<SubTexture name="alpha cutscene seq0021" x="3134" y="20" width="424" height="394" frameX="-13" frameY="-34" frameWidth="510" frameHeight="429"/>
+	<SubTexture name="alpha cutscene seq0022" x="3578" y="20" width="424" height="386" frameX="-13" frameY="-42" frameWidth="510" frameHeight="429"/>
+	<SubTexture name="alpha cutscene seq0023" x="2690" y="20" width="424" height="396" frameX="-13" frameY="-32" frameWidth="510" frameHeight="429"/>
+	<SubTexture name="alpha cutscene seq0024" x="3134" y="20" width="424" height="394" frameX="-13" frameY="-34" frameWidth="510" frameHeight="429"/>
+	<SubTexture name="alpha cutscene seq0025" x="3578" y="20" width="424" height="386" frameX="-13" frameY="-42" frameWidth="510" frameHeight="429"/>
+	<SubTexture name="alpha cutscene seq0026" x="2690" y="20" width="424" height="396" frameX="-13" frameY="-32" frameWidth="510" frameHeight="429"/>
+	<SubTexture name="alpha cutscene seq0027" x="20" y="438" width="424" height="394" frameX="-15" frameY="-32" frameWidth="510" frameHeight="429"/>
+	<SubTexture name="alpha cutscene seq0028" x="464" y="438" width="424" height="394" frameX="-15" frameY="-32" frameWidth="510" frameHeight="429"/>
+	<SubTexture name="alpha cutscene seq0029" x="908" y="438" width="424" height="403" frameX="-15" frameY="-23" frameWidth="510" frameHeight="429"/>
+	<SubTexture name="alpha cutscene seq0030" x="1352" y="438" width="431" height="329" frameX="0" frameY="-98" frameWidth="510" frameHeight="429"/>
+	<SubTexture name="alpha cutscene seq0031" x="1803" y="438" width="431" height="333" frameX="0" frameY="-94" frameWidth="510" frameHeight="429"/>
+	<SubTexture name="alpha cutscene seq0032" x="2254" y="438" width="363" height="426" frameX="-129" frameY="0" frameWidth="510" frameHeight="429"/>
+	<SubTexture name="alpha cutscene seq0033" x="2637" y="438" width="328" height="408" frameX="-134" frameY="-18" frameWidth="510" frameHeight="429"/>
+	<SubTexture name="alpha cutscene seq0034" x="2985" y="438" width="349" height="408" frameX="-132" frameY="-18" frameWidth="510" frameHeight="429"/>
+	<SubTexture name="alpha cutscene seq0035" x="3354" y="438" width="349" height="406" frameX="-132" frameY="-20" frameWidth="510" frameHeight="429"/>
+	<SubTexture name="alpha cutscene seq0036" x="20" y="884" width="371" height="408" frameX="-131" frameY="-18" frameWidth="510" frameHeight="429"/>
+	<SubTexture name="alpha cutscene seq0037" x="411" y="884" width="371" height="406" frameX="-131" frameY="-20" frameWidth="510" frameHeight="429"/>
+	<SubTexture name="alpha cutscene seq0038" x="802" y="884" width="359" height="408" frameX="-140" frameY="-18" frameWidth="510" frameHeight="429"/>
+	<SubTexture name="alpha cutscene seq0039" x="1181" y="884" width="359" height="406" frameX="-140" frameY="-20" frameWidth="510" frameHeight="429"/>
+	<SubTexture name="alpha cutscene seq0040" x="1560" y="884" width="332" height="408" frameX="-141" frameY="-18" frameWidth="510" frameHeight="429"/>
+	<SubTexture name="alpha cutscene seq0041" x="1912" y="884" width="327" height="406" frameX="-141" frameY="-20" frameWidth="510" frameHeight="429"/>
+	<SubTexture name="alpha cutscene seq0042" x="2259" y="884" width="351" height="408" frameX="-135" frameY="-18" frameWidth="510" frameHeight="429"/>
+	<SubTexture name="alpha cutscene seq0043" x="2630" y="884" width="351" height="406" frameX="-135" frameY="-20" frameWidth="510" frameHeight="429"/>
+	<SubTexture name="alpha cutscene seq0044" x="3001" y="884" width="369" height="408" frameX="-137" frameY="-18" frameWidth="510" frameHeight="429"/>
+	<SubTexture name="alpha cutscene seq0045" x="3390" y="884" width="369" height="406" frameX="-137" frameY="-20" frameWidth="510" frameHeight="429"/>
+	<SubTexture name="alpha cutscene seq0046" x="20" y="1312" width="358" height="408" frameX="-145" frameY="-18" frameWidth="510" frameHeight="429"/>
+	<SubTexture name="alpha cutscene seq0047" x="398" y="1312" width="358" height="406" frameX="-145" frameY="-20" frameWidth="510" frameHeight="429"/>
+	<SubTexture name="alpha cutscene seq0048" x="776" y="1312" width="333" height="408" frameX="-146" frameY="-18" frameWidth="510" frameHeight="429"/>
+	<SubTexture name="alpha cutscene seq0049" x="1129" y="1312" width="328" height="406" frameX="-146" frameY="-20" frameWidth="510" frameHeight="429"/>
+	<SubTexture name="alpha cutscene seq0050" x="1477" y="1312" width="352" height="408" frameX="-139" frameY="-18" frameWidth="510" frameHeight="429"/>
+	<SubTexture name="alpha cutscene seq0051" x="1849" y="1312" width="352" height="407" frameX="-139" frameY="-19" frameWidth="510" frameHeight="429"/>
+	<SubTexture name="alpha cutscene seq0052" x="2221" y="1312" width="366" height="408" frameX="-144" frameY="-18" frameWidth="510" frameHeight="429"/>
+	<SubTexture name="alpha cutscene seq0053" x="2607" y="1312" width="366" height="407" frameX="-144" frameY="-19" frameWidth="510" frameHeight="429"/>
+	<SubTexture name="alpha cutscene seq0054" x="2993" y="1312" width="384" height="357" frameX="-60" frameY="-69" frameWidth="510" frameHeight="429"/>
+	<SubTexture name="alpha cutscene seq0055" x="3397" y="1312" width="384" height="355" frameX="-60" frameY="-71" frameWidth="510" frameHeight="429"/>
+	<SubTexture name="alpha cutscene seq0056" x="20" y="1740" width="385" height="366" frameX="-76" frameY="-60" frameWidth="510" frameHeight="429"/>
+	<SubTexture name="alpha cutscene seq0057" x="425" y="1740" width="384" height="366" frameX="-67" frameY="-60" frameWidth="510" frameHeight="429"/>
+	<SubTexture name="alpha cutscene seq0058" x="829" y="1740" width="384" height="363" frameX="-67" frameY="-63" frameWidth="510" frameHeight="429"/>
+	<SubTexture name="alpha cutscene seq0059" x="1233" y="1740" width="384" height="356" frameX="-67" frameY="-70" frameWidth="510" frameHeight="429"/>
+	<SubTexture name="alpha cutscene seq0060" x="425" y="1740" width="384" height="366" frameX="-67" frameY="-60" frameWidth="510" frameHeight="429"/>
+	<SubTexture name="alpha cutscene seq0061" x="829" y="1740" width="384" height="363" frameX="-67" frameY="-63" frameWidth="510" frameHeight="429"/>
+	<SubTexture name="alpha cutscene seq0062" x="1233" y="1740" width="384" height="356" frameX="-67" frameY="-70" frameWidth="510" frameHeight="429"/>
+	<SubTexture name="alpha cutscene seq0063" x="425" y="1740" width="384" height="366" frameX="-67" frameY="-60" frameWidth="510" frameHeight="429"/>
+	<SubTexture name="alpha cutscene seq0064" x="829" y="1740" width="384" height="363" frameX="-67" frameY="-63" frameWidth="510" frameHeight="429"/>
+	<SubTexture name="alpha cutscene seq0065" x="1233" y="1740" width="384" height="356" frameX="-67" frameY="-70" frameWidth="510" frameHeight="429"/>
+	<SubTexture name="alpha cutscene seq0066" x="425" y="1740" width="384" height="366" frameX="-67" frameY="-60" frameWidth="510" frameHeight="429"/>
+	<SubTexture name="alpha cutscene seq0067" x="829" y="1740" width="384" height="363" frameX="-67" frameY="-63" frameWidth="510" frameHeight="429"/>
+	<SubTexture name="alpha cutscene seq0068" x="1233" y="1740" width="384" height="356" frameX="-67" frameY="-70" frameWidth="510" frameHeight="429"/>
+	<SubTexture name="alpha cutscene seq0069" x="425" y="1740" width="384" height="366" frameX="-67" frameY="-60" frameWidth="510" frameHeight="429"/>
+	<SubTexture name="alpha cutscene seq0070" x="829" y="1740" width="384" height="363" frameX="-67" frameY="-63" frameWidth="510" frameHeight="429"/>
+	<SubTexture name="alpha cutscene seq0071" x="1233" y="1740" width="384" height="356" frameX="-67" frameY="-70" frameWidth="510" frameHeight="429"/>
+	<SubTexture name="alpha cutscene seq0072" x="425" y="1740" width="384" height="366" frameX="-67" frameY="-60" frameWidth="510" frameHeight="429"/>
+	<SubTexture name="alpha cutscene seq0073" x="1637" y="1740" width="384" height="366" frameX="-67" frameY="-60" frameWidth="510" frameHeight="429"/>
+	<SubTexture name="alpha cutscene seq0074" x="2041" y="1740" width="384" height="363" frameX="-67" frameY="-63" frameWidth="510" frameHeight="429"/>
+	<SubTexture name="alpha cutscene seq0075" x="2445" y="1740" width="393" height="366" frameX="-67" frameY="-60" frameWidth="510" frameHeight="429"/>
+	<SubTexture name="alpha cutscene seq0076" x="2858" y="1740" width="393" height="363" frameX="-67" frameY="-63" frameWidth="510" frameHeight="429"/>
+	<SubTexture name="alpha cutscene seq0077" x="3271" y="1740" width="393" height="366" frameX="-67" frameY="-60" frameWidth="510" frameHeight="429"/>
+	<SubTexture name="alpha cutscene seq0078" x="20" y="2126" width="393" height="363" frameX="-67" frameY="-63" frameWidth="510" frameHeight="429"/>
+	<SubTexture name="alpha cutscene seq0079" x="433" y="2126" width="393" height="356" frameX="-67" frameY="-70" frameWidth="510" frameHeight="429"/>
+	<SubTexture name="alpha cutscene seq0080" x="3271" y="1740" width="393" height="366" frameX="-67" frameY="-60" frameWidth="510" frameHeight="429"/>
+	<SubTexture name="alpha cutscene seq0081" x="20" y="2126" width="393" height="363" frameX="-67" frameY="-63" frameWidth="510" frameHeight="429"/>
+	<SubTexture name="alpha cutscene seq0082" x="433" y="2126" width="393" height="356" frameX="-67" frameY="-70" frameWidth="510" frameHeight="429"/>
+	<SubTexture name="alpha cutscene seq end loop0000" x="846" y="2126" width="391" height="366"/>
+	<SubTexture name="alpha cutscene seq end loop0001" x="1257" y="2126" width="391" height="363" frameX="0" frameY="-3" frameWidth="391" frameHeight="366"/>
+	<SubTexture name="alpha cutscene seq end loop0002" x="1668" y="2126" width="391" height="356" frameX="0" frameY="-10" frameWidth="391" frameHeight="366"/>
+	<SubTexture name="alpha cutscene seq end loop0003" x="846" y="2126" width="391" height="366"/>
+	<SubTexture name="alpha cutscene seq end loop0004" x="1257" y="2126" width="391" height="363" frameX="0" frameY="-3" frameWidth="391" frameHeight="366"/>
+	<SubTexture name="alpha cutscene seq end loop0005" x="1668" y="2126" width="391" height="356" frameX="0" frameY="-10" frameWidth="391" frameHeight="366"/>
+	<SubTexture name="alpha cutscene seq end loop0006" x="846" y="2126" width="391" height="366"/>
+	<SubTexture name="alpha cutscene seq end loop0007" x="1257" y="2126" width="391" height="363" frameX="0" frameY="-3" frameWidth="391" frameHeight="366"/>
+	<SubTexture name="alpha cutscene seq end loop0008" x="1668" y="2126" width="391" height="356" frameX="0" frameY="-10" frameWidth="391" frameHeight="366"/>
+	<SubTexture name="alpha cutscene seq end loop0009" x="846" y="2126" width="391" height="366"/>
+	<SubTexture name="alpha cutscene seq end loop0010" x="1257" y="2126" width="391" height="363" frameX="0" frameY="-3" frameWidth="391" frameHeight="366"/>
+	<SubTexture name="alpha cutscene seq end loop0011" x="1668" y="2126" width="391" height="356" frameX="0" frameY="-10" frameWidth="391" frameHeight="366"/>
+	<SubTexture name="alpha cutscene seq end loop0012" x="846" y="2126" width="391" height="366"/>
+	<SubTexture name="alpha cutscene seq end loop0013" x="1257" y="2126" width="391" height="363" frameX="0" frameY="-3" frameWidth="391" frameHeight="366"/>
+	<SubTexture name="alpha cutscene seq end loop0014" x="1668" y="2126" width="391" height="356" frameX="0" frameY="-10" frameWidth="391" frameHeight="366"/>
+</TextureAtlas>

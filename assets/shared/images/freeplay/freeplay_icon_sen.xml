@@ -1,0 +1,14 @@
+﻿<TextureAtlas imagePatheight="freeplay_icon_sen.png">
+	<SubTexture name="sen icons0000" x="20" y="20" width="144" height="115"/>
+	<SubTexture name="sen icons0001" x="20" y="20" width="144" height="115"/>
+	<SubTexture name="sen icons0002" x="20" y="20" width="144" height="115"/>
+	<SubTexture name="sen icons0003" x="20" y="20" width="144" height="115"/>
+	<SubTexture name="sen icons0004" x="184" y="20" width="144" height="115"/>
+	<SubTexture name="sen icons0005" x="184" y="20" width="144" height="115"/>
+	<SubTexture name="sen icons0006" x="184" y="20" width="144" height="115"/>
+	<SubTexture name="sen icons0007" x="184" y="20" width="144" height="115"/>
+	<SubTexture name="sen icons0008" x="348" y="20" width="144" height="115"/>
+	<SubTexture name="sen icons0009" x="348" y="20" width="144" height="115"/>
+	<SubTexture name="sen icons0010" x="348" y="20" width="144" height="115"/>
+	<SubTexture name="sen icons0011" x="348" y="20" width="144" height="115"/>
+</TextureAtlas>

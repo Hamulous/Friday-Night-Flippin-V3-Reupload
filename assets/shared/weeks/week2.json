@@ -1,0 +1,35 @@
+{
+	"storyName": "Children(Derogatory)",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "week1",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"deariez",
+		"sen",
+		""
+	],
+	"songs": [
+		[
+			"Authority",
+			"deariez",
+			[
+				40,
+				51,
+				68
+			]
+		],
+		[
+			"Westway",
+			"deariez",
+			[
+				40,
+				51,
+				68
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Flippin2",
+	"charSelect": true
+}

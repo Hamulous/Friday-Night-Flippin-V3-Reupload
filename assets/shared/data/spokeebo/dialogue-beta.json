@@ -1,0 +1,205 @@
+{
+	"dialogue": [
+		{
+			"sound": "lem",
+			"speed": 0.05,
+			"boximage": "lem",
+			"portrait": "lem",
+			"image": "cutscenes/sen-beta/week10001",
+			"expression": "happy",
+			"text": "Hey you aren't half bad!",
+			"textColor": "7d2222"
+		},
+		{
+			"sound": "beta",
+			"speed": 0.05,
+			"boximage": "beta",
+			"portrait": "beta",
+			"expression": "chill",
+			"text": "mhm yeah.",
+			"textColor": "663c60"
+		},
+		{
+			"sound": "beta",
+			"speed": 0.05,
+			"boximage": "beta",
+			"portrait": "beta",
+			"expression": "happy",
+			"text": "Now that THAT'S over...",
+			"textColor": "663c60"
+		},
+		{
+			"sound": "pump",
+			"speed": 0.05,
+			"boximage": "pump",
+			"portrait": "pump",
+			"expression": "normal",
+			"text": "Lem? What's going on over here?",
+			"textColor": "592111"
+		},
+		{
+			"sound": "beta",
+			"speed": 0.05,
+			"boximage": "beta",
+			"portrait": "beta",
+			"expression": "fake smile",
+			"text": "{Kill me now.}",
+			"textColor": "663c60"
+		},
+		{
+			"sound": "lem",
+			"speed": 0.05,
+			"boximage": "lem",
+			"portrait": "lem",
+			"expression": "happy",
+			"text": "Oh hey Pump- Not much, actually.",
+			"textColor": "7d2222"
+		},
+		{
+			"sound": "lem",
+			"speed": 0.05,
+			"boximage": "lem",
+			"portrait": "lem",
+			"expression": "shrug",
+			"text": "Was just having some fun singing with this... random dummy!",
+			"textColor": "7d2222"
+		},
+		{
+			"sound": "beta",
+			"speed": 0.05,
+			"boximage": "beta",
+			"portrait": "beta",
+			"expression": "fake smile",
+			"text": ".",
+			"textColor": "663c60"
+		},
+		{
+			"sound": "pump",
+			"speed": 0.05,
+			"boximage": "pump",
+			"portrait": "pump",
+			"image": "cutscenes/sen-beta/week10002",
+			"expression": "serious",
+			"text": "Just some singing is it, huh...?",
+			"textColor": "592111"
+		},
+		{
+			"sound": "beta",
+			"speed": 0.05,
+			"boximage": "beta",
+			"portrait": "beta",
+			"expression": "annoyed",
+			"text": "{He's gonna stomp on me isn't he, God I knew it would end like this...}",
+			"textColor": "663c60"
+		},
+		{
+			"sound": "pump",
+			"speed": 0.05,
+			"boximage": "pump",
+			"portrait": "pump",
+			"image": "cutscenes/sen-beta/week10003",
+			"expression": "scary",
+			"text": "Not trying to make any advances, huh lil dude?",
+			"textColor": "592111"
+		},
+		{
+			"sound": "beta",
+			"speed": 0.05,
+			"boximage": "beta",
+			"portrait": "beta",
+			"expression": "pissed",
+			"text": "AH-EW WHAT THE FUCK, NO??? ABSOLUTELY NOT. {did he just CROUCH?}",
+			"textColor": "663c60"
+		},
+		{
+			"sound": "beta",
+			"speed": 0.05,
+			"boximage": "beta",
+			"portrait": "beta",
+			"expression": "bruh",
+			"text": "And I'm not a 'lil dude'. The names BETA.",
+			"textColor": "663c60"
+		},
+		{
+			"sound": "beta",
+			"speed": 0.05,
+			"boximage": "beta",
+			"portrait": "beta",
+			"expression": "bruh",
+			"text": "and I'd really appreciate it if you didn't-",
+			"textColor": "663c60"
+		},
+		{
+			"sound": "pump",
+			"speed": 0.05,
+			"boximage": "pump",
+			"portrait": "pump",
+			"expression": "content",
+			"text": "Odd name.",
+			"textColor": "592111"
+		},
+		{
+			"sound": "beta",
+			"speed": 0.05,
+			"boximage": "beta",
+			"portrait": "beta",
+			"expression": "stare",
+			"text": ".",
+			"textColor": "663c60"
+		},
+		{
+			"sound": "pump",
+			"speed": 0.05,
+			"boximage": "pump",
+			"portrait": "pump",
+			"expression": "nervous",
+			"text": "Thooooughhh considering mine's Pump there isn't much room to talk, heh-",
+			"textColor": "592111"
+		},
+		{
+			"sound": "pump",
+			"speed": 0.05,
+			"boximage": "pump",
+			"portrait": "pump",
+			"expression": "sad",
+			"text": "That was kinda rude on my part there sorry- ",
+			"textColor": "592111"
+		},
+		{
+			"sound": "pump",
+			"speed": 0.05,
+			"boximage": "pump",
+			"portrait": "pump",
+			"expression": "content",
+			"text": "but this whole singing thing sounds fun. Mind if I join?",
+			"textColor": "592111"
+		},
+		{
+			"sound": "beta",
+			"speed": 0.05,
+			"boximage": "beta",
+			"portrait": "beta",
+			"expression": "bruh",
+			"text": "Yes, actually I do-",
+			"textColor": "663c60"
+		},
+		{
+			"sound": "lem",
+			"speed": 0.05,
+			"boximage": "lem",
+			"portrait": "lem",
+			"expression": "happy",
+			"text": "Go ahead bro! Beta here is pretty good at it!",
+			"textColor": "7d2222"
+		},
+		{
+			"sound": "beta",
+			"speed": 0.05,
+			"boximage": "beta",
+			"portrait": "beta",
+			"expression": "fake smile",
+			"text": "{I did NOT sign up for this shit.}",
+			"textColor": "663c60"
+		}
+	]
+}

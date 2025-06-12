@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Note_Distraction.png">
+	<!-- Created with Adobe Animate version 23.0.2.103 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="dustsplodey0000" x="5" y="5" width="762" height="148" frameX="-229" frameY="-263" frameWidth="1187" frameHeight="661"/>
+	<SubTexture name="dustsplodey0001" x="772" y="5" width="1117" height="550" frameX="-70" frameY="-44" frameWidth="1187" frameHeight="661"/>
+	<SubTexture name="dustsplodey0002" x="772" y="5" width="1117" height="550" frameX="-70" frameY="-44" frameWidth="1187" frameHeight="661"/>
+	<SubTexture name="dustsplodey0003" x="1894" y="5" width="1143" height="615" frameX="0" frameY="-37" frameWidth="1187" frameHeight="661"/>
+	<SubTexture name="dustsplodey0004" x="1894" y="5" width="1143" height="615" frameX="0" frameY="-37" frameWidth="1187" frameHeight="661"/>
+	<SubTexture name="dustsplodey0005" x="5" y="625" width="1096" height="618" frameX="-32" frameY="-43" frameWidth="1187" frameHeight="661"/>
+	<SubTexture name="dustsplodey0006" x="5" y="625" width="1096" height="618" frameX="-32" frameY="-43" frameWidth="1187" frameHeight="661"/>
+	<SubTexture name="dustsplodey0007" x="1106" y="625" width="1089" height="607" frameX="-30" frameY="-43" frameWidth="1187" frameHeight="661"/>
+	<SubTexture name="dustsplodey0008" x="1106" y="625" width="1089" height="607" frameX="-30" frameY="-43" frameWidth="1187" frameHeight="661"/>
+	<SubTexture name="dustsplodey0009" x="2200" y="625" width="1104" height="603" frameX="-28" frameY="-47" frameWidth="1187" frameHeight="661"/>
+	<SubTexture name="dustsplodey0010" x="2200" y="625" width="1104" height="603" frameX="-28" frameY="-47" frameWidth="1187" frameHeight="661"/>
+	<SubTexture name="dustsplodey0011" x="5" y="625" width="1096" height="618" frameX="-32" frameY="-43" frameWidth="1187" frameHeight="661"/>
+	<SubTexture name="dustsplodey0012" x="5" y="625" width="1096" height="618" frameX="-32" frameY="-43" frameWidth="1187" frameHeight="661"/>
+	<SubTexture name="dustsplodey0013" x="5" y="1248" width="1086" height="604" frameX="-30" frameY="-43" frameWidth="1187" frameHeight="661"/>
+	<SubTexture name="dustsplodey0014" x="5" y="1248" width="1086" height="604" frameX="-30" frameY="-43" frameWidth="1187" frameHeight="661"/>
+	<SubTexture name="dustsplodey0015" x="1096" y="1248" width="856" height="501" frameX="-149" frameY="-156" frameWidth="1187" frameHeight="661"/>
+	<SubTexture name="dustsplodey0016" x="1096" y="1248" width="856" height="501" frameX="-149" frameY="-156" frameWidth="1187" frameHeight="661"/>
+	<SubTexture name="dustsplodey0017" x="1957" y="1248" width="793" height="495" frameX="-92" frameY="-65" frameWidth="1187" frameHeight="661"/>
+	<SubTexture name="dustsplodey0018" x="1957" y="1248" width="793" height="495" frameX="-92" frameY="-65" frameWidth="1187" frameHeight="661"/>
+	<SubTexture name="dustsplodey0019" x="2755" y="1248" width="769" height="596" frameX="-44" frameY="0" frameWidth="1187" frameHeight="661"/>
+	<SubTexture name="dustsplodey0020" x="2755" y="1248" width="769" height="596" frameX="-44" frameY="0" frameWidth="1187" frameHeight="661"/>
+	<SubTexture name="dustsplodey0021" x="5" y="1857" width="796" height="573" frameX="-18" frameY="-29" frameWidth="1187" frameHeight="661"/>
+	<SubTexture name="dustsplodey0022" x="806" y="1857" width="836" height="472" frameX="-8" frameY="-165" frameWidth="1187" frameHeight="661"/>
+	<SubTexture name="dustsplodey0023" x="1647" y="1857" width="0" height="0" frameX="-340" frameY="-418" frameWidth="1187" frameHeight="661"/>
+	<SubTexture name="dustsplodey0024" x="1647" y="1857" width="0" height="0" frameX="-340" frameY="-418" frameWidth="1187" frameHeight="661"/>
+</TextureAtlas>

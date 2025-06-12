@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Sen_Rose.png">
+	<!-- Created with Adobe Animate version 23.0.2.103 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Sen_Rose0000" x="20" y="20" width="88" height="91"/>
+	<SubTexture name="Sen_Rose0001" x="20" y="20" width="88" height="91"/>
+	<SubTexture name="Sen_Rose0002" x="128" y="20" width="87" height="91" frameX="0" frameY="0" frameWidth="88" frameHeight="91"/>
+	<SubTexture name="Sen_Rose0003" x="128" y="20" width="87" height="91" frameX="0" frameY="0" frameWidth="88" frameHeight="91"/>
+	<SubTexture name="Sen_Rose_Select0000" x="235" y="20" width="275" height="114"/>
+	<SubTexture name="Sen_Rose_Select0001" x="235" y="20" width="275" height="114"/>
+	<SubTexture name="Sen_Rose_Select0002" x="235" y="20" width="275" height="114"/>
+	<SubTexture name="Sen_Rose_Select0003" x="530" y="20" width="273" height="114" frameX="-1" frameY="0" frameWidth="275" frameHeight="114"/>
+	<SubTexture name="Sen_Rose_Select0004" x="530" y="20" width="273" height="114" frameX="-1" frameY="0" frameWidth="275" frameHeight="114"/>
+	<SubTexture name="Sen_Rose_Select0005" x="530" y="20" width="273" height="114" frameX="-1" frameY="0" frameWidth="275" frameHeight="114"/>
+	<SubTexture name="Sen_Rose_Select0006" x="20" y="154" width="273" height="114" frameX="0" frameY="0" frameWidth="275" frameHeight="114"/>
+	<SubTexture name="Sen_Rose_Select0007" x="20" y="154" width="273" height="114" frameX="0" frameY="0" frameWidth="275" frameHeight="114"/>
+	<SubTexture name="Sen_Rose_Select0008" x="20" y="154" width="273" height="114" frameX="0" frameY="0" frameWidth="275" frameHeight="114"/>
+</TextureAtlas>

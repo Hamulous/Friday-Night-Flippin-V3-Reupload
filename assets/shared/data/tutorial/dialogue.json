@@ -1,0 +1,114 @@
+{
+	"dialogue": [
+		{
+			"sound": "lem",
+			"speed": 0.05,
+			"boximage": "lem",
+			"portrait": "lem",
+			"image": "cutscenes/sen/tutorial0001",
+			"expression": "happy",
+			"text": "...",
+			"textColor": "c86760"
+		},
+		{
+			"sound": "lem",
+			"speed": 0.05,
+			"boximage": "lem",
+			"portrait": "lem",
+			"image": "cutscenes/sen/T_3",
+			"expression": "happy",
+			"text": "Oh- Hey there, pretty boy!",
+			"textColor": "c86760"
+		},
+		{
+			"sound": "lem",
+			"speed": 0.05,
+			"boximage": "lem",
+			"portrait": "lem",
+			"image": "cutscenes/sen/T_3",
+			"expression": "normal",
+			"text": "I didn't expect to see you here of all places...",
+			"textColor": "c86760"
+		},
+		{
+			"sound": "lem",
+			"speed": 0.05,
+			"boximage": "lem",
+			"portrait": "lem",
+			"image": "cutscenes/sen/T_3",
+			"expression": "happy",
+			"text": "But I'm glad to see you again.",
+			"textColor": "c86760"
+		},
+		{
+			"sound": "sen",
+			"speed": 0.05,
+			"boximage": "sen",
+			"portrait": "sen",
+			"image": "cutscenes/sen/T_3",
+			"expression": "happy",
+			"text": "Hehe, of course.",
+			"textColor": "C86762"
+		},
+		{
+			"sound": "lem",
+			"speed": 0.05,
+			"boximage": "lem",
+			"portrait": "lem",
+			"image": "cutscenes/sen/T_3",
+			"expression": "normal",
+			"text": "Since we're here together now, what do you want to do?",
+			"textColor": "c86760"
+		},
+		{
+			"sound": "sen",
+			"speed": 0.05,
+			"boximage": "sen",
+			"portrait": "sen",
+			"image": "cutscenes/sen/T_3",
+			"expression": "soft",
+			"text": "Well... I've never really done this before,",
+			"textColor": "C86762"
+		},
+		{
+			"sound": "sen",
+			"speed": 0.05,
+			"boximage": "sen",
+			"portrait": "sen",
+			"image": "cutscenes/sen/T_3",
+			"expression": "happy",
+			"text": "But I've always admired your singing and I'd love to practice my notes with you a little.",
+			"textColor": "C86762"
+		},
+		{
+			"sound": "sen",
+			"speed": 0.05,
+			"boximage": "sen",
+			"portrait": "sen",
+			"image": "cutscenes/sen/T_3",
+			"expression": "cat",
+			"text": "Perhaps you could teach me a thing or two?",
+			"textColor": "C86762"
+		},
+		{
+			"sound": "lem",
+			"speed": 0.05,
+			"boximage": "lem",
+			"portrait": "lem",
+			"image": "cutscenes/sen/T_3",
+			"expression": "happy",
+			"text": " Ah, no worries! Just follow my lead, okay? You got this!",
+			"textColor": "c86760"
+		},
+		{
+			"sound": "sen",
+			"speed": 0.05,
+			"boximage": "sen",
+			"portrait": "sen",
+			"image": "cutscenes/sen/T_3",
+			"expression": "happy",
+			"text": "gotcha, here goes nothing!",
+			"textColor": "C86762"
+		}
+	]
+}

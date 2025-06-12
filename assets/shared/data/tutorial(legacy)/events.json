@@ -1,0 +1,59 @@
+{
+	"song": {
+		"speed": 2,
+		"stage": null,
+		"player1": "sen",
+		"player2": "lem",
+		"player3": null,
+		"events": [
+			[
+				30000,
+				[
+					[
+						"Hey!",
+						"GF",
+						"1"
+					]
+				]
+			],
+			[
+				37800,
+				[
+					[
+						"Hey!",
+						"GF",
+						"1"
+					]
+				]
+			],
+			[
+				61200,
+				[
+					[
+						"Hey!",
+						"GF",
+						"1"
+					],
+					[
+						"Hey!",
+						"BF",
+						"1"
+					],
+					[
+						"Hide Main HUD",
+						"0.5",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "lem",
+		"bpm": 100,
+		"arrowSkin": null,
+		"needsVoices": false,
+		"song": "Tutorial(old)"
+	}
+}

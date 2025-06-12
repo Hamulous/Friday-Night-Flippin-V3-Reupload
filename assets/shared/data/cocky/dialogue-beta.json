@@ -1,0 +1,139 @@
+{
+	"dialogue": [
+		{
+			"sound": "beta",
+			"speed": 0.05,
+			"boximage": "beta",
+			"portrait": "beta",
+			"expression": "fierce",
+			"text": "Tch that was nothing. I thought this was supposed to be hard.",
+			"textColor": "663c60"
+		},
+        {
+			"sound": "cap",
+			"speed": 0.05,
+			"boximage": "cap",
+			"portrait": "cap",
+			"expression": "insane",
+			"text": "Oh of course YOU'd want it hard, huh?",
+			"textColor": "573937"
+		},
+        {
+			"sound": "beta",
+			"speed": 0.05,
+			"boximage": "beta",
+			"portrait": "beta",
+			"expression": "fake smile",
+			"text": "Stop talking. Now.",
+			"textColor": "663c60"
+		},
+        {
+			"sound": "cap",
+			"speed": 0.05,
+			"boximage": "cap",
+			"portrait": "cap",
+			"expression": "default",
+			"text": "heheh Whatever. Just try not to get too cocky",
+			"textColor": "573937"
+		},
+        {
+			"sound": "cap",
+			"speed": 0.05,
+			"boximage": "cap",
+			"portrait": "cap",
+			"expression": "default",
+			"text": "We're just getting started.",
+			"textColor": "573937"
+		},
+        {
+			"sound": "lem",
+			"speed": 0.05,
+			"boximage": "lem",
+			"portrait": "lem",
+			"expression": "happy",
+			"text": "You got this, Beta!",
+			"textColor": "7d2222"
+		},
+        {
+			"sound": "cap",
+			"speed": 0.05,
+			"boximage": "cap",
+			"portrait": "cap",
+			"expression": "happy",
+			"text": "Eugh. Why the hell are you hanging out with that thing?",
+			"textColor": "573937"
+		},
+        {
+			"sound": "beta",
+			"speed": 0.05,
+			"boximage": "beta",
+			"portrait": "beta",
+			"expression": "default",
+			"text": "He just followed me here. This is Sens boyfriend or whatever",
+			"textColor": "663c60"
+		},
+        {
+			"sound": "cap",
+			"speed": 0.05,
+			"boximage": "cap",
+			"portrait": "cap",
+			"expression": "confuse",
+			"text": "Princeys... got a boyfriend now? ",
+			"textColor": "573937"
+		},
+        {
+			"sound": "beta",
+			"speed": 0.05,
+			"boximage": "beta",
+			"portrait": "beta",
+			"expression": "default",
+			"text": "Yeah! He's really hit rock bottom since he thought you died!",
+			"textColor": "663c60"
+		},
+        {
+			"sound": "beta",
+			"speed": 0.05,
+			"boximage": "beta",
+			"portrait": "beta",
+			"expression": "annoyed",
+			"text": "dick.",
+			"textColor": "663c60"
+		},
+        {
+			"sound": "cap",
+			"speed": 0.05,
+			"boximage": "cap",
+			"portrait": "cap",
+			"expression": "doubt",
+			"text": "Huh. Surprised that thing hasn't eaten him yet.",
+			"textColor": "573937"
+		},
+        {
+			"sound": "lem",
+			"speed": 0.05,
+			"boximage": "lem",
+			"portrait": "lem",
+			"expression": "happy",
+			"text": "Oh I did.",
+			"textColor": "7d2222"
+		},
+		{
+			"sound": "cap",
+			"speed": 0.05,
+			"boximage": "cap",
+			"portrait": "cap",
+			"expression": "doubt",
+			"text": "...",
+			"textColor": "573937"
+		},
+        {
+			"sound": "beta",
+			"speed": 0.05,
+			"boximage": "beta",
+			"portrait": "beta",
+			"expression": "bruh",
+			"text": "I feel even more uncomfortable around you.",
+			"textColor": "663c60"
+		}
+	]
+}

@@ -1,0 +1,26 @@
+{
+	"song": {
+		"events": [
+			[
+				36000,
+				[
+					[
+						"Play Animation",
+						"guitarpull",
+						"Dad"
+					]
+				]
+			],
+			[
+				37043.4782608696,
+				[
+					[
+						"Change Character",
+						"1",
+						"skid-guitar"
+					]
+				]
+			]
+		]
+	}
+}

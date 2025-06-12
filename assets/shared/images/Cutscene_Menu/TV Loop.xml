@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="TV Loop.png">
+	<!-- Created with Adobe Animate version 23.0.2.103 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="teevee0000" x="20" y="20" width="684" height="790"/>
+	<SubTexture name="teevee0001" x="724" y="20" width="684" height="790"/>
+	<SubTexture name="teevee0002" x="1428" y="20" width="684" height="790"/>
+	<SubTexture name="teevee0003" x="2132" y="20" width="684" height="790"/>
+	<SubTexture name="teevee0004" x="2836" y="20" width="684" height="790"/>
+	<SubTexture name="teevee0005" x="20" y="830" width="684" height="790"/>
+	<SubTexture name="teevee0006" x="724" y="830" width="684" height="790"/>
+</TextureAtlas>

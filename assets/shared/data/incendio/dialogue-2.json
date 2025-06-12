@@ -1,0 +1,94 @@
+{
+	"dialogue": [
+        {
+			"sound": "sen",
+			"speed": 0.07,
+			"boximage": "sen",
+			"portrait": "sen",
+			"expression": "pissbaby",
+			"text": "WHAT THE FUCK IS THAT??!",
+			"textColor": "C86762"
+		},
+        {
+			"sound": "skid",
+			"speed": 0.05,
+			"boximage": "skid",
+			"portrait": "skid",
+			"expression": "skele default",
+			"text": "OH just invited a FRIEND over to JOIN the FUN!",
+			"textColor": "1a414f"
+		},
+        {
+			"sound": "skid",
+			"speed": 0.05,
+			"boximage": "skid",
+			"portrait": "skid",
+			"expression": "skele confused",
+			"text": "Hey how come you're not AFFECTED?",
+			"textColor": "1a414f"
+		},
+        {
+			"sound": "skid",
+			"speed": 0.05,
+			"boximage": "skid",
+			"portrait": "skid",
+			"expression": "skele happy",
+			"text": "EH whatever! At least LEMS having FUN!",
+			"textColor": "1a414f"
+		},
+        {
+			"sound": "sen",
+			"speed": 0.03,
+			"boximage": "sen",
+			"portrait": "sen",
+			"expression": "unsettled",
+			"text": "Lem?",
+			"textColor": "C86762"
+		},
+        {
+			"sound": "lem",
+			"speed": 0.05,
+			"boximage": "lem",
+			"portrait": "lem",
+			"expression": "star",
+			"text": "ehhhhhh? heheeheh?",
+			"textColor": "7d2222"
+		},
+        {
+			"sound": "sen",
+			"speed": 0.05,
+			"boximage": "sen",
+			"portrait": "sen",
+			"expression": "panic",
+			"text": "!",
+			"textColor": "C86762"
+		},
+        {
+			"sound": "sen",
+			"speed": 0.05,
+			"boximage": "sen",
+			"portrait": "sen",
+			"expression": "fear",
+			"text": "...",
+			"textColor": "C86762"
+		},
+        {
+			"sound": "sen",
+			"speed": 0.05,
+			"boximage": "sen",
+			"portrait": "sen",
+			"expression": "sigh",
+			"text": "...",
+			"textColor": "C86762"
+		},
+        {
+			"sound": "sen",
+			"speed": 0.05,
+			"boximage": "sen",
+			"portrait": "sen",
+			"expression": "sigh",
+			"text": "(You'll pull through. Don't worry.)",
+			"textColor": "C86762"
+		}
+	]
+}

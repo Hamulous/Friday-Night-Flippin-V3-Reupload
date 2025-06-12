@@ -1,0 +1,243 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				442,
+				500
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "fire",
+			"indices": [],
+			"name": "fire anim"
+		},
+		{
+			"offsets": [
+				-48,
+				162
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "joke",
+			"indices": [],
+			"name": "cock joke"
+		},
+		{
+			"offsets": [
+				-50,
+				160
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hate balls",
+			"indices": [],
+			"name": "captain i hate you"
+		},
+		{
+			"offsets": [
+				-48,
+				159
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Cap_Idle"
+		},
+		{
+			"offsets": [
+				12,
+				149
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Cap_Sing_Left"
+		},
+		{
+			"offsets": [
+				-55,
+				133
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Cap_Sing_Right"
+		},
+		{
+			"offsets": [
+				82,
+				160
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Cap_Sing_Up"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-13,
+				239
+			],
+			"anim": "sand",
+			"fps": 24,
+			"name": "Cap_Pocket_Sand",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				90
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Cap_Sing_Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-31,
+				160
+			],
+			"anim": "ugh",
+			"fps": 24,
+			"name": "Cap_Ugh",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-32,
+				160
+			],
+			"anim": "shoot",
+			"fps": 24,
+			"name": "Cap_Shoot",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-48,
+				161
+			],
+			"anim": "reload",
+			"fps": 24,
+			"name": "Cap_Reload",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-51,
+				169
+			],
+			"anim": "cock",
+			"fps": 24,
+			"name": "Cap_Rock",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				50,
+				185
+			],
+			"anim": "laugh",
+			"fps": 24,
+			"name": "Cap_Laugh",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-3,
+				160
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP-alt",
+			"loop": false,
+			"name": "Cap_Guitar_Up"
+		},
+		{
+			"offsets": [
+				-70,
+				90
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN-alt",
+			"loop": false,
+			"name": "Cap_Guitar_Down"
+		},
+		{
+			"offsets": [
+				-50,
+				153
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle-alt",
+			"loop": false,
+			"name": "Cap_Guitar_Idle"
+		},
+		{
+			"offsets": [
+				-50,
+				130
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT-alt",
+			"loop": false,
+			"name": "Cap_Guitar_Left"
+		},
+		{
+			"offsets": [
+				-25,
+				136
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT-alt",
+			"loop": false,
+			"name": "Cap_Guitar_Right"
+		},
+		{
+			"offsets": [
+				440,
+				498
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "trans",
+			"loop": false,
+			"name": "Cap_Trans"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Cap_Assets",
+	"position": [
+		0,
+		360
+	],
+	"healthicon": "cap",
+	"flip_x": false,
+	"healthbar_colors": [
+		20,
+		20,
+		20
+	],
+	"camera_position": [
+		80,
+		-200
+	],
+	"sing_duration": 4,
+	"scale": 1.1
+}

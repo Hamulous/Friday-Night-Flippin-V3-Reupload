@@ -1,0 +1,115 @@
+{
+	"position": [
+		190,
+		90
+	],
+	"dialogue_pos": "left",
+	"scale": 1.25,
+	"image": "portraits/dearie/ports",
+	"animations": [
+		{
+			"loop_offsets": [
+				-90,
+				-50
+			],
+			"anim": "default",
+			"idle_offsets": [
+				-90,
+				-50
+			],
+			"loop_name": "dearie default port ",
+			"idle_name": "dearie default port 0"
+		},
+		{
+			"loop_name": "dearie disgust port",
+			"idle_offsets": [
+				-90,
+				-60
+			],
+			"idle_name": "dearie disgust port0",
+			"anim": "disgust",
+			"loop_offsets": [
+				-90,
+				-60
+			]
+		},
+		{
+			"loop_name": "dearie fear port",
+			"idle_offsets": [
+				-80,
+				-50
+			],
+			"idle_name": "dearie fear port0",
+			"anim": "fear",
+			"loop_offsets": [
+				-80,
+				-50
+			]
+		},
+		{
+			"loop_name": "dearie haha crybaby port ",
+			"idle_offsets": [
+				-87,
+				-46
+			],
+			"idle_name": "dearie haha crybaby port 0",
+			"anim": "haha crybaby",
+			"loop_offsets": [
+				-87,
+				-46
+			]
+		},
+		{
+			"loop_name": "dearie innocent port",
+			"idle_offsets": [
+				-110,
+				-50
+			],
+			"idle_name": "dearie innocent port0",
+			"anim": "innocent",
+			"loop_offsets": [
+				-110,
+				-50
+			]
+		},
+		{
+			"loop_name": "dearie malicous port",
+			"idle_offsets": [
+				-110,
+				-60
+			],
+			"idle_name": "dearie malicous port0",
+			"anim": "malicious",
+			"loop_offsets": [
+				-110,
+				-60
+			]
+		},
+		{
+			"loop_name": "dearie think port",
+			"idle_offsets": [
+				-90,
+				-60
+			],
+			"idle_name": "dearie think port0",
+			"anim": "think",
+			"loop_offsets": [
+				-90,
+				-60
+			]
+		},
+		{
+			"loop_name": "dearie tired port",
+			"idle_offsets": [
+				-80,
+				-60
+			],
+			"idle_name": "dearie tired port0",
+			"anim": "tired",
+			"loop_offsets": [
+				-80,
+				-60
+			]
+		}
+	]
+}

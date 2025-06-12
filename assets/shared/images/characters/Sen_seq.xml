@@ -1,0 +1,131 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Sen_seq.png">
+	<!-- Created with Adobe Animate version 23.0.2.103 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="sen cutscene seq0000" x="20" y="20" width="302" height="399" frameX="-52" frameY="-27" frameWidth="367" frameHeight="429"/>
+	<SubTexture name="sen cutscene seq0001" x="330" y="20" width="301" height="395" frameX="-53" frameY="-31" frameWidth="367" frameHeight="429"/>
+	<SubTexture name="sen cutscene seq0002" x="639" y="20" width="302" height="395" frameX="-54" frameY="-31" frameWidth="367" frameHeight="429"/>
+	<SubTexture name="sen cutscene seq0003" x="949" y="20" width="300" height="398" frameX="-54" frameY="-28" frameWidth="367" frameHeight="429"/>
+	<SubTexture name="sen cutscene seq0004" x="1257" y="20" width="300" height="400" frameX="-56" frameY="-27" frameWidth="367" frameHeight="429"/>
+	<SubTexture name="sen cutscene seq0005" x="1565" y="20" width="300" height="403" frameX="-56" frameY="-24" frameWidth="367" frameHeight="429"/>
+	<SubTexture name="sen cutscene seq0006" x="1873" y="20" width="301" height="397" frameX="-56" frameY="-29" frameWidth="367" frameHeight="429"/>
+	<SubTexture name="sen cutscene seq0007" x="2182" y="20" width="306" height="401" frameX="-56" frameY="-25" frameWidth="367" frameHeight="429"/>
+	<SubTexture name="sen cutscene seq0008" x="2496" y="20" width="302" height="401" frameX="-56" frameY="-25" frameWidth="367" frameHeight="429"/>
+	<SubTexture name="sen cutscene seq0009" x="2806" y="20" width="303" height="399" frameX="-56" frameY="-27" frameWidth="367" frameHeight="429"/>
+	<SubTexture name="sen cutscene seq0010" x="3117" y="20" width="303" height="396" frameX="-56" frameY="-30" frameWidth="367" frameHeight="429"/>
+	<SubTexture name="sen cutscene seq0011" x="3428" y="20" width="303" height="400" frameX="-56" frameY="-26" frameWidth="367" frameHeight="429"/>
+	<SubTexture name="sen cutscene seq0012" x="3739" y="20" width="303" height="399" frameX="-55" frameY="-27" frameWidth="367" frameHeight="429"/>
+	<SubTexture name="sen cutscene seq0013" x="20" y="431" width="304" height="402" frameX="-55" frameY="-27" frameWidth="367" frameHeight="429"/>
+	<SubTexture name="sen cutscene seq0014" x="332" y="431" width="310" height="400" frameX="-55" frameY="-29" frameWidth="367" frameHeight="429"/>
+	<SubTexture name="sen cutscene seq0015" x="650" y="431" width="302" height="397" frameX="-53" frameY="-32" frameWidth="367" frameHeight="429"/>
+	<SubTexture name="sen cutscene seq0016" x="960" y="431" width="302" height="399" frameX="-53" frameY="-30" frameWidth="367" frameHeight="429"/>
+	<SubTexture name="sen cutscene seq0017" x="1270" y="431" width="303" height="397" frameX="-53" frameY="-32" frameWidth="367" frameHeight="429"/>
+	<SubTexture name="sen cutscene seq0018" x="1581" y="431" width="302" height="395" frameX="-53" frameY="-34" frameWidth="367" frameHeight="429"/>
+	<SubTexture name="sen cutscene seq0019" x="1891" y="431" width="306" height="399" frameX="-53" frameY="-30" frameWidth="367" frameHeight="429"/>
+	<SubTexture name="sen cutscene seq0020" x="2205" y="431" width="302" height="401" frameX="-53" frameY="-28" frameWidth="367" frameHeight="429"/>
+	<SubTexture name="sen cutscene seq0021" x="2515" y="431" width="302" height="397" frameX="-53" frameY="-32" frameWidth="367" frameHeight="429"/>
+	<SubTexture name="sen cutscene seq0022" x="2825" y="431" width="303" height="395" frameX="-53" frameY="-34" frameWidth="367" frameHeight="429"/>
+	<SubTexture name="sen cutscene seq0023" x="3136" y="431" width="302" height="399" frameX="-53" frameY="-30" frameWidth="367" frameHeight="429"/>
+	<SubTexture name="sen cutscene seq0024" x="3446" y="431" width="306" height="403" frameX="-53" frameY="-26" frameWidth="367" frameHeight="429"/>
+	<SubTexture name="sen cutscene seq0025" x="3760" y="431" width="304" height="403" frameX="-53" frameY="-26" frameWidth="367" frameHeight="429"/>
+	<SubTexture name="sen cutscene seq0026" x="20" y="842" width="299" height="393" frameX="-53" frameY="-36" frameWidth="367" frameHeight="429"/>
+	<SubTexture name="sen cutscene seq0027" x="327" y="842" width="304" height="391" frameX="-53" frameY="-38" frameWidth="367" frameHeight="429"/>
+	<SubTexture name="sen cutscene seq0028" x="639" y="842" width="305" height="387" frameX="-55" frameY="-41" frameWidth="367" frameHeight="429"/>
+	<SubTexture name="sen cutscene seq0029" x="952" y="842" width="299" height="391" frameX="-56" frameY="-37" frameWidth="367" frameHeight="429"/>
+	<SubTexture name="sen cutscene seq0030" x="1259" y="842" width="303" height="393" frameX="-56" frameY="-35" frameWidth="367" frameHeight="429"/>
+	<SubTexture name="sen cutscene seq0031" x="1570" y="842" width="302" height="391" frameX="-56" frameY="-37" frameWidth="367" frameHeight="429"/>
+	<SubTexture name="sen cutscene seq0032" x="1880" y="842" width="307" height="389" frameX="-55" frameY="-39" frameWidth="367" frameHeight="429"/>
+	<SubTexture name="sen cutscene seq0033" x="2195" y="842" width="302" height="393" frameX="-56" frameY="-35" frameWidth="367" frameHeight="429"/>
+	<SubTexture name="sen cutscene seq0034" x="1259" y="842" width="303" height="393" frameX="-56" frameY="-35" frameWidth="367" frameHeight="429"/>
+	<SubTexture name="sen cutscene seq0035" x="1570" y="842" width="302" height="391" frameX="-56" frameY="-37" frameWidth="367" frameHeight="429"/>
+	<SubTexture name="sen cutscene seq0036" x="1880" y="842" width="307" height="389" frameX="-55" frameY="-39" frameWidth="367" frameHeight="429"/>
+	<SubTexture name="sen cutscene seq0037" x="2195" y="842" width="302" height="393" frameX="-56" frameY="-35" frameWidth="367" frameHeight="429"/>
+	<SubTexture name="sen cutscene seq0038" x="1259" y="842" width="303" height="393" frameX="-56" frameY="-35" frameWidth="367" frameHeight="429"/>
+	<SubTexture name="sen cutscene seq0039" x="1570" y="842" width="302" height="391" frameX="-56" frameY="-37" frameWidth="367" frameHeight="429"/>
+	<SubTexture name="sen cutscene seq0040" x="1880" y="842" width="307" height="389" frameX="-55" frameY="-39" frameWidth="367" frameHeight="429"/>
+	<SubTexture name="sen cutscene seq0041" x="2195" y="842" width="302" height="393" frameX="-56" frameY="-35" frameWidth="367" frameHeight="429"/>
+	<SubTexture name="sen cutscene seq0042" x="1259" y="842" width="303" height="393" frameX="-56" frameY="-35" frameWidth="367" frameHeight="429"/>
+	<SubTexture name="sen cutscene seq0043" x="1570" y="842" width="302" height="391" frameX="-56" frameY="-37" frameWidth="367" frameHeight="429"/>
+	<SubTexture name="sen cutscene seq0044" x="1880" y="842" width="307" height="389" frameX="-55" frameY="-39" frameWidth="367" frameHeight="429"/>
+	<SubTexture name="sen cutscene seq0045" x="2195" y="842" width="302" height="393" frameX="-56" frameY="-35" frameWidth="367" frameHeight="429"/>
+	<SubTexture name="sen cutscene seq0046" x="2505" y="842" width="298" height="394" frameX="-60" frameY="-32" frameWidth="367" frameHeight="429"/>
+	<SubTexture name="sen cutscene seq0047" x="2811" y="842" width="297" height="393" frameX="-59" frameY="-33" frameWidth="367" frameHeight="429"/>
+	<SubTexture name="sen cutscene seq0048" x="3116" y="842" width="334" height="356" frameX="-24" frameY="-70" frameWidth="367" frameHeight="429"/>
+	<SubTexture name="sen cutscene seq0049" x="3116" y="842" width="334" height="356" frameX="-24" frameY="-70" frameWidth="367" frameHeight="429"/>
+	<SubTexture name="sen cutscene seq0050" x="3458" y="842" width="294" height="426" frameX="-65" frameY="0" frameWidth="367" frameHeight="429"/>
+	<SubTexture name="sen cutscene seq0051" x="3760" y="842" width="294" height="420" frameX="-65" frameY="-6" frameWidth="367" frameHeight="429"/>
+	<SubTexture name="sen cutscene seq0052" x="20" y="1276" width="337" height="408" frameX="-22" frameY="-18" frameWidth="367" frameHeight="429"/>
+	<SubTexture name="sen cutscene seq0053" x="365" y="1276" width="346" height="404" frameX="-11" frameY="-22" frameWidth="367" frameHeight="429"/>
+	<SubTexture name="sen cutscene seq0054" x="719" y="1276" width="366" height="399" frameX="0" frameY="-27" frameWidth="367" frameHeight="429"/>
+	<SubTexture name="sen cutscene seq0055" x="1093" y="1276" width="350" height="401" frameX="-10" frameY="-25" frameWidth="367" frameHeight="429"/>
+	<SubTexture name="sen cutscene seq0056" x="1451" y="1276" width="303" height="404" frameX="-59" frameY="-22" frameWidth="367" frameHeight="429"/>
+	<SubTexture name="sen cutscene seq0057" x="1762" y="1276" width="302" height="398" frameX="-59" frameY="-28" frameWidth="367" frameHeight="429"/>
+	<SubTexture name="sen cutscene seq0058" x="2072" y="1276" width="308" height="398" frameX="-59" frameY="-28" frameWidth="367" frameHeight="429"/>
+	<SubTexture name="sen cutscene seq0059" x="2388" y="1276" width="302" height="401" frameX="-59" frameY="-25" frameWidth="367" frameHeight="429"/>
+	<SubTexture name="sen cutscene seq0060" x="2698" y="1276" width="302" height="404" frameX="-59" frameY="-22" frameWidth="367" frameHeight="429"/>
+	<SubTexture name="sen cutscene seq0061" x="3008" y="1276" width="303" height="398" frameX="-59" frameY="-28" frameWidth="367" frameHeight="429"/>
+	<SubTexture name="sen cutscene seq0062" x="3319" y="1276" width="302" height="398" frameX="-59" frameY="-28" frameWidth="367" frameHeight="429"/>
+	<SubTexture name="sen cutscene seq0063" x="3629" y="1276" width="308" height="401" frameX="-59" frameY="-25" frameWidth="367" frameHeight="429"/>
+	<SubTexture name="sen cutscene seq0064" x="20" y="1692" width="302" height="404" frameX="-59" frameY="-22" frameWidth="367" frameHeight="429"/>
+	<SubTexture name="sen cutscene seq0065" x="330" y="1692" width="302" height="398" frameX="-59" frameY="-28" frameWidth="367" frameHeight="429"/>
+	<SubTexture name="sen cutscene seq0066" x="640" y="1692" width="303" height="398" frameX="-59" frameY="-28" frameWidth="367" frameHeight="429"/>
+	<SubTexture name="sen cutscene seq0067" x="951" y="1692" width="302" height="401" frameX="-59" frameY="-25" frameWidth="367" frameHeight="429"/>
+	<SubTexture name="sen cutscene seq0068" x="1261" y="1692" width="308" height="404" frameX="-59" frameY="-22" frameWidth="367" frameHeight="429"/>
+	<SubTexture name="sen cutscene seq0069" x="1577" y="1692" width="302" height="398" frameX="-59" frameY="-28" frameWidth="367" frameHeight="429"/>
+	<SubTexture name="sen cutscene seq0070" x="1887" y="1692" width="302" height="398" frameX="-59" frameY="-28" frameWidth="367" frameHeight="429"/>
+	<SubTexture name="sen cutscene seq0071" x="2197" y="1692" width="303" height="401" frameX="-59" frameY="-25" frameWidth="367" frameHeight="429"/>
+	<SubTexture name="sen cutscene seq0072" x="2508" y="1692" width="302" height="404" frameX="-59" frameY="-22" frameWidth="367" frameHeight="429"/>
+	<SubTexture name="sen cutscene seq0073" x="2818" y="1692" width="308" height="398" frameX="-59" frameY="-28" frameWidth="367" frameHeight="429"/>
+	<SubTexture name="sen cutscene seq0074" x="3134" y="1692" width="302" height="398" frameX="-59" frameY="-28" frameWidth="367" frameHeight="429"/>
+	<SubTexture name="sen cutscene seq0075" x="3444" y="1692" width="302" height="401" frameX="-59" frameY="-25" frameWidth="367" frameHeight="429"/>
+	<SubTexture name="sen cutscene seq0076" x="3754" y="1692" width="303" height="404" frameX="-59" frameY="-22" frameWidth="367" frameHeight="429"/>
+	<SubTexture name="sen cutscene seq0077" x="20" y="2104" width="302" height="398" frameX="-59" frameY="-28" frameWidth="367" frameHeight="429"/>
+	<SubTexture name="sen cutscene seq0078" x="330" y="2104" width="308" height="398" frameX="-59" frameY="-28" frameWidth="367" frameHeight="429"/>
+	<SubTexture name="sen cutscene seq0079" x="646" y="2104" width="302" height="401" frameX="-59" frameY="-25" frameWidth="367" frameHeight="429"/>
+	<SubTexture name="sen cutscene seq0080" x="956" y="2104" width="302" height="404" frameX="-59" frameY="-22" frameWidth="367" frameHeight="429"/>
+	<SubTexture name="sen cutscene seq0081" x="1266" y="2104" width="303" height="398" frameX="-59" frameY="-28" frameWidth="367" frameHeight="429"/>
+	<SubTexture name="sen cutscene seq0082" x="1577" y="2104" width="302" height="398" frameX="-59" frameY="-28" frameWidth="367" frameHeight="429"/>
+	<SubTexture name="sen cutscene seq0083" x="1451" y="1276" width="303" height="404" frameX="-59" frameY="-22" frameWidth="367" frameHeight="429"/>
+	<SubTexture name="sen cutscene seq0084" x="1762" y="1276" width="302" height="398" frameX="-59" frameY="-28" frameWidth="367" frameHeight="429"/>
+	<SubTexture name="sen cutscene seq0085" x="2072" y="1276" width="308" height="398" frameX="-59" frameY="-28" frameWidth="367" frameHeight="429"/>
+	<SubTexture name="sen cutscene seq0086" x="2388" y="1276" width="302" height="401" frameX="-59" frameY="-25" frameWidth="367" frameHeight="429"/>
+	<SubTexture name="sen cutscene seq0087" x="2698" y="1276" width="302" height="404" frameX="-59" frameY="-22" frameWidth="367" frameHeight="429"/>
+	<SubTexture name="sen cutscene seq0088" x="3008" y="1276" width="303" height="398" frameX="-59" frameY="-28" frameWidth="367" frameHeight="429"/>
+	<SubTexture name="sen cutscene seq0089" x="3319" y="1276" width="302" height="398" frameX="-59" frameY="-28" frameWidth="367" frameHeight="429"/>
+	<SubTexture name="sen cutscene seq0090" x="3629" y="1276" width="308" height="401" frameX="-59" frameY="-25" frameWidth="367" frameHeight="429"/>
+	<SubTexture name="sen cutscene seq0091" x="20" y="1692" width="302" height="404" frameX="-59" frameY="-22" frameWidth="367" frameHeight="429"/>
+	<SubTexture name="sen cutscene seq0092" x="330" y="1692" width="302" height="398" frameX="-59" frameY="-28" frameWidth="367" frameHeight="429"/>
+	<SubTexture name="sen cutscene seq0093" x="640" y="1692" width="303" height="398" frameX="-59" frameY="-28" frameWidth="367" frameHeight="429"/>
+	<SubTexture name="sen cutscene seq0094" x="951" y="1692" width="302" height="401" frameX="-59" frameY="-25" frameWidth="367" frameHeight="429"/>
+	<SubTexture name="sen cutscene seq0095" x="1261" y="1692" width="308" height="404" frameX="-59" frameY="-22" frameWidth="367" frameHeight="429"/>
+	<SubTexture name="sen cutscene seq0096" x="1577" y="1692" width="302" height="398" frameX="-59" frameY="-28" frameWidth="367" frameHeight="429"/>
+	<SubTexture name="sen cutscene seq0097" x="1887" y="1692" width="302" height="398" frameX="-59" frameY="-28" frameWidth="367" frameHeight="429"/>
+	<SubTexture name="sen cutscene seq0098" x="2197" y="1692" width="303" height="401" frameX="-59" frameY="-25" frameWidth="367" frameHeight="429"/>
+	<SubTexture name="sen cutscene seq end loop0000" x="1887" y="2104" width="303" height="404" frameX="0" frameY="0" frameWidth="308" frameHeight="404"/>
+	<SubTexture name="sen cutscene seq end loop0001" x="2198" y="2104" width="302" height="398" frameX="0" frameY="-6" frameWidth="308" frameHeight="404"/>
+	<SubTexture name="sen cutscene seq end loop0002" x="2508" y="2104" width="308" height="398" frameX="0" frameY="-6" frameWidth="308" frameHeight="404"/>
+	<SubTexture name="sen cutscene seq end loop0003" x="2824" y="2104" width="302" height="401" frameX="0" frameY="-3" frameWidth="308" frameHeight="404"/>
+	<SubTexture name="sen cutscene seq end loop0004" x="3134" y="2104" width="302" height="404" frameX="0" frameY="0" frameWidth="308" frameHeight="404"/>
+	<SubTexture name="sen cutscene seq end loop0005" x="3444" y="2104" width="303" height="398" frameX="0" frameY="-6" frameWidth="308" frameHeight="404"/>
+	<SubTexture name="sen cutscene seq end loop0006" x="3755" y="2104" width="302" height="398" frameX="0" frameY="-6" frameWidth="308" frameHeight="404"/>
+	<SubTexture name="sen cutscene seq end loop0007" x="20" y="2516" width="308" height="401" frameX="0" frameY="-3" frameWidth="308" frameHeight="404"/>
+	<SubTexture name="sen cutscene seq end loop0008" x="336" y="2516" width="302" height="404" frameX="0" frameY="0" frameWidth="308" frameHeight="404"/>
+	<SubTexture name="sen cutscene seq end loop0009" x="646" y="2516" width="302" height="398" frameX="0" frameY="-6" frameWidth="308" frameHeight="404"/>
+	<SubTexture name="sen cutscene seq end loop0010" x="956" y="2516" width="303" height="398" frameX="0" frameY="-6" frameWidth="308" frameHeight="404"/>
+	<SubTexture name="sen cutscene seq end loop0011" x="1267" y="2516" width="302" height="401" frameX="0" frameY="-3" frameWidth="308" frameHeight="404"/>
+	<SubTexture name="sen cutscene seq end loop0012" x="1577" y="2516" width="308" height="404"/>
+	<SubTexture name="sen cutscene seq end loop0013" x="1893" y="2516" width="302" height="398" frameX="0" frameY="-6" frameWidth="308" frameHeight="404"/>
+	<SubTexture name="sen cutscene seq end loop0014" x="2203" y="2516" width="302" height="398" frameX="0" frameY="-6" frameWidth="308" frameHeight="404"/>
+	<SubTexture name="sen cutscene seq end loop0015" x="2513" y="2516" width="303" height="401" frameX="0" frameY="-3" frameWidth="308" frameHeight="404"/>
+	<SubTexture name="sen cutscene seq end loop0016" x="2824" y="2516" width="302" height="404" frameX="0" frameY="0" frameWidth="308" frameHeight="404"/>
+	<SubTexture name="sen cutscene seq end loop0017" x="3134" y="2516" width="308" height="398" frameX="0" frameY="-6" frameWidth="308" frameHeight="404"/>
+	<SubTexture name="sen cutscene seq end loop0018" x="3450" y="2516" width="302" height="398" frameX="0" frameY="-6" frameWidth="308" frameHeight="404"/>
+	<SubTexture name="sen cutscene seq end loop0019" x="3760" y="2516" width="302" height="401" frameX="0" frameY="-3" frameWidth="308" frameHeight="404"/>
+	<SubTexture name="sen cutscene seq end loop0020" x="20" y="2928" width="303" height="404" frameX="0" frameY="0" frameWidth="308" frameHeight="404"/>
+	<SubTexture name="sen cutscene seq end loop0021" x="331" y="2928" width="302" height="398" frameX="0" frameY="-6" frameWidth="308" frameHeight="404"/>
+	<SubTexture name="sen cutscene seq end loop0022" x="641" y="2928" width="308" height="398" frameX="0" frameY="-6" frameWidth="308" frameHeight="404"/>
+	<SubTexture name="sen cutscene seq end loop0023" x="957" y="2928" width="302" height="401" frameX="0" frameY="-3" frameWidth="308" frameHeight="404"/>
+	<SubTexture name="sen cutscene seq end loop0024" x="1267" y="2928" width="302" height="404" frameX="0" frameY="0" frameWidth="308" frameHeight="404"/>
+	<SubTexture name="sen cutscene seq end loop0025" x="1577" y="2928" width="303" height="398" frameX="0" frameY="-6" frameWidth="308" frameHeight="404"/>
+	<SubTexture name="sen cutscene seq end loop0026" x="1888" y="2928" width="302" height="398" frameX="0" frameY="-6" frameWidth="308" frameHeight="404"/>
+</TextureAtlas>

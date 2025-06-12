@@ -1,0 +1,79 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				35,
+				-305
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "skid sing down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				103,
+				-100
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "skid sing left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-111,
+				8
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "skid sing up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				68,
+				144
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "skid sing right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-180,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "skid idle dance"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Skid_Evil_Assets",
+	"position": [
+		-340,
+		-100
+	],
+	"healthicon": "skid",
+	"flip_x": false,
+	"healthbar_colors": [
+		181,
+		180,
+		181
+	],
+	"camera_position": [
+		-60,
+		-170
+	],
+	"sing_duration": 4,
+	"scale": 1.1,
+	"_editor_isPlayer": false
+}

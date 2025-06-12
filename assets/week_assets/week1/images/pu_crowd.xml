@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="pu_crowd.png">
+	<!-- Created with Adobe Animate version 21.0.4.39603 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="crowd bounce0000" x="0" y="0" width="2209" height="429" frameX="0" frameY="-24" frameWidth="2209" frameHeight="453"/>
+	<SubTexture name="crowd bounce0001" x="0" y="0" width="2209" height="429" frameX="0" frameY="-24" frameWidth="2209" frameHeight="453"/>
+	<SubTexture name="crowd bounce0002" x="2209" y="0" width="2200" height="437" frameX="-4" frameY="-15" frameWidth="2209" frameHeight="453"/>
+	<SubTexture name="crowd bounce0003" x="2209" y="0" width="2200" height="437" frameX="-4" frameY="-15" frameWidth="2209" frameHeight="453"/>
+	<SubTexture name="crowd bounce0004" x="4409" y="0" width="2197" height="448" frameX="-5" frameY="-4" frameWidth="2209" frameHeight="453"/>
+	<SubTexture name="crowd bounce0005" x="4409" y="0" width="2197" height="448" frameX="-5" frameY="-4" frameWidth="2209" frameHeight="453"/>
+	<SubTexture name="crowd bounce0006" x="0" y="448" width="2194" height="452" frameX="-6" frameY="0" frameWidth="2209" frameHeight="453"/>
+	<SubTexture name="crowd bounce0007" x="0" y="448" width="2194" height="452" frameX="-6" frameY="0" frameWidth="2209" frameHeight="453"/>
+	<SubTexture name="crowd bounce0008" x="0" y="448" width="2194" height="452" frameX="-6" frameY="0" frameWidth="2209" frameHeight="453"/>
+	<SubTexture name="crowd bounce0009" x="0" y="448" width="2194" height="452" frameX="-6" frameY="0" frameWidth="2209" frameHeight="453"/>
+	<SubTexture name="crowd bounce0010" x="0" y="448" width="2194" height="452" frameX="-6" frameY="0" frameWidth="2209" frameHeight="453"/>
+	<SubTexture name="crowd bounce0011" x="0" y="448" width="2194" height="452" frameX="-6" frameY="0" frameWidth="2209" frameHeight="453"/>
+	<SubTexture name="crowd bounce0012" x="0" y="448" width="2194" height="452" frameX="-6" frameY="0" frameWidth="2209" frameHeight="453"/>
+	<SubTexture name="crowd bounce hype0000" x="2194" y="448" width="2209" height="429" frameX="0" frameY="-24" frameWidth="2209" frameHeight="453"/>
+	<SubTexture name="crowd bounce hype0001" x="2194" y="448" width="2209" height="429" frameX="0" frameY="-24" frameWidth="2209" frameHeight="453"/>
+	<SubTexture name="crowd bounce hype0002" x="4403" y="448" width="2200" height="437" frameX="-4" frameY="-15" frameWidth="2209" frameHeight="453"/>
+	<SubTexture name="crowd bounce hype0003" x="4403" y="448" width="2200" height="437" frameX="-4" frameY="-15" frameWidth="2209" frameHeight="453"/>
+	<SubTexture name="crowd bounce hype0004" x="0" y="900" width="2197" height="448" frameX="-5" frameY="-4" frameWidth="2209" frameHeight="453"/>
+	<SubTexture name="crowd bounce hype0005" x="0" y="900" width="2197" height="448" frameX="-5" frameY="-4" frameWidth="2209" frameHeight="453"/>
+	<SubTexture name="crowd bounce hype0006" x="2197" y="900" width="2194" height="452" frameX="-6" frameY="0" frameWidth="2209" frameHeight="453"/>
+	<SubTexture name="crowd bounce hype0007" x="2197" y="900" width="2194" height="452" frameX="-6" frameY="0" frameWidth="2209" frameHeight="453"/>
+	<SubTexture name="crowd bounce hype0008" x="2197" y="900" width="2194" height="452" frameX="-6" frameY="0" frameWidth="2209" frameHeight="453"/>
+	<SubTexture name="crowd bounce hype0009" x="2197" y="900" width="2194" height="452" frameX="-6" frameY="0" frameWidth="2209" frameHeight="453"/>
+	<SubTexture name="crowd bounce hype0010" x="2197" y="900" width="2194" height="452" frameX="-6" frameY="0" frameWidth="2209" frameHeight="453"/>
+	<SubTexture name="crowd bounce hype0011" x="2197" y="900" width="2194" height="452" frameX="-6" frameY="0" frameWidth="2209" frameHeight="453"/>
+	<SubTexture name="crowd bounce hype0012" x="2197" y="900" width="2194" height="452" frameX="-6" frameY="0" frameWidth="2209" frameHeight="453"/>
+</TextureAtlas>

@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bg_options.png">
+	<!-- Created with Adobe Animate version 21.0.4.39603 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="options bg0000" x="0" y="0" width="1280" height="720"/>
+	<SubTexture name="options bg0001" x="0" y="0" width="1280" height="720"/>
+	<SubTexture name="options bg0002" x="0" y="0" width="1280" height="720"/>
+	<SubTexture name="options bg0003" x="0" y="0" width="1280" height="720"/>
+	<SubTexture name="options bg0004" x="0" y="0" width="1280" height="720"/>
+	<SubTexture name="options bg0005" x="0" y="0" width="1280" height="720"/>
+	<SubTexture name="options bg0006" x="1310" y="0" width="1280" height="720"/>
+	<SubTexture name="options bg0007" x="1310" y="0" width="1280" height="720"/>
+	<SubTexture name="options bg0008" x="1310" y="0" width="1280" height="720"/>
+	<SubTexture name="options bg0009" x="1310" y="0" width="1280" height="720"/>
+	<SubTexture name="options bg0010" x="1310" y="0" width="1280" height="720"/>
+	<SubTexture name="options bg0011" x="1310" y="0" width="1280" height="720"/>
+	<SubTexture name="options bg0012" x="2620" y="0" width="1280" height="720"/>
+	<SubTexture name="options bg0013" x="2620" y="0" width="1280" height="720"/>
+	<SubTexture name="options bg0014" x="2620" y="0" width="1280" height="720"/>
+	<SubTexture name="options bg0015" x="2620" y="0" width="1280" height="720"/>
+	<SubTexture name="options bg0016" x="2620" y="0" width="1280" height="720"/>
+	<SubTexture name="options bg0017" x="2620" y="0" width="1280" height="720"/>
+</TextureAtlas>

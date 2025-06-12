@@ -1,0 +1,164 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				25,
+				21
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singLEFTmiss",
+			"indices": [
+				1,
+				2,
+				3,
+				4,
+				5
+			],
+			"name": "BF NOTE LEFT MISS0"
+		},
+		{
+			"offsets": [
+				6,
+				21
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singUPmiss",
+			"indices": [
+				1,
+				2,
+				3,
+				4,
+				5
+			],
+			"name": "BF NOTE UP MISS0"
+		},
+		{
+			"offsets": [
+				-3,
+				26
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singRIGHTmiss",
+			"indices": [
+				1,
+				2,
+				3,
+				4,
+				5
+			],
+			"name": "BF NOTE RIGHT MISS0"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				28,
+				-2
+			],
+			"anim": "singLEFT",
+			"fps": 20,
+			"name": "BF NOTE LEFT0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				2,
+				-16
+			],
+			"anim": "singDOWN",
+			"fps": 20,
+			"name": "BF NOTE DOWN0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-9,
+				15
+			],
+			"anim": "singUP",
+			"fps": 20,
+			"name": "BF NOTE UP0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				-4
+			],
+			"anim": "singRIGHT",
+			"fps": 20,
+			"name": "BF NOTE RIGHT0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-3,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "BF idle dance0",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				-10
+			],
+			"indices": [
+				1,
+				2,
+				3,
+				4,
+				5
+			],
+			"fps": 12,
+			"anim": "singDOWNmiss",
+			"loop": false,
+			"name": "BF NOTE DOWN MISS0"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [
+				10,
+				11,
+				12,
+				13,
+				14,
+				15
+			],
+			"fps": 24,
+			"anim": "idle-loop",
+			"loop": true,
+			"name": "BF idle dance0"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Sen_Assets_Wind",
+	"position": [
+		-30,
+		350
+	],
+	"healthicon": "sen",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		175,
+		117
+	],
+	"camera_position": [
+		100,
+		-20
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

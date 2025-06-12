@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Baggroun Sillies.png">
+	<!-- Created with Adobe Animate version 23.0.2.103 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bg_fightin0000" x="20" y="20" width="947" height="284"/>
+	<SubTexture name="bg_fightin0001" x="987" y="20" width="947" height="284"/>
+	<SubTexture name="bg_fightin0002" x="1954" y="20" width="947" height="284"/>
+	<SubTexture name="bg_fightin0003" x="2921" y="20" width="947" height="284"/>
+	<SubTexture name="bg_fightin0004" x="20" y="324" width="947" height="284"/>
+	<SubTexture name="bg_fightin0005" x="987" y="324" width="947" height="284"/>
+	<SubTexture name="bg_fightin0006" x="1954" y="324" width="947" height="284"/>
+	<SubTexture name="bg_fightin0007" x="2921" y="324" width="947" height="284"/>
+	<SubTexture name="bg_fightin0008" x="20" y="628" width="947" height="284"/>
+	<SubTexture name="bg_fightin0009" x="987" y="628" width="947" height="284"/>
+	<SubTexture name="bg_fightin0010" x="1954" y="628" width="947" height="284"/>
+	<SubTexture name="bg_fightin0011" x="2921" y="628" width="947" height="284"/>
+	<SubTexture name="bg_fightin0012" x="20" y="932" width="947" height="284"/>
+	<SubTexture name="bg_fightin0013" x="987" y="932" width="947" height="284"/>
+	<SubTexture name="bg_fightin0014" x="1954" y="932" width="947" height="284"/>
+	<SubTexture name="bg_fightin0015" x="2921" y="932" width="947" height="284"/>
+	<SubTexture name="bg_fightin0016" x="20" y="1236" width="947" height="284"/>
+	<SubTexture name="bg_fightin0017" x="987" y="1236" width="947" height="284"/>
+	<SubTexture name="bg_fightin0018" x="1954" y="1236" width="947" height="284"/>
+	<SubTexture name="bg_fightin0019" x="2921" y="1236" width="947" height="284"/>
+	<SubTexture name="bg_fightin0020" x="20" y="1540" width="947" height="284"/>
+	<SubTexture name="bg_fightin0021" x="987" y="1540" width="947" height="284"/>
+	<SubTexture name="bg_fightin0022" x="1954" y="1540" width="947" height="284"/>
+	<SubTexture name="bg_fightin0023" x="2921" y="1540" width="947" height="284"/>
+	<SubTexture name="bg_fightin0024" x="20" y="1844" width="947" height="284"/>
+	<SubTexture name="bg_fightin0025" x="987" y="1844" width="947" height="284"/>
+	<SubTexture name="bg_fightin0026" x="1954" y="1844" width="947" height="284"/>
+	<SubTexture name="bg_fightin0027" x="2921" y="1844" width="947" height="284"/>
+	<SubTexture name="bg_fightin0028" x="20" y="2148" width="947" height="284"/>
+	<SubTexture name="bg_fightin0029" x="987" y="2148" width="947" height="284"/>
+</TextureAtlas>

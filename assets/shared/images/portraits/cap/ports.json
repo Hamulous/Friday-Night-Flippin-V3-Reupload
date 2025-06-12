@@ -1,0 +1,115 @@
+{
+	"position": [
+		270,
+		110
+	],
+	"dialogue_pos": "left",
+	"scale": 1.25,
+	"image": "portraits/cap/ports",
+	"animations": [
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "confuse",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "cap confuse port",
+			"idle_name": "cap confuse port"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "default",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "cap default port",
+			"idle_name": "cap default port"
+		},
+		{
+			"loop_offsets": [
+				5,
+				0
+			],
+			"anim": "doubt",
+			"idle_offsets": [
+				5,
+				0
+			],
+			"loop_name": "cap doubt port",
+			"idle_name": "cap doubt port"
+		},
+		{
+			"loop_offsets": [
+				40,
+				0
+			],
+			"anim": "gun",
+			"idle_offsets": [
+				40,
+				0
+			],
+			"loop_name": "cap gun port",
+			"idle_name": "cap gun port"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "insane",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "cap insane port",
+			"idle_name": "cap insane port"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "mad",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "cap mad port",
+			"idle_name": "cap mad port"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "nuetral",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "cap nuetral port",
+			"idle_name": "cap nuetral port"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "pissed",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "cap pissed port",
+			"idle_name": "cap pissed port"
+		}
+	]
+}

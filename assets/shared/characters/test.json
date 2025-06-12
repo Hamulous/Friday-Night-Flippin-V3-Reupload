@@ -1,0 +1,90 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "test_dance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-20
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "test_right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-30,
+				-20
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "test_left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				40,
+				-100
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "test_down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-40,
+				70
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "test_up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				3,
+				-20
+			],
+			"anim": "Hey",
+			"fps": 24,
+			"name": "test_hey",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/test",
+	"position": [
+		60,
+		370
+	],
+	"healthicon": "face",
+	"flip_x": false,
+	"healthbar_colors": [
+		161,
+		161,
+		161
+	],
+	"camera_position": [
+		70,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

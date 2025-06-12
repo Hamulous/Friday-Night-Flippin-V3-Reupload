@@ -1,0 +1,232 @@
+{
+	"dialogue_pos": "right",
+	"position": [
+		-40,
+		130
+	],
+	"scale": 1.25,
+	"animations": [
+		{
+			"loop_name": "al AUGH port",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "al AUGH port0019",
+			"anim": "AUGH",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "al angry port",
+			"idle_offsets": [
+				-15,
+				-5
+			],
+			"idle_name": "al angry port0019",
+			"anim": "angry",
+			"loop_offsets": [
+				-15,
+				-5
+			]
+		},
+		{
+			"loop_name": "al baby port",
+			"idle_offsets": [
+				-23,
+				-2
+			],
+			"idle_name": "al baby port0019",
+			"anim": "baby",
+			"loop_offsets": [
+				-23,
+				-2
+			]
+		},
+		{
+			"loop_name": "al confuzzed port",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "al confuzzed port0019",
+			"anim": "confuzzed",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "al default port",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "al default port0019",
+			"anim": "default",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "al derp port",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "al derp port0019",
+			"anim": "derp",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "al dizzy port",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "al dizzy port0019",
+			"anim": "dizzy",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "al edge port",
+			"idle_offsets": [
+				20,
+				-20
+			],
+			"idle_name": "al edge port0019",
+			"anim": "edge",
+			"loop_offsets": [
+				20,
+				-20
+			]
+		},
+		{
+			"loop_name": "al fear port",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "al fear port0019",
+			"anim": "fear",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "al guilt port",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "al guilt port0019",
+			"anim": "guilt",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "al hm port",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "al hm port0019",
+			"anim": "hm",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "al pissed port",
+			"idle_offsets": [
+				20,
+				-20
+			],
+			"idle_name": "al pissed port0019",
+			"anim": "pissed",
+			"loop_offsets": [
+				20,
+				-20
+			]
+		},
+		{
+			"loop_name": "al pomp port",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "al pomp port0019",
+			"anim": "pomp",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "al shock port",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "al shock port0019",
+			"anim": "shock",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "al smug port",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "al smug port0019",
+			"anim": "smug",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "al what port",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "al what port0019",
+			"anim": "what",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "al yass port",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "al yass port0019",
+			"anim": "yass",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	],
+	"image": "portraits/alpha/ports"
+}

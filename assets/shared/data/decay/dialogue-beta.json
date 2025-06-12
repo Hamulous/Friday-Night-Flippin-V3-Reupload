@@ -1,0 +1,94 @@
+{
+	"dialogue": [
+		{
+			"sound": "beta",
+			"speed": 0.05,
+			"boximage": "beta",
+			"portrait": "beta",
+			"expression": "default",
+			"text": "That was. something. You have a very...",
+			"textColor": "663c60"
+		},
+		{
+			"sound": "beta",
+			"speed": 0.05,
+			"boximage": "beta",
+			"portrait": "beta",
+			"expression": "default",
+			"text": "...Unique talent to raise your pitch that high.",
+			"textColor": "663c60"
+		},
+		{
+			"sound": "pump",
+			"speed": 0.05,
+			"boximage": "pump",
+			"portrait": "pump",
+			"expression": "shrug",
+			"text": "Oh that? Yeaah, my bad, Theta.",
+			"textColor": "592111"
+		},
+		{
+			"sound": "beta",
+			"speed": 0.05,
+			"boximage": "beta",
+			"portrait": "beta",
+			"expression": "fake smile",
+			"text": "{You're dead to me.}",
+			"textColor": "663c60"
+		},
+		{
+			"sound": "pump",
+			"speed": 0.05,
+			"boximage": "pump",
+			"portrait": "pump",
+			"expression": "nervous",
+			"text": "It's just been a while since I sang. I'm a lil rusty,,",
+			"textColor": "592111"
+		},
+		{
+			"sound": "pump",
+			"speed": 0.05,
+			"boximage": "pump",
+			"portrait": "pump",
+			"expression": "happy",
+			"text": "That was a nice warm-up to get back into it, though!",
+			"textColor": "592111"
+		},
+		{
+			"sound": "beta",
+			"speed": 0.05,
+			"boximage": "beta",
+			"portrait": "beta",
+			"expression": "happy",
+			"text": "Cool. Now if there's nothing else, I'll be-",
+			"textColor": "663c60"
+		},
+		{
+			"sound": "pump",
+			"speed": 0.05,
+			"boximage": "pump",
+			"portrait": "pump",
+			"expression": "happy",
+			"text": "How about we do another one? ",
+			"textColor": "592111"
+		},
+		{
+			"sound": "pump",
+			"speed": 0.05,
+			"boximage": "pump",
+			"portrait": "pump",
+			"expression": "happy",
+			"text": "Gotta get some use out of these prepped chords now heh.",
+			"textColor": "592111"
+		},
+		{
+			"sound": "beta",
+			"speed": 0.05,
+			"boximage": "beta",
+			"portrait": "beta",
+			"expression": "fake smile",
+			"text": "{I'm going to stab a bitch.}",
+			"textColor": "663c60"
+		}
+	]
+}

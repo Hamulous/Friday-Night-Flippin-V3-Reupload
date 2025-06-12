@@ -1,0 +1,36 @@
+{
+	"song": {
+		"events": [
+			[
+				28571.4285714286,
+				[
+					[
+						"Play Animation",
+						"cheer",
+						"Dad"
+					]
+				]
+			],
+			[
+				35428.5714285714,
+				[
+					[
+						"Play Animation",
+						"cheer",
+						"Dad"
+					]
+				]
+			],
+			[
+				68571.4285714285,
+				[
+					[
+						"Play Animation",
+						"cheer",
+						"Dad"
+					]
+				]
+			]
+		]
+	}
+}

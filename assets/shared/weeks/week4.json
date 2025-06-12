@@ -1,0 +1,51 @@
+{
+	"songs": [
+		[
+			"tattered robes",
+			"skid",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"stars",
+			"skid",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"incendio",
+			"skid",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"difficulties": "",
+	"weekCharacters": [
+		"skid",
+		"sen",
+		""
+	],
+	"storyName": "Peter what are you doing?",
+	"weekName": "Custom Week",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"charSelect": true
+}

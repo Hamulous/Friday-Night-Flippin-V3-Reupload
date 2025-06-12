@@ -1,0 +1,49 @@
+{
+	"storyName": "Stage Fright",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"pump",
+		"sen",
+		""
+	],
+	"songs": [
+		[
+			"Spokeebo",
+			"pump",
+			[
+				166,
+				93,
+				0
+			]
+		],
+		[
+			"Decay",
+			"pump",
+			[
+				166,
+				93,
+				0
+			]
+		],
+		[
+			"Pumpd up",
+			"pump",
+			[
+				166,
+				93,
+				0
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Flippin1",
+	"charSelect": true
+}

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="char_select_ui_assets.png">
+	<!-- Created with Adobe Animate version 21.0.4.39603 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="ALPHA0000" x="0" y="0" width="305" height="105"/>
+	<SubTexture name="ALPHA0001" x="355" y="0" width="305" height="105"/>
+	<SubTexture name="BETA0000" x="710" y="0" width="241" height="107"/>
+	<SubTexture name="BETA0001" x="0" y="157" width="241" height="107"/>
+	<SubTexture name="CLASSIC0000" x="291" y="157" width="354" height="107"/>
+	<SubTexture name="CLASSIC0001" x="0" y="314" width="354" height="107"/>
+	<SubTexture name="arrow down0000" x="404" y="314" width="85" height="49"/>
+	<SubTexture name="arrow push down0000" x="539" y="314" width="74" height="42"/>
+	<SubTexture name="arrow push up0000" x="663" y="314" width="74" height="42"/>
+	<SubTexture name="arrow up0000" x="787" y="314" width="85" height="49"/>
+</TextureAtlas>

@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="W4_Lives.png">
+	<!-- Created with Adobe Animate version 23.0.2.103 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="life_dead0000" x="5" y="5" width="72" height="94"/>
+	<SubTexture name="life_dead0001" x="5" y="5" width="72" height="94"/>
+	<SubTexture name="life_dead0002" x="5" y="5" width="72" height="94"/>
+	<SubTexture name="life_dead0003" x="5" y="5" width="72" height="94"/>
+	<SubTexture name="life_dead0004" x="5" y="5" width="72" height="94"/>
+	<SubTexture name="life_dead0005" x="5" y="5" width="72" height="94"/>
+	<SubTexture name="life_dead0006" x="5" y="5" width="72" height="94"/>
+	<SubTexture name="life_dead0007" x="5" y="5" width="72" height="94"/>
+	<SubTexture name="life_dead0008" x="5" y="5" width="72" height="94"/>
+	<SubTexture name="life_dead0009" x="5" y="5" width="72" height="94"/>
+	<SubTexture name="life_dead0010" x="5" y="5" width="72" height="94"/>
+	<SubTexture name="life_dead0011" x="5" y="5" width="72" height="94"/>
+	<SubTexture name="life_dead0012" x="5" y="5" width="72" height="94"/>
+	<SubTexture name="life_dead0013" x="5" y="5" width="72" height="94"/>
+	<SubTexture name="life_dead0014" x="5" y="5" width="72" height="94"/>
+	<SubTexture name="life_dead0015" x="5" y="5" width="72" height="94"/>
+	<SubTexture name="life_dead0016" x="5" y="5" width="72" height="94"/>
+	<SubTexture name="life_dead0017" x="5" y="5" width="72" height="94"/>
+	<SubTexture name="life_dead0018" x="5" y="5" width="72" height="94"/>
+	<SubTexture name="life_dead0019" x="5" y="5" width="72" height="94"/>
+	<SubTexture name="life_dead0020" x="5" y="5" width="72" height="94"/>
+	<SubTexture name="life_dead0021" x="5" y="5" width="72" height="94"/>
+	<SubTexture name="life_dead0022" x="5" y="5" width="72" height="94"/>
+	<SubTexture name="life_dead0023" x="5" y="5" width="72" height="94"/>
+	<SubTexture name="life_dead0024" x="5" y="5" width="72" height="94"/>
+	<SubTexture name="life_full0000" x="82" y="5" width="62" height="70"/>
+	<SubTexture name="life_lost0000" x="149" y="5" width="183" height="257"/>
+	<SubTexture name="life_lost0001" x="337" y="5" width="183" height="257"/>
+	<SubTexture name="life_lost0002" x="525" y="5" width="183" height="257"/>
+	<SubTexture name="life_lost0003" x="713" y="5" width="183" height="257"/>
+	<SubTexture name="life_lost0004" x="5" y="267" width="183" height="257"/>
+	<SubTexture name="life_lost0005" x="5" y="267" width="183" height="257"/>
+	<SubTexture name="life_lost0006" x="193" y="267" width="183" height="257"/>
+	<SubTexture name="life_lost0007" x="193" y="267" width="183" height="257"/>
+	<SubTexture name="life_lost0008" x="381" y="267" width="183" height="257"/>
+	<SubTexture name="life_lost0009" x="381" y="267" width="183" height="257"/>
+	<SubTexture name="life_lost0010" x="569" y="267" width="183" height="257"/>
+	<SubTexture name="life_lost0011" x="569" y="267" width="183" height="257"/>
+	<SubTexture name="life_lost0012" x="757" y="267" width="183" height="257"/>
+	<SubTexture name="life_lost0013" x="757" y="267" width="183" height="257"/>
+	<SubTexture name="life_lost0014" x="757" y="267" width="183" height="257"/>
+	<SubTexture name="life_lost0015" x="757" y="267" width="183" height="257"/>
+	<SubTexture name="life_lost0016" x="757" y="267" width="183" height="257"/>
+	<SubTexture name="life_lost0017" x="757" y="267" width="183" height="257"/>
+	<SubTexture name="life_lost0018" x="757" y="267" width="183" height="257"/>
+	<SubTexture name="life_lost0019" x="757" y="267" width="183" height="257"/>
+	<SubTexture name="life_lost0020" x="757" y="267" width="183" height="257"/>
+	<SubTexture name="life_lost0021" x="757" y="267" width="183" height="257"/>
+	<SubTexture name="life_lost0022" x="757" y="267" width="183" height="257"/>
+	<SubTexture name="life_lost0023" x="757" y="267" width="183" height="257"/>
+	<SubTexture name="life_lost0024" x="757" y="267" width="183" height="257"/>
+</TextureAtlas>

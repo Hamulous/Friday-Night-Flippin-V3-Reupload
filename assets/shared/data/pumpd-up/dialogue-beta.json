@@ -1,0 +1,49 @@
+{
+	"dialogue": [
+		{
+			"sound": "pump",
+			"speed": 0.05,
+			"boximage": "pump",
+			"portrait": "pump",
+			"expression": "content",
+			"text": "Well would ya look at that! Seems our performance drew in a few people here.",
+			"textColor": "592111"
+		},
+		{
+			"sound": "beta",
+			"speed": 0.05,
+			"boximage": "beta",
+			"portrait": "beta",
+			"expression": "fake smile",
+			"text": "Greaaaaaat.",
+			"textColor": "663c60"
+		},
+		{
+			"sound": "pump",
+			"speed": 0.05,
+			"boximage": "pump",
+			"portrait": "pump",
+			"expression": "happy",
+			"text": "Well how about we settle it with a finale worth remembering?",
+			"textColor": "592111"
+		},
+		{
+			"sound": "beta",
+			"speed": 0.05,
+			"boximage": "beta",
+			"portrait": "beta",
+			"expression": "shock",
+			"text": "{Finale? Finale as in END?!}",
+			"textColor": "663c60"
+		},
+		{
+			"sound": "beta",
+			"speed": 0.05,
+			"boximage": "beta",
+			"portrait": "beta",
+			"expression": "fierce",
+			"text": "Fuck yeah, lets do it!",
+			"textColor": "663c60"
+		}
+	]
+}

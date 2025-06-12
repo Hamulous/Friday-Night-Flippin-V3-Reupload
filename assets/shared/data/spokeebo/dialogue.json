@@ -1,0 +1,474 @@
+{
+	"dialogue": [
+		{
+			"sound": "lem",
+			"speed": 0.05,
+			"boximage": "lem",
+			"portrait": "lem",
+			"image": "cutscenes/sen/week10001",
+			"expression": "happy",
+			"text": "see! I told you you had nothing to worry about!",
+			"textColor": "7d2222"
+		},
+		{
+			"sound": "lem",
+			"speed": 0.05,
+			"boximage": "lem",
+			"portrait": "lem",
+			"image": "cutscenes/sen/week10001",
+			"expression": "happy",
+			"text": "You're the best singer I've ever heard!",
+			"textColor": "7d2222"
+		},
+		{
+			"sound": "sen",
+			"speed": 0.05,
+			"boximage": "sen",
+			"portrait": "sen",
+			"image": "cutscenes/sen/week10001",
+			"expression": "regret",
+			"text": "I- I am?",
+			"textColor": "C86762"
+		},
+		{
+			"sound": "sen",
+			"speed": 0.05,
+			"boximage": "sen",
+			"portrait": "sen",
+			"image": "cutscenes/sen/week10001",
+			"expression": "normal",
+			"text": "uh I mean-",
+			"textColor": "C86762"
+		},
+		{
+			"sound": "sen",
+			"speed": 0.05,
+			"boximage": "sen",
+			"portrait": "sen",
+			"image": "cutscenes/sen/week10001",
+			"expression": "happy",
+			"text": "Of course I am!",
+			"textColor": "C86762"
+		},
+		{
+			"sound": "sen",
+			"speed": 0.05,
+			"boximage": "sen",
+			"portrait": "sen",
+			"image": "cutscenes/sen/week10001",
+			"expression": "happy",
+			"text": "Only the best for my fair maiden.",
+			"textColor": "C86762"
+		},
+		{
+			"sound": "pump",
+			"speed": 0.05,
+			"boximage": "pump",
+			"portrait": "pump",
+			"image": "cutscenes/sen/week10002",
+			"expression": "normal",
+			"text": "What's this about a maiden?",
+			"textColor": "592111"
+		},
+		{
+			"sound": "lem",
+			"speed": 0.05,
+			"boximage": "lem",
+			"portrait": "lem",
+			"image": "cutscenes/sen/week10002",
+			"expression": "regret",
+			"text": "oh shit-",
+			"textColor": "7d2222"
+		},
+		{
+			"sound": "pump",
+			"speed": 0.05,
+			"boximage": "pump",
+			"portrait": "pump",
+			"image": "cutscenes/sen/week10003",
+			"expression": "shocked",
+			"text": "Lem! There you are!",
+			"textColor": "592111"
+		},
+		{
+			"sound": "pump",
+			"speed": 0.05,
+			"boximage": "pump",
+			"portrait": "pump",
+			"image": "cutscenes/sen/week10003",
+			"expression": "mad",
+			"text": "I've been looking everywhere for ya!",
+			"textColor": "592111"
+		},
+		{
+			"sound": "lem",
+			"speed": 0.05,
+			"boximage": "lem",
+			"portrait": "lem",
+			"image": "cutscenes/sen/week10003",
+			"expression": "sad",
+			"text": "Sorry Pump-",
+			"textColor": "7d2222"
+		},
+		{
+			"sound": "pump",
+			"speed": 0.05,
+			"boximage": "pump",
+			"portrait": "pump",
+			"image": "cutscenes/sen/week10003",
+			"expression": "sigh",
+			"text": "ya really got me worried there lil...",
+			"textColor": "592111"
+		},
+		{
+			"sound": "pump",
+			"speed": 0.05,
+			"boximage": "pump",
+			"portrait": "pump",
+			"image": "cutscenes/sen/week10003",
+			"expression": "content",
+			"text": "sis this time, Right?",
+			"textColor": "592111"
+		},
+		{
+			"sound": "lem",
+			"speed": 0.05,
+			"boximage": "lem",
+			"portrait": "lem",
+			"image": "cutscenes/sen/week10003",
+			"expression": "happy",
+			"text": "yea!",
+			"textColor": "7d2222"
+		},
+		{
+			"sound": "pump",
+			"speed": 0.05,
+			"boximage": "pump",
+			"portrait": "pump",
+			"image": "cutscenes/sen/week10003",
+			"expression": "happy",
+			"text": "ok just making sure.",
+			"textColor": "592111"
+		},
+		{
+			"sound": "pump",
+			"speed": 0.05,
+			"boximage": "pump",
+			"portrait": "pump",
+			"image": "cutscenes/sen/week10003",
+			"expression": "normal",
+			"text": "Now, we should get back home. Skids been waiting and he's getting kinda- ",
+			"textColor": "592111"
+		},
+		{
+			"sound": "pump",
+			"speed": 0.05,
+			"boximage": "pump",
+			"portrait": "pump",
+			"image": "cutscenes/sen/week10003",
+			"expression": "shocked",
+			"text": "!",
+			"textColor": "592111"
+		},
+		{
+			"sound": "pump",
+			"speed": 0.05,
+			"boximage": "pump",
+			"portrait": "pump",
+			"image": "cutscenes/sen/week10003",
+			"expression": "talk",
+			"text": "uh,",
+			"textColor": "592111"
+		},
+		{
+			"sound": "pump",
+			"speed": 0.05,
+			"boximage": "pump",
+			"portrait": "pump",
+			"image": "cutscenes/sen/week10003",
+			"expression": "talk",
+			"text": "excuse me lem but.",
+			"textColor": "592111"
+		},
+		{
+			"sound": "pump",
+			"speed": 0.05,
+			"boximage": "pump",
+			"portrait": "pump",
+			"image": "cutscenes/sen/week10003",
+			"expression": "normal",
+			"text": "Who is that?",
+			"textColor": "592111"
+		},
+		{
+			"sound": "lem",
+			"speed": 0.05,
+			"boximage": "lem",
+			"portrait": "lem",
+			"image": "cutscenes/sen/week10003",
+			"expression": "regret",
+			"text": "OH UH well hes... hes uh. He-",
+			"textColor": "7d2222"
+		},
+		{
+			"sound": "sen",
+			"speed": 0.05,
+			"boximage": "sen",
+			"portrait": "sen",
+			"image": "cutscenes/sen/week10003",
+			"expression": "cat",
+			"text": "Why, I'm this lovely lady's boyfriend, of course!",
+			"textColor": "C86762"
+		},
+		{
+			"sound": "lem",
+			"speed": 0.03,
+			"boximage": "lem",
+			"portrait": "lem",
+			"image": "cutscenes/sen/week10003",
+			"expression": "flustered",
+			"text": "!!!",
+			"textColor": "7d2222"
+		},
+		{
+			"sound": "pump",
+			"speed": 0.05,
+			"boximage": "pump",
+			"portrait": "pump",
+			"image": "cutscenes/sen/week10003",
+			"expression": "shocked",
+			"text": "wh-",
+			"textColor": "592111"
+		},
+		{
+			"sound": "pump",
+			"speed": 0.05,
+			"boximage": "pump",
+			"portrait": "pump",
+			"image": "cutscenes/sen/week10003",
+			"expression": "mad",
+			"text": "boyfriend?!",
+			"textColor": "592111"
+		},
+		{
+			"sound": "sen",
+			"speed": 0.05,
+			"boximage": "sen",
+			"portrait": "sen",
+			"image": "cutscenes/sen/week10003",
+			"expression": "regret",
+			"text": "oh dear was i not supposed to say that out loud-",
+			"textColor": "C86762"
+		},
+		{
+			"sound": "pump",
+			"speed": 0.05,
+			"boximage": "pump",
+			"portrait": "pump",
+			"image": "cutscenes/sen/week10003",
+			"expression": "sigh",
+			"text": "come on sis, i thought you knew better",
+			"textColor": "592111"
+		},
+		{
+			"sound": "pump",
+			"speed": 0.05,
+			"boximage": "pump",
+			"portrait": "pump",
+			"image": "cutscenes/sen/week10003",
+			"expression": "mad",
+			"text": "these pompous little shits will only hurt you, and i'll be damned if i let that happen",
+			"textColor": "592111"
+		},
+		{
+			"sound": "sen",
+			"speed": 0.02,
+			"boximage": "sen",
+			"portrait": "sen",
+			"image": "cutscenes/sen/week10003",
+			"expression": "mad",
+			"text": "HEY!!! I REFUSE TO TAKE THIS SLANDER FROM A-",
+			"textColor": "C86762"
+		},
+		{
+			"sound": "pump",
+			"speed": 0.05,
+			"boximage": "pump",
+			"portrait": "pump",
+			"image": "cutscenes/sen/week10003",
+			"expression": "normal",
+			"text": "can it blondie",
+			"textColor": "592111"
+		},
+		{
+			"sound": "sen",
+			"speed": 0.02,
+			"boximage": "sen",
+			"portrait": "sen",
+			"image": "cutscenes/sen/week10003",
+			"expression": "cat",
+			"text": "Yes sir.",
+			"textColor": "C86762"
+		},
+		{
+			"sound": "pump",
+			"speed": 0.05,
+			"boximage": "pump",
+			"portrait": "pump",
+			"image": "cutscenes/sen/week10003",
+			"expression": "sigh",
+			"text": "Sorry, it's just.",
+			"textColor": "592111"
+		},
+		{
+			"sound": "pump",
+			"speed": 0.05,
+			"boximage": "pump",
+			"portrait": "pump",
+			"image": "cutscenes/sen/week10003",
+			"expression": "normal",
+			"text": "what exactly do you see in him? The boy's like 3 feet tall.",
+			"textColor": "592111"
+		},
+		{
+			"sound": "lem",
+			"speed": 0.05,
+			"boximage": "lem",
+			"portrait": "lem",
+			"image": "cutscenes/sen/week10003",
+			"expression": "sad",
+			"text": "well Sen is very sweet",
+			"textColor": "7d2222"
+		},
+		{
+			"sound": "lem",
+			"speed": 0.05,
+			"boximage": "lem",
+			"portrait": "lem",
+			"image": "cutscenes/sen/week10003",
+			"expression": "sad",
+			"text": "and smart... sometimes.",
+			"textColor": "7d2222"
+		},
+		{
+			"sound": "pump",
+			"speed": 0.05,
+			"boximage": "pump",
+			"portrait": "pump",
+			"image": "cutscenes/sen/week10003",
+			"expression": "normal",
+			"text": "I'm not buying it.",
+			"textColor": "592111"
+		},
+		{
+			"sound": "lem",
+			"speed": 0.05,
+			"boximage": "lem",
+			"portrait": "lem",
+			"image": "cutscenes/sen/week10003",
+			"expression": "sad",
+			"text": "uh..",
+			"textColor": "7d2222"
+		},
+		{
+			"sound": "lem",
+			"speed": 0.05,
+			"boximage": "lem",
+			"portrait": "lem",
+			"image": "cutscenes/sen/week10003",
+			"expression": "happy",
+			"text": "oh! He's an amazing singer too!",
+			"textColor": "7d2222"
+		},
+		{
+			"sound": "sen",
+			"speed": 0.05,
+			"boximage": "sen",
+			"portrait": "sen",
+			"image": "cutscenes/sen/week10003",
+			"expression": "regret",
+			"text": "?!",
+			"textColor": "C86762"
+		},
+		{
+			"sound": "pump",
+			"speed": 0.05,
+			"boximage": "pump",
+			"portrait": "pump",
+			"image": "cutscenes/sen/week10003",
+			"expression": "mad",
+			"text": "hmph yeah right.",
+			"textColor": "592111"
+		},
+		{
+			"sound": "pump",
+			"speed": 0.05,
+			"boximage": "pump",
+			"portrait": "pump",
+			"image": "cutscenes/sen/week10003",
+			"expression": "mad",
+			"text": "i'm gonna have to hear it to believe it",
+			"textColor": "592111"
+		},
+		{
+			"sound": "sen",
+			"speed": 0.05,
+			"boximage": "sen",
+			"portrait": "sen",
+			"image": "cutscenes/sen/week10004",
+			"expression": "normal",
+			"text": "tch, is that a challenge?",
+			"textColor": "C86762"
+		},
+		{
+			"sound": "pump",
+			"speed": 0.05,
+			"boximage": "pump",
+			"portrait": "pump",
+			"image": "cutscenes/sen/week10004",
+			"expression": "normal",
+			"text": "eh I just doubt someone as pampered as you would be up for this.",
+			"textColor": "592111"
+		},
+		{
+			"sound": "sen",
+			"speed": 0.05,
+			"boximage": "sen",
+			"portrait": "sen",
+			"image": "cutscenes/sen/week10004",
+			"expression": "mad",
+			"text": "Oh yeah? I'll make you eat those words!",
+			"textColor": "862C13"
+		},
+		{
+			"sound": "pump",
+			"speed": 0.05,
+			"boximage": "pump",
+			"portrait": "pump",
+			"image": "cutscenes/sen/week10004",
+			"expression": "content",
+			"text": "heh I'd like to see ya try.",
+			"textColor": "592111"
+		},
+		{
+			"sound": "sen",
+			"speed": 0.05,
+			"boximage": "sen",
+			"portrait": "sen",
+			"image": "cutscenes/sen/week10004",
+			"expression": "normal",
+			"text": "you're on, tough guy!",
+			"textColor": "862C13"
+		},
+		{
+			"sound": "pump",
+			"speed": 0.05,
+			"boximage": "pump",
+			"portrait": "pump",
+			"image": "cutscenes/sen/week10004",
+			"expression": "mad",
+			"text": "Ok then boy. show me what you got!",
+			"textColor": "592111"
+		}
+	]
+}

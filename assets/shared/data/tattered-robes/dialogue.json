@@ -1,0 +1,324 @@
+{
+	"dialogue": [
+		{
+			"sound": "sen",
+			"speed": 0.05,
+			"boximage": "sen",
+			"portrait": "sen",
+			"image": "cutscenes/sen-beta/black",
+			"expression": "uhoh",
+			"text": "Huh???",
+			"textColor": "C86762"
+		},
+        {
+			"sound": "sen",
+			"speed": 0.05,
+			"boximage": "sen",
+			"portrait": "sen",
+			"image": "cutscenes/sen-beta/black",
+			"expression": "uhoh",
+			"text": "Whats - what's happening?",
+			"textColor": "C86762"
+		},
+        {
+			"sound": "skid",
+			"speed": 0.05,
+			"boximage": "skid",
+			"portrait": "skid",
+			"image": "cutscenes/sen-beta/black",
+			"expression": "spooky",
+			"text": "boo.",
+			"textColor": "1a414f"
+		},
+        {
+			"sound": "sen",
+			"speed": 0.05,
+			"boximage": "sen",
+			"portrait": "sen",
+			"image": "cutscenes/sen/week40001",
+			"expression": "pissbaby",
+			"text": "AAHH-",
+			"textColor": "C86762"
+		},
+        {
+			"sound": "lem",
+			"speed": 0.05,
+			"boximage": "lem",
+			"portrait": "lem",
+			"image": "cutscenes/sen/week40001",
+			"expression": "bruh",
+			"text": " goddammit.",
+			"textColor": "7d2222"
+		},
+        {
+			"sound": "skid",
+			"speed": 0.05,
+			"boximage": "skid",
+			"portrait": "skid",
+			"image": "cutscenes/sen/week40001",
+			"expression": "laugh",
+			"text": "FWAHAHAHAHAHA YA SHOULD'VE SEEN THE LOOK ON YA FACE",
+			"textColor": "1a414f"
+		},
+        {
+			"sound": "sen",
+			"speed": 0.05,
+			"boximage": "sen",
+			"portrait": "sen",
+			"image": "cutscenes/sen/week40001",
+			"expression": "shivering",
+			"text": "If you're gonna kill me, just make it quick-",
+			"textColor": "C86762"
+		},
+        {
+			"sound": "skid",
+			"speed": 0.05,
+			"boximage": "skid",
+			"portrait": "skid",
+			"image": "cutscenes/sen/week40001",
+			"expression": "laugh pause",
+			"text": "",
+			"textColor": "1a414f"
+		},
+        {
+			"sound": "skid",
+			"speed": 0.05,
+			"boximage": "skid",
+			"portrait": "skid",
+			"image": "cutscenes/sen/week40001",
+			"expression": "chill",
+			"text": " Woah man relax, I'm not gonna actually HURT ya... Yet.",
+			"textColor": "1a414f"
+		},
+        {
+			"sound": "sen",
+			"speed": 0.05,
+			"boximage": "sen",
+			"portrait": "sen",
+			"image": "cutscenes/sen/week40001",
+			"expression": "one eye",
+			"text": "?",
+			"textColor": "C86762"
+		},
+        {
+			"sound": "skid",
+			"speed": 0.05,
+			"boximage": "skid",
+			"portrait": "skid",
+			"image": "cutscenes/sen/week40001",
+			"expression": "shrug",
+			"text": "Honestly man I was just tryna F@#& with ya, have some FUN y'know.",
+			"textColor": "1a414f"
+		},
+        {
+			"sound": "skid",
+			"speed": 0.05,
+			"boximage": "skid",
+			"portrait": "skid",
+			"image": "cutscenes/sen/week40001",
+			"expression": "shrug",
+			"text": "But I guess ya really are BORING after all. Jesus, do ya just GET OFF to being LAME?",
+			"textColor": "1a414f"
+		},
+        {
+			"sound": "lem",
+			"speed": 0.05,
+			"boximage": "lem",
+			"portrait": "lem",
+			"image": "cutscenes/sen/week40001",
+			"expression": "mad",
+			"text": "¡Cállate! Stop being be a fucking dick!",
+			"textColor": "7d2222"
+		},
+        {
+			"sound": "lem",
+			"speed": 0.05,
+			"boximage": "lem",
+			"portrait": "lem",
+			"image": "cutscenes/sen/week40001",
+			"expression": "pissed",
+			"text": "He's not lame...",
+			"textColor": "7d2222"
+		},
+        {
+			"sound": "sen",
+			"speed": 0.05,
+			"boximage": "sen",
+			"portrait": "sen",
+			"image": "cutscenes/sen/week40001",
+			"expression": "headache",
+			"text": "Augh- why does his voice keep doing that?",
+			"textColor": "C86762"
+		},
+        {
+			"sound": "skid",
+			"speed": 0.05,
+			"boximage": "skid",
+			"portrait": "skid",
+			"image": "cutscenes/sen/week40001",
+			"expression": "asshole",
+			"text": "Wellll ya GOTTA BE AS LOUD AS POSSIBLE WHEN YA SCREAMIN FOR A LIVIN HA",
+			"textColor": "1a414f"
+		},
+        {
+			"sound": "skid",
+			"speed": 0.05,
+			"boximage": "skid",
+			"portrait": "skid",
+			"image": "cutscenes/sen/week40001",
+			"expression": "default",
+			"text": "speakin a which,",
+			"textColor": "1a414f"
+		},
+        {
+			"sound": "skid",
+			"speed": 0.05,
+			"boximage": "skid",
+			"portrait": "skid",
+			"image": "cutscenes/sen/week40001",
+			"expression": "default",
+			"text": "heard a LOT about what ya have been DOIN LATELY with YOUR singin' or whatever.",
+			"textColor": "1a414f"
+		},
+        {
+			"sound": "skid",
+			"speed": 0.05,
+			"boximage": "skid",
+			"portrait": "skid",
+			"image": "cutscenes/sen/week40001",
+			"expression": "chill",
+			"text": "Soooo I've been THINKING, why don't we...",
+			"textColor": "1a414f"
+		},
+        {
+			"sound": "sen",
+			"speed": 0.05,
+			"boximage": "sen",
+			"portrait": "sen",
+			"image": "cutscenes/sen/week40001",
+			"expression": "done",
+			"text": "Please don't say I think you're gonna say.",
+			"textColor": "C86762"
+		},
+        {
+			"sound": "skid",
+			"speed": 0.05,
+			"boximage": "skid",
+			"portrait": "skid",
+			"image": "cutscenes/sen/week40001",
+			"expression": "smile",
+			"text": "Have a nice relaxing karaoke session to liven things up",
+			"textColor": "1a414f"
+		},
+        {
+			"sound": "sen",
+			"speed": 0.05,
+			"boximage": "sen",
+			"portrait": "sen",
+			"image": "cutscenes/sen/week40001",
+			"expression": "cat",
+			"text": "Oh Actually that would be nice",
+			"textColor": "C86762"
+		},
+        {
+			"sound": "skid",
+			"speed": 0.05,
+			"boximage": "skid",
+			"portrait": "skid",
+			"image": "cutscenes/sen/week40001",
+			"expression": "asshole",
+			"text": "NAH JUST KIDDING HA!!  SING FOR YOUR LIFE DIPSH!T!",
+			"textColor": "1a414f"
+		},
+        {
+			"sound": "sen",
+			"speed": 0.05,
+			"boximage": "sen",
+			"portrait": "sen",
+			"image": "cutscenes/sen/week40001",
+			"expression": "done",
+			"text": "dammit.",
+			"textColor": "C86762"
+		},
+        {
+			"sound": "sen",
+			"speed": 0.05,
+			"boximage": "sen",
+			"portrait": "sen",
+			"image": "cutscenes/sen/week40001",
+			"expression": "droopy",
+			"text": "Don't really have a choice in this do I?.",
+			"textColor": "C86762"
+		},
+        {
+			"sound": "sen",
+			"speed": 0.05,
+			"boximage": "sen",
+			"portrait": "sen",
+			"image": "cutscenes/sen/week40001",
+			"expression": "normal",
+			"text": "Fine, I'll accept your challenge!",
+			"textColor": "C86762"
+		},
+        {
+			"sound": "skid",
+			"speed": 0.05,
+			"boximage": "skid",
+			"portrait": "skid",
+			"image": "cutscenes/sen/week40001",
+			"expression": "asshole",
+			"text": "ALRIGHT IT'S SETTLED THEN! Can't wait to BEAT ya and see ya CRY",
+			"textColor": "1a414f"
+		},
+        {
+			"sound": "skid",
+			"speed": 0.05,
+			"boximage": "skid",
+			"portrait": "skid",
+			"image": "cutscenes/sen/week40001",
+			"expression": "laugh",
+			"text": "LIKE SOME KINDA KID, HA!",
+			"textColor": "1a414f"
+		},
+        {
+			"sound": "sen",
+			"speed": 0.05,
+			"boximage": "sen",
+			"portrait": "sen",
+			"image": "cutscenes/sen/week40001",
+			"expression": "done",
+			"text": "Says the grown man wearing face paint.",
+			"textColor": "C86762"
+		},
+        {
+			"sound": "skid",
+			"speed": 0.05,
+			"boximage": "skid",
+			"portrait": "skid",
+			"image": "cutscenes/sen/week40001",
+			"expression": "smile",
+			"text": "...",
+			"textColor": "1a414f"
+		},
+        {
+			"sound": "skid",
+			"speed": 0.05,
+			"boximage": "skid",
+			"portrait": "skid",
+			"image": "cutscenes/sen/week40001",
+			"expression": "smile",
+			"text": "62.189.134.124",
+			"textColor": "1a414f"
+		},
+        {
+			"sound": "sen",
+			"speed": 0.05,
+			"boximage": "sen",
+			"portrait": "sen",
+			"image": "cutscenes/sen/week40001",
+			"expression": "done",
+			"text": "?????????",
+			"textColor": "C86762"
+		}
+	]
+}

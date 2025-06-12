@@ -1,0 +1,118 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-32,
+				31
+			],
+			"anim": "danceLeft",
+			"fps": 24,
+			"name": "skid idle dance",
+			"indices": [
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-40,
+				40
+			],
+			"anim": "danceRight",
+			"fps": 24,
+			"name": "skid idle dance",
+			"indices": [
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-185,
+				-195
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "skid sing down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				33,
+				-50
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "skid sing left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-61,
+				48
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "skid sing up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-61,
+				-46
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "skid sing right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-120,
+				-80
+			],
+			"anim": "guitarpull",
+			"fps": 24,
+			"name": "skid_trans",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Skid_Assets_Wind",
+	"position": [
+		-310,
+		-30
+	],
+	"healthicon": "skid",
+	"flip_x": false,
+	"healthbar_colors": [
+		181,
+		180,
+		181
+	],
+	"camera_position": [
+		200,
+		-200
+	],
+	"sing_duration": 4,
+	"scale": 1.1,
+	"_editor_isPlayer": false
+}

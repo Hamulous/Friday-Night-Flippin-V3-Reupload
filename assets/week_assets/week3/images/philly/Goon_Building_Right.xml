@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Goon_Building_Right.png">
+	<!-- Created with Adobe Animate version 20.5.0.29329 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Right_Building_Goon_Gun_Idle0000" x="20" y="20" width="273" height="868" frameX="-2" frameY="0" frameWidth="275" frameHeight="868"/>
+	<SubTexture name="Right_Building_Goon_Gun_Idle0001" x="20" y="20" width="273" height="868" frameX="-2" frameY="0" frameWidth="275" frameHeight="868"/>
+	<SubTexture name="Right_Building_Goon_Gun_Idle0002" x="313" y="20" width="275" height="868"/>
+	<SubTexture name="Right_Building_Goon_Gun_Idle0003" x="313" y="20" width="275" height="868"/>
+	<SubTexture name="Right_Building_Goon_Gun_Idle0004" x="608" y="20" width="268" height="868" frameX="-7" frameY="0" frameWidth="275" frameHeight="868"/>
+	<SubTexture name="Right_Building_Goon_Gun_Idle0005" x="608" y="20" width="268" height="868" frameX="-7" frameY="0" frameWidth="275" frameHeight="868"/>
+	<SubTexture name="Right_Building_Goon_Gun_Idle0006" x="896" y="20" width="267" height="868" frameX="-8" frameY="0" frameWidth="275" frameHeight="868"/>
+	<SubTexture name="Right_Building_Goon_Gun_Idle0007" x="1183" y="20" width="267" height="868" frameX="-8" frameY="0" frameWidth="275" frameHeight="868"/>
+	<SubTexture name="Right_Building_Goon_Gun_Idle0008" x="1183" y="20" width="267" height="868" frameX="-8" frameY="0" frameWidth="275" frameHeight="868"/>
+	<SubTexture name="Right_Building_Goon_Gun_Idle0009" x="1183" y="20" width="267" height="868" frameX="-8" frameY="0" frameWidth="275" frameHeight="868"/>
+	<SubTexture name="Right_Building_Goon_Gun_Idle0010" x="1183" y="20" width="267" height="868" frameX="-8" frameY="0" frameWidth="275" frameHeight="868"/>
+	<SubTexture name="Right_Building_Goon_Gun_Idle0011" x="1183" y="20" width="267" height="868" frameX="-8" frameY="0" frameWidth="275" frameHeight="868"/>
+	<SubTexture name="Right_Building_Goon_Gun_Idle0012" x="1183" y="20" width="267" height="868" frameX="-8" frameY="0" frameWidth="275" frameHeight="868"/>
+	<SubTexture name="Right_Building_Goon_Gun_Idle0013" x="1183" y="20" width="267" height="868" frameX="-8" frameY="0" frameWidth="275" frameHeight="868"/>
+	<SubTexture name="Right_Building_Goon_Idle0000" x="1470" y="20" width="273" height="868"/>
+	<SubTexture name="Right_Building_Goon_Idle0001" x="1470" y="20" width="273" height="868"/>
+	<SubTexture name="Right_Building_Goon_Idle0002" x="1763" y="20" width="263" height="868" frameX="-10" frameY="0" frameWidth="273" frameHeight="868"/>
+	<SubTexture name="Right_Building_Goon_Idle0003" x="1763" y="20" width="263" height="868" frameX="-10" frameY="0" frameWidth="273" frameHeight="868"/>
+	<SubTexture name="Right_Building_Goon_Idle0004" x="2046" y="20" width="261" height="868" frameX="-12" frameY="0" frameWidth="273" frameHeight="868"/>
+	<SubTexture name="Right_Building_Goon_Idle0005" x="2046" y="20" width="261" height="868" frameX="-12" frameY="0" frameWidth="273" frameHeight="868"/>
+	<SubTexture name="Right_Building_Goon_Idle0006" x="2327" y="20" width="262" height="868" frameX="-11" frameY="0" frameWidth="273" frameHeight="868"/>
+	<SubTexture name="Right_Building_Goon_Idle0007" x="2327" y="20" width="262" height="868" frameX="-11" frameY="0" frameWidth="273" frameHeight="868"/>
+	<SubTexture name="Right_Building_Goon_Idle0008" x="2609" y="20" width="263" height="868" frameX="-10" frameY="0" frameWidth="273" frameHeight="868"/>
+	<SubTexture name="Right_Building_Goon_Idle0009" x="2609" y="20" width="263" height="868" frameX="-10" frameY="0" frameWidth="273" frameHeight="868"/>
+	<SubTexture name="Right_Building_Goon_Idle0010" x="2609" y="20" width="263" height="868" frameX="-10" frameY="0" frameWidth="273" frameHeight="868"/>
+	<SubTexture name="Right_Building_Goon_Idle0011" x="2609" y="20" width="263" height="868" frameX="-10" frameY="0" frameWidth="273" frameHeight="868"/>
+	<SubTexture name="Right_Building_Goon_Idle0012" x="2609" y="20" width="263" height="868" frameX="-10" frameY="0" frameWidth="273" frameHeight="868"/>
+	<SubTexture name="Right_Building_Goon_Idle0013" x="2609" y="20" width="263" height="868" frameX="-10" frameY="0" frameWidth="273" frameHeight="868"/>
+	<SubTexture name="Right_Building_Goon_Trans0000" x="2609" y="20" width="263" height="868" frameX="-16" frameY="0" frameWidth="273" frameHeight="868"/>
+	<SubTexture name="Right_Building_Goon_Trans0001" x="2892" y="20" width="267" height="868" frameX="-12" frameY="0" frameWidth="279" frameHeight="868"/>
+	<SubTexture name="Right_Building_Goon_Trans0002" x="2892" y="20" width="267" height="868" frameX="-12" frameY="0" frameWidth="279" frameHeight="868"/>
+	<SubTexture name="Right_Building_Goon_Trans0003" x="3179" y="20" width="271" height="868" frameX="-8" frameY="0" frameWidth="279" frameHeight="868"/>
+	<SubTexture name="Right_Building_Goon_Trans0004" x="3179" y="20" width="271" height="868" frameX="-8" frameY="0" frameWidth="279" frameHeight="868"/>
+	<SubTexture name="Right_Building_Goon_Trans0005" x="3470" y="20" width="279" height="868"/>
+	<SubTexture name="Right_Building_Goon_Trans0006" x="3470" y="20" width="279" height="868"/>
+	<SubTexture name="Right_Building_Goon_Trans0007" x="3769" y="20" width="252" height="868" frameX="-27" frameY="0" frameWidth="279" frameHeight="868"/>
+	<SubTexture name="Right_Building_Goon_Trans0008" x="3769" y="20" width="252" height="868" frameX="-27" frameY="0" frameWidth="279" frameHeight="868"/>
+	<SubTexture name="Right_Building_Goon_Trans0009" x="20" y="908" width="266" height="868" frameX="-13" frameY="0" frameWidth="279" frameHeight="868"/>
+	<SubTexture name="Right_Building_Goon_Trans0010" x="20" y="908" width="266" height="868" frameX="-13" frameY="0" frameWidth="279" frameHeight="868"/>
+	<SubTexture name="Right_Building_Goon_Trans0011" x="306" y="908" width="268" height="868" frameX="-11" frameY="0" frameWidth="279" frameHeight="868"/>
+	<SubTexture name="Right_Building_Goon_Trans0012" x="306" y="908" width="268" height="868" frameX="-11" frameY="0" frameWidth="279" frameHeight="868"/>
+	<SubTexture name="Right_Building_Goon_Trans0013" x="594" y="908" width="268" height="868" frameX="-11" frameY="0" frameWidth="279" frameHeight="868"/>
+	<SubTexture name="Right_Building_Goon_Trans0014" x="594" y="908" width="268" height="868" frameX="-11" frameY="0" frameWidth="279" frameHeight="868"/>
+	<SubTexture name="Right_Building_Goon_Trans0015" x="882" y="908" width="268" height="868" frameX="-11" frameY="0" frameWidth="279" frameHeight="868"/>
+	<SubTexture name="Right_Building_Goon_Trans0016" x="882" y="908" width="268" height="868" frameX="-11" frameY="0" frameWidth="279" frameHeight="868"/>
+	<SubTexture name="Right_Building_Goon_Trans0017" x="882" y="908" width="268" height="868" frameX="-11" frameY="0" frameWidth="279" frameHeight="868"/>
+	<SubTexture name="Right_Building_Goon_Trans0018" x="882" y="908" width="268" height="868" frameX="-11" frameY="0" frameWidth="279" frameHeight="868"/>
+	<SubTexture name="Right_Building_Goon_Trans0019" x="882" y="908" width="268" height="868" frameX="-11" frameY="0" frameWidth="279" frameHeight="868"/>
+	<SubTexture name="Right_Building_Goon_Trans0020" x="882" y="908" width="268" height="868" frameX="-11" frameY="0" frameWidth="279" frameHeight="868"/>
+	<SubTexture name="Right_Building_Goon_Trans0021" x="882" y="908" width="268" height="868" frameX="-11" frameY="0" frameWidth="279" frameHeight="868"/>
+	<SubTexture name="Right_Building_Goon_Trans0022" x="882" y="908" width="268" height="868" frameX="-11" frameY="0" frameWidth="279" frameHeight="868"/>
+	<SubTexture name="Right_Building_Goon_Trans0023" x="882" y="908" width="268" height="868" frameX="-11" frameY="0" frameWidth="279" frameHeight="868"/>
+	<SubTexture name="shoot LEFT0000" x="1170" y="908" width="245" height="868" frameX="-62" frameY="0" frameWidth="307" frameHeight="868"/>
+	<SubTexture name="shoot LEFT0001" x="1435" y="908" width="268" height="868" frameX="-39" frameY="0" frameWidth="307" frameHeight="868"/>
+	<SubTexture name="shoot LEFT0002" x="1723" y="908" width="307" height="868"/>
+	<SubTexture name="shoot LEFT0003" x="2050" y="908" width="250" height="868" frameX="-57" frameY="0" frameWidth="307" frameHeight="868"/>
+	<SubTexture name="shoot LEFT0004" x="2320" y="908" width="280" height="868" frameX="-27" frameY="0" frameWidth="307" frameHeight="868"/>
+	<SubTexture name="shoot LEFT0005" x="2320" y="908" width="280" height="868" frameX="-27" frameY="0" frameWidth="307" frameHeight="868"/>
+	<SubTexture name="shoot LEFT0006" x="2620" y="908" width="267" height="868" frameX="-40" frameY="0" frameWidth="307" frameHeight="868"/>
+	<SubTexture name="shoot LEFT0007" x="2907" y="908" width="266" height="868" frameX="-41" frameY="0" frameWidth="307" frameHeight="868"/>
+	<SubTexture name="shoot LEFT0008" x="2907" y="908" width="266" height="868" frameX="-41" frameY="0" frameWidth="307" frameHeight="868"/>
+	<SubTexture name="shoot LEFT0009" x="2907" y="908" width="266" height="868" frameX="-41" frameY="0" frameWidth="307" frameHeight="868"/>
+	<SubTexture name="shoot LEFT0010" x="2907" y="908" width="266" height="868" frameX="-41" frameY="0" frameWidth="307" frameHeight="868"/>
+	<SubTexture name="shoot LEFT0011" x="2907" y="908" width="266" height="868" frameX="-41" frameY="0" frameWidth="307" frameHeight="868"/>
+	<SubTexture name="shoot LEFT0012" x="2907" y="908" width="266" height="868" frameX="-41" frameY="0" frameWidth="307" frameHeight="868"/>
+	<SubTexture name="shoot LEFT0013" x="2907" y="908" width="266" height="868" frameX="-41" frameY="0" frameWidth="307" frameHeight="868"/>
+	<SubTexture name="shoot LEFT0014" x="2907" y="908" width="266" height="868" frameX="-41" frameY="0" frameWidth="307" frameHeight="868"/>
+</TextureAtlas>

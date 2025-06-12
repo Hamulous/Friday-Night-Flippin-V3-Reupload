@@ -1,0 +1,50 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		190,
+		100
+	],
+	"scale": 1.25,
+	"animations": [
+		{
+			"idle_offsets": [
+				-90,
+				-50
+			],
+			"anim": "default",
+			"loop_offsets": [
+				-90,
+				-50
+			],
+			"idle_name": "sniper default port",
+			"loop_name": "sniper default port"
+		},
+		{
+			"idle_offsets": [
+				-20,
+				-50
+			],
+			"anim": "shove",
+			"loop_offsets": [
+				-20,
+				-50
+			],
+			"idle_name": "sniper shove port",
+			"loop_name": "sniper shove port"
+		},
+		{
+			"idle_offsets": [
+				-10,
+				0
+			],
+			"anim": "trio",
+			"loop_offsets": [
+				-10,
+				0
+			],
+			"idle_name": "goon trio port",
+			"loop_name": "goon trio port"
+		}
+	],
+	"image": "portraits/clan/ports"
+}

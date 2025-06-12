@@ -1,0 +1,149 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-61,
+				48
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Pump Sing Note UP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-71,
+				34
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Pump Sing Note RIGHT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-65,
+				-5
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Pump Sing Note DOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-16,
+				24
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Pump Sing Note LEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				104,
+				52
+			],
+			"anim": "singUP-alt",
+			"fps": 24,
+			"name": "Pump Imp Sing Note UP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-72,
+				35
+			],
+			"anim": "singRIGHT-alt",
+			"fps": 24,
+			"name": "Pump Imp Sing Note RIGH",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				35,
+				-9
+			],
+			"anim": "singDOWN-alt",
+			"fps": 24,
+			"name": "Pump Imp Sing Note DOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				34,
+				12
+			],
+			"anim": "singLEFT-alt",
+			"fps": 24,
+			"name": "Pump Imp Sing Note LEFT",
+			"indices": []
+		},
+		{
+			"offsets": [
+				71,
+				11
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "danceLeft",
+			"indices": [
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7
+			],
+			"name": "Pump idle dance"
+		},
+		{
+			"offsets": [
+				70,
+				10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "danceRight",
+			"indices": [
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14
+			],
+			"name": "Pump idle dance"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/pump_swag_assets",
+	"position": [
+		-50,
+		-90
+	],
+	"healthicon": "pump",
+	"flip_x": false,
+	"healthbar_colors": [
+		210,
+		128,
+		4
+	],
+	"camera_position": [
+		-70,
+		50
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

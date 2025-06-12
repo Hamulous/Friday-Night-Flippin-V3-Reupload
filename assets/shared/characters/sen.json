@@ -1,0 +1,379 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				29,
+				6
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "firstDeath",
+			"indices": [],
+			"name": "BF dies"
+		},
+		{
+			"offsets": [
+				1,
+				-11
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "deathLoop",
+			"indices": [],
+			"name": "BF Dead Loop"
+		},
+		{
+			"offsets": [
+				13,
+				22
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "deathConfirm",
+			"indices": [],
+			"name": "BF Dead confirm"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				34,
+				-12
+			],
+			"anim": "hey",
+			"fps": 12,
+			"name": "BF HEY",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-5,
+				-10
+			],
+			"anim": "scared",
+			"fps": 12,
+			"name": "BF idle shaking",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				100,
+				3
+			],
+			"anim": "singLEFT-alt",
+			"fps": 12,
+			"name": "BF NOTE LEFT ALT0",
+			"indices": [
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				20,
+				-32
+			],
+			"anim": "singDOWN-alt",
+			"fps": 12,
+			"name": "BF NOTE DOWN ALT0",
+			"indices": [
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				25,
+				-5
+			],
+			"anim": "singRIGHT-alt",
+			"fps": 12,
+			"name": "BF NOTE RIGHT ALT0",
+			"indices": [
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14
+			]
+		},
+		{
+			"offsets": [
+				-4,
+				-3
+			],
+			"loop": false,
+			"fps": 20,
+			"anim": "idle-alt",
+			"indices": [],
+			"name": "BF idle dance ALT"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				25,
+				11
+			],
+			"anim": "singLEFTmiss",
+			"fps": 12,
+			"name": "BF NOTE LEFT MISS0",
+			"indices": [
+				1,
+				2,
+				3,
+				4,
+				5
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-4,
+				-16
+			],
+			"anim": "singDOWNmiss",
+			"fps": 12,
+			"name": "BF NOTE DOWN MISS0",
+			"indices": [
+				1,
+				2,
+				3,
+				4,
+				5
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				6,
+				1
+			],
+			"anim": "singUPmiss",
+			"fps": 12,
+			"name": "BF NOTE UP MISS0",
+			"indices": [
+				1,
+				2,
+				3,
+				4,
+				5
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-3,
+				16
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 12,
+			"name": "BF NOTE RIGHT MISS0",
+			"indices": [
+				1,
+				2,
+				3,
+				4,
+				5
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				106,
+				11
+			],
+			"anim": "singLEFTmiss-alt",
+			"fps": 12,
+			"name": "BF NOTE LEFT MISS ALT",
+			"indices": [
+				1,
+				2,
+				3,
+				4,
+				5
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				18,
+				-26
+			],
+			"anim": "singDOWNmiss-alt",
+			"fps": 12,
+			"name": "BF NOTE DOWN MISS ALT",
+			"indices": [
+				1,
+				2,
+				3,
+				4,
+				5
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				41,
+				1
+			],
+			"anim": "singUPmiss-alt",
+			"fps": 12,
+			"name": "BF NOTE UP MISS ALT",
+			"indices": [
+				1,
+				2,
+				3,
+				4,
+				5
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				26,
+				13
+			],
+			"anim": "singRIGHTmiss-alt",
+			"fps": 12,
+			"name": "BF NOTE RIGHT MISS ALT",
+			"indices": []
+		},
+		{
+			"offsets": [
+				28,
+				-2
+			],
+			"loop": false,
+			"fps": 20,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "BF NOTE LEFT0"
+		},
+		{
+			"offsets": [
+				2,
+				-16
+			],
+			"loop": false,
+			"fps": 20,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "BF NOTE DOWN0"
+		},
+		{
+			"offsets": [
+				21,
+				15
+			],
+			"loop": false,
+			"fps": 20,
+			"anim": "singUP",
+			"indices": [],
+			"name": "BF NOTE UP0"
+		},
+		{
+			"offsets": [
+				-10,
+				-4
+			],
+			"loop": false,
+			"fps": 20,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "BF NOTE RIGHT0"
+		},
+		{
+			"offsets": [
+				-3,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "BF idle dance0"
+		},
+		{
+			"offsets": [
+				93,
+				11
+			],
+			"loop": false,
+			"fps": 16,
+			"anim": "singUP-alt",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14
+			],
+			"name": "BF NOTE UP ALT0"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/SENPAI_1",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "sen",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		175,
+		117
+	],
+	"camera_position": [
+		0,
+		-20
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

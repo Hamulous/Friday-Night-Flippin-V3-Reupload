@@ -1,0 +1,95 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-205,
+				85
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Guitar_down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-131,
+				338
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Guitar_up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-131,
+				184
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Guitar_right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-86,
+				264
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Guitar_left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-170,
+				190
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "skid_guitar",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-170,
+				190
+			],
+			"anim": "idle-loop",
+			"fps": 24,
+			"name": "skid_guitar",
+			"indices": [
+				12,
+				13,
+				14,
+				15
+			]
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Skid_Guitar_Assets",
+	"position": [
+		-290,
+		240
+	],
+	"healthicon": "skid",
+	"flip_x": false,
+	"healthbar_colors": [
+		181,
+		180,
+		181
+	],
+	"camera_position": [
+		300,
+		-360
+	],
+	"sing_duration": 4,
+	"scale": 1.1,
+	"_editor_isPlayer": false
+}

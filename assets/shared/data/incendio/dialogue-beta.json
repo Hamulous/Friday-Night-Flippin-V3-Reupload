@@ -1,0 +1,67 @@
+{
+	"dialogue": [
+		{
+			"sound": "beta",
+			"speed": 0.05,
+			"boximage": "beta",
+			"portrait": "beta",
+			"expression": "stim",
+			"text": "Mngnngn I'm sorry but this is so cool!!!",
+			"textColor": "663c60"
+		},
+        {
+			"sound": "beta",
+			"speed": 0.05,
+			"boximage": "beta",
+			"portrait": "beta",
+			"expression": "baby",
+			"text": "I haven't had this much fun... ever!",
+			"textColor": "663c60"
+		},
+        {
+			"sound": "skid",
+			"speed": 0.05,
+			"boximage": "skid",
+			"portrait": "skid",
+			"expression": "asshole",
+			"text": "Heh! that's NOTHING.",
+			"textColor": "1a414f"
+		},
+        {
+			"sound": "skid",
+			"speed": 0.05,
+			"boximage": "skid",
+			"portrait": "skid",
+			"expression": "nudge",
+			"text": "why dont we have some REAL FUN?",
+			"textColor": "1a414f"
+		},
+        {
+			"sound": "lem",
+			"speed": 0.05,
+			"boximage": "lem",
+			"portrait": "lem",
+			"expression": "awkward",
+			"text": "Uh oh.",
+			"textColor": "7d2222"
+		},
+        {
+			"sound": "beta",
+			"speed": 0.05,
+			"boximage": "beta",
+			"portrait": "beta",
+			"expression": "shock",
+			"text": "O-Oh! ok!!!",
+			"textColor": "663c60"
+		},
+        {
+			"sound": "lem",
+			"speed": 0.05,
+			"boximage": "lem",
+			"portrait": "lem",
+			"expression": "regret",
+			"text": "Wait nonono-",
+			"textColor": "7d2222"
+		}
+	]
+}

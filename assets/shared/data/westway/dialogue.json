@@ -1,0 +1,124 @@
+{
+	"dialogue": [
+		{
+			"sound": "sen",
+			"speed": 0.05,
+			"boximage": "sen",
+			"portrait": "sen",
+			"image": "cutscenes/sen/week20005",
+			"expression": "happy",
+			"text": "gotta hand it to you two. you guys got some bars.",
+			"textColor": "C86762"
+		},
+		{
+			"sound": "dearie",
+			"speed": 0.05,
+			"boximage": "dearie",
+			"portrait": "dearie",
+			"image": "cutscenes/sen/week20005",
+			"expression": "crybaby",
+			"text": "...",
+			"textColor": "451a63"
+		},
+		{
+			"sound": "sen",
+			"speed": 0.05,
+			"boximage": "sen",
+			"portrait": "sen",
+			"image": "cutscenes/sen/week20005",
+			"expression": "shocked",
+			"text": "Oh my, are you...",
+			"textColor": "C86762"
+		},
+		{
+			"sound": "sen",
+			"speed": 0.05,
+			"boximage": "sen",
+			"portrait": "sen",
+			"image": "cutscenes/sen/week20005",
+			"expression": "shocked",
+			"text": "crying?",
+			"textColor": "C86762"
+		},
+		{
+			"sound": "dearie",
+			"speed": 0.05,
+			"boximage": "dearie",
+			"portrait": "dearie",
+			"image": "cutscenes/sen/week20005",
+			"expression": "default",
+			"text": "WHAT!! NO! I-",
+			"textColor": "451a63"
+		},
+		{
+			"sound": "dearie",
+			"speed": 0.05,
+			"boximage": "dearie",
+			"portrait": "dearie",
+			"image": "cutscenes/sen/week20005",
+			"expression": "default",
+			"text": "SHUT UP!",
+			"textColor": "451a63"
+		},
+		{
+			"sound": "mearie",
+			"speed": 0.05,
+			"boximage": "mearie",
+			"portrait": "mearie",
+			"image": "cutscenes/sen/week20005",
+			"expression": "pissed",
+			"text": "you made him cry?",
+			"textColor": "a3004c"
+		},
+		{
+			"sound": "mearie",
+			"speed": 0.05,
+			"boximage": "mearie",
+			"portrait": "mearie",
+			"image": "cutscenes/sen/week20005",
+			"expression": "pissed",
+			"text": "...",
+			"textColor": "a3004c"
+		},
+		{
+			"sound": "mearie",
+			"speed": 0.05,
+			"boximage": "mearie",
+			"portrait": "mearie",
+			"image": "cutscenes/sen/week20005",
+			"expression": "pissed",
+			"text": "Cmon dear. Let's show these dorks what we really got.",
+			"textColor": "a3004c"
+		},
+		{
+			"sound": "mearie",
+			"speed": 0.05,
+			"boximage": "mearie",
+			"portrait": "mearie",
+			"image": "cutscenes/sen/week20005",
+			"expression": "malicous",
+			"text": "Just like we practiced",
+			"textColor": "a3004c"
+		},
+		{
+			"sound": "dearie",
+			"speed": 0.05,
+			"boximage": "dearie",
+			"portrait": "dearie",
+			"image": "cutscenes/sen/week20005",
+			"expression": "crybaby",
+			"text": "...",
+			"textColor": "451a63"
+		},
+		{
+			"sound": "dearie",
+			"speed": 0.05,
+			"boximage": "dearie",
+			"portrait": "dearie",
+			"image": "cutscenes/sen/week20005",
+			"expression": "malicous",
+			"text": "ok. ",
+			"textColor": "451a63"
+		}
+	]
+}

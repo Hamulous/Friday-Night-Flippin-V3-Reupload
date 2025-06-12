@@ -1,0 +1,148 @@
+{
+	"dialogue": [
+		{
+			"sound": "skid",
+			"speed": 0.05,
+			"boximage": "skid",
+			"portrait": "skid",
+			"expression": "idea",
+			"text": "ALRIGHT alright! not bad, not bad at all!",
+			"textColor": "1a414f"
+		},
+        {
+			"sound": "skid",
+			"speed": 0.05,
+			"boximage": "skid",
+			"portrait": "skid",
+			"expression": "think",
+			"text": "But I dunno if these 'TYPE a songs are YOUR type",
+			"textColor": "1a414f"
+		},
+        {
+			"sound": "alpha",
+			"speed": 0.05,
+			"boximage": "alpha",
+			"portrait": "alpha",
+			"expression": "confuzzed",
+			"text": "Whatever do you mean?",
+			"textColor": "3b28a8"
+		},
+        {
+			"sound": "skid",
+			"speed": 0.05,
+			"boximage": "skid",
+			"portrait": "skid",
+			"expression": "chill",
+			"text": "Welll you're lookin a little uh FUCKED UP after that and we're barely gettin' STARTED",
+			"textColor": "1a414f"
+		},
+		{
+			"sound": "lem",
+			"speed": 0.05,
+			"boximage": "lem",
+			"portrait": "lem",
+			"expression": "mad",
+			"text": "Well what the hell do you expect?! ",
+			"textColor": "7d2222"
+		},
+		{
+			"sound": "lem",
+			"speed": 0.05,
+			"boximage": "lem",
+			"portrait": "lem",
+			"expression": "mad",
+			"text": "He has wind hitting him at like 70 miles an hour!!",
+			"textColor": "7d2222"
+		},
+		{
+			"sound": "skid",
+			"speed": 0.05,
+			"boximage": "skid",
+			"portrait": "skid",
+			"expression": "confuse",
+			"text": "But YOU'RE handling it just fine?",
+			"textColor": "1a414f"
+		},
+		{
+			"sound": "lem",
+			"speed": 0.05,
+			"boximage": "lem",
+			"portrait": "lem",
+			"expression": "embarassed",
+			"text": "...Oh my god.",
+			"textColor": "7d2222"
+		},
+		{
+			"sound": "skid",
+			"speed": 0.05,
+			"boximage": "skid",
+			"portrait": "skid",
+			"expression": "idea",
+			"text": "Hey I know what'll CHEER you up!",
+			"textColor": "1a414f"
+		},
+		{
+			"sound": "lem",
+			"speed": 0.05,
+			"boximage": "lem",
+			"portrait": "lem",
+			"expression": "questioning",
+			"text": "what-",
+			"textColor": "7d2222"
+		},
+		{
+			"sound": "skid",
+			"speed": 0.05,
+			"boximage": "skid",
+			"portrait": "skid",
+			"expression": "smile",
+			"text": ":D",
+			"textColor": "1a414f"
+		},
+		{
+			"sound": "lem",
+			"speed": 0.05,
+			"boximage": "lem",
+			"portrait": "lem",
+			"expression": "bruh",
+			"text": " no.",
+			"textColor": "7d2222"
+		},
+		{
+			"sound": "skid",
+			"speed": 0.05,
+			"boximage": "skid",
+			"portrait": "skid",
+			"expression": "nudge",
+			"text": "Cmoon,,,",
+			"textColor": "1a414f"
+		},
+		{
+			"sound": "lem",
+			"speed": 0.05,
+			"boximage": "lem",
+			"portrait": "lem",
+			"expression": "mad",
+			"text": " NO.",
+			"textColor": "7d2222"
+		},
+		{
+			"sound": "skid",
+			"speed": 0.05,
+			"boximage": "skid",
+			"portrait": "skid",
+			"expression": "idea",
+			"text": "cmon! you know it's one of your favorites!",
+			"textColor": "1a414f"
+		},
+		{
+			"sound": "lem",
+			"speed": 0.05,
+			"boximage": "lem",
+			"portrait": "lem",
+			"expression": "embarassed",
+			"text": "stop,, stop it i hate it here end it, end it all.",
+			"textColor": "7d2222"
+		}
+	]
+}

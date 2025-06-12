@@ -1,0 +1,121 @@
+{
+	"dialogue": [
+		{
+			"sound": "sen",
+			"speed": 0.05,
+			"boximage": "sen",
+			"portrait": "sen",
+			"expression": "happy",
+			"text": " Woah you sure are good at this! I had no idea you've been practicing this much!",
+			"textColor": "C86762"
+		},
+        {
+			"sound": "cap",
+			"speed": 0.05,
+			"boximage": "cap",
+			"portrait": "cap",
+			"expression": "nuetral",
+			"text": " A lot of us can sing, genius. It's called having a hobby.",
+			"textColor": "573937"
+		},
+        {
+			"sound": "cap",
+			"speed": 0.05,
+			"boximage": "cap",
+			"portrait": "cap",
+			"expression": "nuetral",
+			"text": "If I were you, I'd be more worried about losing than making small talk.",
+			"textColor": "573937"
+		},
+        {
+			"sound": "cap",
+			"speed": 0.05,
+			"boximage": "cap",
+			"portrait": "cap",
+			"expression": "insane",
+			"text": "We're just getting started here. Still two more rounds to go before I'll call it quits. Think you can handle it?",
+			"textColor": "573937"
+		},
+        {
+			"sound": "lem",
+			"speed": 0.05,
+			"boximage": "lem",
+			"portrait": "lem",
+			"expression": "loving",
+			"text": "Sennys one of the best!",
+			"textColor": "7d2222"
+		},
+        {
+			"sound": "lem",
+			"speed": 0.05,
+			"boximage": "lem",
+			"portrait": "lem",
+			"expression": "confident",
+			"text": "He can beat you flesh-bags if all your practice is just basic recreation.",
+			"textColor": "7d2222"
+		},
+        {
+			"sound": "cap",
+			"speed": 0.05,
+			"boximage": "cap",
+			"portrait": "cap",
+			"expression": "default",
+			"text": "Hey candy-head, want me to revoke the challenge?",
+			"textColor": "573937"
+		},
+        {
+			"sound": "lem",
+			"speed": 0.05,
+			"boximage": "lem",
+			"portrait": "lem",
+			"expression": "regret",
+			"text": "Ah- no?",
+			"textColor": "7d2222"
+		},
+        {
+			"sound": "cap",
+			"speed": 0.05,
+			"boximage": "cap",
+			"portrait": "cap",
+			"expression": "nuetral",
+			"text": "Then shut the fuck up.",
+			"textColor": "573937"
+		},
+        {
+			"sound": "sen",
+			"speed": 0.05,
+			"boximage": "sen",
+			"portrait": "sen",
+			"expression": "droopy",
+			"text": "Hey-! Come now, there's no need to be so harsh.",
+			"textColor": "C86762"
+		},
+        {
+			"sound": "cap",
+			"speed": 0.05,
+			"boximage": "cap",
+			"portrait": "cap",
+			"expression": "nuetral",
+			"text": "Whatever. Like I said, two more songs to go so...",
+			"textColor": "573937"
+		},
+        {
+			"sound": "cap",
+			"speed": 0.05,
+			"boximage": "cap",
+			"portrait": "cap",
+			"expression": "insane",
+			"text": "Lets rock, twinkie.",
+			"textColor": "573937"
+		},
+        {
+			"sound": "sen",
+			"speed": 0.05,
+			"boximage": "sen",
+			"portrait": "sen",
+			"expression": "happy",
+			"text": "After you~!",
+			"textColor": "C86762"
+		}
+	]
+}
